@@ -1,17 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@300;400;500&family=Instrument+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap');
 
 :root {
-  --bg: #0d0f14;
-  --bg2: #13161e;
-  --bg3: #1a1e2a;
-  --surface: #1f2435;
-  --border: #2a2f42;
-  --accent: #6ee7c7;
-  --accent2: #a78bfa;
-  --accent3: #f472b6;
-  --text: #e8eaf0;
-  --text-muted: #7c849e;
-  --text-dim: #4a5068;
+  --bg: #1e1f1e;
+  --bg2: #252623;
+  --bg3: #2c2e2a;
+  --surface: #333530;
+  --border: #3e4039;
+  --accent: #8ecfb8;
+  --accent2: #c4a8f0;
+  --accent3: #f0a0b8;
+  --text: #e4e2db;
+  --text-muted: #9e9e8e;
+  --text-dim: #6a6a5a;
   --serif: 'DM Serif Display', Georgia, serif;
   --mono: 'DM Mono', 'Courier New', monospace;
   --sans: 'Instrument Sans', sans-serif;
@@ -57,7 +57,7 @@ nav {
   align-items: center;
   justify-content: space-between;
   padding: 1.1rem 3rem;
-  background: rgba(13,15,20,0.9);
+  background: rgba(30,31,30,0.92);
   backdrop-filter: blur(16px);
   border-bottom: 1px solid var(--border);
 }
@@ -910,7 +910,7 @@ footer {
   position: fixed;
   inset: 0;
   z-index: 200;
-  background: rgba(7,9,14,0.85);
+  background: rgba(10,10,10,0.75);
   backdrop-filter: blur(8px);
   padding: 2rem;
   overflow-y: auto;
@@ -1068,8 +1068,8 @@ footer {
   font-size: 0.68rem;
   padding: 0.3rem 0.75rem;
   border-radius: 2px;
-  background: rgba(110,231,199,0.08);
-  border: 1px solid rgba(110,231,199,0.2);
+  background: rgba(142,207,184,0.08);
+  border: 1px solid rgba(142,207,184,0.2);
   color: var(--accent);
   letter-spacing: 0.04em;
 }
@@ -1162,8 +1162,8 @@ footer {
 /* ══════════════════════════════════════
    NOUVEAUX BADGES
 ══════════════════════════════════════ */
-.badge-ts        { background: rgba(56,189,248,0.1);  color: #38bdf8; }
-.badge-territory { background: rgba(52,211,153,0.1);  color: #34d399; }
+.badge-ts        { background: rgba(142,207,184,0.12);  color: #8ecfb8; }
+.badge-territory { background: rgba(196,168,240,0.12);  color: #c4a8f0; }
 
 /* ══════════════════════════════════════
    IMAGE SUR LES CARTES PROJET

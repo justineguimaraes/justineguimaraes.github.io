@@ -140,7 +140,7 @@ var PROJECTS = {
     badge: "Base de données",
     badgeClass: "badge-ml",
     title: "Modélisation base de données",
-    image: null,
+    image: 'assets/MCD.jpg',
     desc: "Conception et implémentation d'une base de données relationnelle complète : modélisation Merise, création des tables, requêtes complexes et interface PHP de consultation.",
     objectifs: [
       "Réaliser un MCD et MLD avec la méthode Merise",
@@ -170,7 +170,7 @@ var PROJECTS = {
       "Produire des prévisions et calculer les erreurs de prévision"
     ],
     skills: ["Séries temporelles", "Modèle additif", "Prévision", "Analyse de tendance", "Visualisation Excel"],
-    tools: ["Excel", "Buys-Ballot", "Régression linéaire", "Boîtes à moustaches", "FMI Open Data"],
+    tools: ["Excel", "Régression linéaire", "Boîtes à moustaches", "FMI Open Data"],
     code: null,
     rapport: "assets/reports/Rapport_Aluminium.pdf",
     link: null
@@ -186,12 +186,12 @@ var PROJECTS = {
     objectifs: [
       "Animer des ateliers pédagogiques sur l'IA devant un public lycéen",
       "Traiter et visualiser des données de questionnaires ouverts",
-      "Regrouper et catégoriser des réponses textuelles pour les représenter graphiquement",
-      "Produire une analyse critique et des propositions d'amélioration",
+      "Mettre en avant le BUT au travers d'une mini-présentation de la formation",
+      "Produire une analyse critique et des propositions d'amélioration au jeu",
       "Développer la communication orale et la pédagogie"
     ],
-    skills: ["Communication orale", "Analyse de données qualitatives", "Data visualisation", "Pédagogie", "Travail en équipe"],
-    tools: ["Excel", "Power BI", "Questionnaire", "Graphiques statistiques"],
+    skills: ["Communication orale", "Vulgarisation", "Pédagogie", "Travail en équipe"],
+    tools: ["Jeu de cartes Futur of IA"],
     code: null,
     rapport: "assets/reports/Rapport_FuturIA.pdf",
     link: null
@@ -211,7 +211,7 @@ var PROJECTS = {
       "Déployer l'application en ligne (shinyapps.io)"
     ],
     skills: ["R Shiny", "Analyse multivariée", "Visualisation interactive", "Déploiement web"],
-    tools: ["R", "R Shiny", "ggplot2", "shinyapps.io"],
+    tools: ["R", "R Shiny", "ggplot2"],
     code: null,
     rapport: null,
     link: "https://eguena.shinyapps.io/Reporting_analyse_multivariee/"
@@ -232,7 +232,7 @@ var PROJECTS = {
       "Créer des cercles proportionnels (population 15 km) sur l'ex-Poitou-Charentes"
     ],
     skills: ["SIG / QGIS", "Cartographie thématique", "Analyse spatiale", "Zones tampons", "Cercles proportionnels", "Lambert 93"],
-    tools: ["QGIS", "Group Stats", "Données INSEE", "OpenData SNCF / RATP / IDFM", "Lambert 93 (EPSG:2154)"],
+    tools: ["QGIS"],
     code: null,
     rapport: "assets/reports/Rapport_SIG.pdf",
     link: null
