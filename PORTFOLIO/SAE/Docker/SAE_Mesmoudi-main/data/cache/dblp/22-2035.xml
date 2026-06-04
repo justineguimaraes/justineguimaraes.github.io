@@ -1,0 +1,887 @@
+<?xml version="1.0"?>
+<dblpperson name="Pascal Richard" pid="22/2035" n="56">
+<person key="homepages/22/2035" mdate="2009-06-09">
+<author pid="22/2035">Pascal Richard</author>
+</person>
+<r><article key="journals/rts/GarreauRBR25" mdate="2025-05-31">
+<author pid="367/9494">Richard Garreau</author>
+<author orcid="0000-0002-0349-5462" pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Buffer dimensioning per frames in packet networks.</title>
+<pages>159-182</pages>
+<year>2025</year>
+<month>March</month>
+<volume>61</volume>
+<journal>Real Time Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11241-025-09437-9</ee>
+<url>db/journals/rts/rts61.html#GarreauRBR25</url>
+<stream>streams/journals/rts</stream>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/GaspardBRGG25" mdate="2025-11-13">
+<author pid="419/9705">Thomas Gaspard</author>
+<author pid="148/4427">Antoine Bertout</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="74/6780">Jo&#235;l Goossens</author>
+<author pid="48/4475">Emmanuel Grolleau</author>
+<title>An unfair optimal scheduling algorithm for uniform multiprocessors.</title>
+<pages>1-8</pages>
+<year>2025</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA65518.2025.11205723</ee>
+<crossref>conf/etfa/2025</crossref>
+<url>db/conf/etfa/etfa2025.html#GaspardBRGG25</url>
+<stream>streams/conf/etfa</stream>
+</inproceedings>
+</r>
+<r><article key="journals/gandc/SoroLVRM24" mdate="2024-06-30">
+<author pid="379/0320">Paul Joseph Namongo Soro</author>
+<author pid="379/0147">Juliette Lamarche</author>
+<author pid="04/8339">Sophie Viseur</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="379/0076">Fateh Messaadi</author>
+<title>FracAbut: A python toolbox for computing fracture stratigraphy using interface impedance.</title>
+<pages>105656</pages>
+<year>2024</year>
+<volume>190</volume>
+<journal>Comput. Geosci.</journal>
+<ee>https://doi.org/10.1016/j.cageo.2024.105656</ee>
+<url>db/journals/gandc/gandc190.html#SoroLVRM24</url>
+</article>
+</r>
+<r><inproceedings key="conf/rtss/GarreauLGBRR23" mdate="2024-02-12">
+<author pid="367/9494">Richard Garreau</author>
+<author pid="275/2021">Matheus Ladeira</author>
+<author pid="48/4475">Emmanuel Grolleau</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Link Between Real-Time Scheduling and Time-Triggered Networks.</title>
+<pages>397-410</pages>
+<year>2023</year>
+<booktitle>RTSS</booktitle>
+<ee>https://doi.org/10.1109/RTSS59052.2023.00041</ee>
+<crossref>conf/rtss/2023</crossref>
+<url>db/conf/rtss/rtss2023.html#GarreauLGBRR23</url>
+</inproceedings>
+</r>
+<r><article key="journals/rts/ChenNHYBBLRRARN19" mdate="2026-02-19">
+<author orcid="0000-0001-8114-9760" pid="70/1961">Jian-Jia Chen</author>
+<author orcid="0000-0003-4141-6718" pid="62/7802">Geoffrey Nelissen</author>
+<author orcid="0000-0001-9446-4719" pid="201/5576">Wen-Hung Huang 0001</author>
+<author orcid="0000-0002-0941-2437" pid="147/7698">Maolin Yang</author>
+<author orcid="0000-0001-8254-3815" pid="19/2942">Bj&#246;rn B. Brandenburg</author>
+<author orcid="0000-0002-3640-0239" pid="06/2780">Konstantinos Bletsas 0001</author>
+<author pid="95/6404-5">Cong Liu 0005</author>
+<author orcid="0000-0003-0061-1971" pid="22/2035">Pascal Richard</author>
+<author orcid="0000-0002-0349-5462" pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author orcid="0000-0003-3739-6590" pid="06/898">Neil C. Audsley</author>
+<author pid="16/36">Raj Rajkumar</author>
+<author orcid="0000-0002-5560-590X" pid="45/3063">Dionisio de Niz</author>
+<author orcid="0000-0002-8137-3612" pid="166/7057">Georg von der Br&#252;ggen</author>
+<title>Many suspensions, many problems: a review of self-suspending tasks in real-time systems.</title>
+<pages>144-207</pages>
+<year>2019</year>
+<volume>55</volume>
+<journal>Real Time Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s11241-018-9316-9</ee>
+<url>db/journals/rts/rts55.html#ChenNHYBBLRRARN19</url>
+</article>
+</r>
+<r><article key="journals/rts/PhavorinRGMGC18" mdate="2020-10-26">
+<author orcid="0000-0002-1276-9023" pid="170/0467">Guillaume Phavorin</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="74/6780">Jo&#235;l Goossens</author>
+<author pid="64/2083">Claire Maiza</author>
+<author orcid="0000-0002-3247-787X" pid="30/2161-1">Laurent George 0001</author>
+<author pid="160/4641">Thomas Chapeaux</author>
+<title>Online and offline scheduling with cache-related preemption delays.</title>
+<pages>662-699</pages>
+<year>2018</year>
+<volume>54</volume>
+<journal>Real Time Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11241-017-9275-6</ee>
+<url>db/journals/rts/rts54.html#PhavorinRGMGC18</url>
+</article>
+</r>
+<r><article key="journals/tii/BenammarRBR18" mdate="2021-10-14">
+<author orcid="0000-0002-6528-947X" pid="170/0289">Nassima Benammar</author>
+<author orcid="0000-0002-0349-5462" pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Forward End-to-End Delay for AFDX Networks.</title>
+<pages>858-865</pages>
+<year>2018</year>
+<volume>14</volume>
+<journal>IEEE Trans. Ind. Informatics</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TII.2017.2720799</ee>
+<url>db/journals/tii/tii14.html#BenammarRBR18</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/NguyenOGFPR18" mdate="2021-01-12">
+<author pid="186/9739-1">Thanh-Dat Nguyen 0001</author>
+<author pid="36/10271">Yassine Ouhammou</author>
+<author pid="48/4475">Emmanuel Grolleau</author>
+<author pid="33/6672">Julien Forget</author>
+<author pid="83/6391">Claire Pagetti</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Design and analysis of semaphore precedence constraints: A model-based approach for deterministic communications.</title>
+<pages>231-236</pages>
+<year>2018</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2018.8342008</ee>
+<crossref>conf/date/2018</crossref>
+<url>db/conf/date/date2018.html#NguyenOGFPR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtns/BenammarBRR18" mdate="2025-01-19">
+<author orcid="0000-0002-6528-947X" pid="170/0289">Nassima Benammar</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Timing analysis of AVB Ethernet network using the Forward end-to-end Delay Analysis.</title>
+<pages>223-233</pages>
+<year>2018</year>
+<booktitle>RTNS</booktitle>
+<ee>https://doi.org/10.1145/3273905.3273922</ee>
+<ee>https://www.wikidata.org/entity/Q130947247</ee>
+<crossref>conf/rtns/2018</crossref>
+<url>db/conf/rtns/rtns2018.html#BenammarBRR18</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijiids/OuhammouLGBRRR17" mdate="2020-04-16">
+<author pid="36/10271">Yassine Ouhammou</author>
+<author pid="205/4794">Anh-Toan Bui Long</author>
+<author pid="48/4475">Emmanuel Grolleau</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="87/5221">Micha&#235;l Richard</author>
+<title>A model-based process for the modelling and the analysis of avionic architectures.</title>
+<pages>117-144</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Int. J. Intell. Inf. Database Syst.</journal>
+<number>1/2</number>
+<ee>https://doi.org/10.1504/IJIIDS.2017.10007351</ee>
+<url>db/journals/ijiids/ijiids10.html#OuhammouLGBRRR17</url>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/BenammarRBR17" mdate="2021-10-14">
+<author orcid="0000-0002-6528-947X" pid="170/0289">Nassima Benammar</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Forward end-to-end delay analysis extension for FP/FIFO policy in AFDX networks.</title>
+<pages>1-8</pages>
+<year>2017</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2017.8247606</ee>
+<crossref>conf/etfa/2017</crossref>
+<url>db/conf/etfa/etfa2017.html#BenammarRBR17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/RichardGK17" mdate="2018-08-13">
+<author pid="22/2035">Pascal Richard</author>
+<author pid="74/6780">Jo&#235;l Goossens</author>
+<author pid="87/7044">Shinpei Kato</author>
+<title>Comments on &#34;Gang EDF Schedulability Analysis&#34;.</title>
+<year>2017</year>
+<volume>abs/1705.05798</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.05798</ee>
+<url>db/journals/corr/corr1705.html#RichardGK17</url>
+</article>
+</r>
+<r><article key="journals/lites/GoossensR16" mdate="2020-09-10">
+<author pid="74/6780">Jo&#235;l Goossens</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Optimal Scheduling of Periodic Gang Tasks.</title>
+<pages>04:1-04:18</pages>
+<year>2016</year>
+<volume>3</volume>
+<journal>Leibniz Trans. Embed. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.4230/LITES-v003-i001-a004</ee>
+<url>db/journals/lites/lites3.html#GoossensR16</url>
+</article>
+</r>
+<r><article key="journals/sigbed/BenammarBRR16" mdate="2025-01-19">
+<author pid="170/0289">Nassima Benammar</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Tighter buffer dimensioning in AFDX networks.</title>
+<pages>37-42</pages>
+<year>2016</year>
+<volume>13</volume>
+<journal>SIGBED Rev.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3015037.3015043</ee>
+<ee>https://www.wikidata.org/entity/Q130959866</ee>
+<url>db/journals/sigbed/sigbed13.html#BenammarBRR16</url>
+</article>
+</r>
+<r><inproceedings key="conf/iecon/ZazouGCGRB16" mdate="2018-02-26">
+<author pid="193/9068">Abdelkrim Ali Zazou</author>
+<author pid="125/6682">Jean-Paul Gaubert</author>
+<author pid="193/9089">Emilie Chevrier</author>
+<author pid="48/4475">Emmanuel Grolleau</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<title>Distribution network reconfiguration problem for energy loss minimization with variable load.</title>
+<pages>3848-3853</pages>
+<year>2016</year>
+<booktitle>IECON</booktitle>
+<ee>https://doi.org/10.1109/IECON.2016.7793560</ee>
+<crossref>conf/iecon/2016</crossref>
+<url>db/conf/iecon/iecon2016.html#ZazouGCGRB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indin/ZazouGCRGB16" mdate="2017-05-19">
+<author pid="193/9068">Abdelkrim Ali Zazou</author>
+<author pid="48/4475">Emmanuel Grolleau</author>
+<author pid="193/9089">Emilie Chevrier</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="125/6682">Jean-Paul Gaubert</author>
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<title>Power distribution network reconfiguration based on min-cost flow problem.</title>
+<pages>286-291</pages>
+<year>2016</year>
+<booktitle>INDIN</booktitle>
+<ee>https://doi.org/10.1109/INDIN.2016.7819174</ee>
+<crossref>conf/indin/2016</crossref>
+<url>db/conf/indin/indin2016.html#ZazouGCRGB16</url>
+</inproceedings>
+</r>
+<r><article key="journals/tc/NguyenRG15" mdate="2017-05-20">
+<author pid="82/305">Thi Huyen Chau Nguyen</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="48/4475">Emmanuel Grolleau</author>
+<title>An fptas for Response Time Analysis of Fixed Priority Real-Time Tasks with Resource Augmentation.</title>
+<pages>1805-1818</pages>
+<year>2015</year>
+<volume>64</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TC.2014.2346178</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2014.2346178</ee>
+<url>db/journals/tc/tc64.html#NguyenRG15</url>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/KemayoBRBR15" mdate="2021-10-14">
+<author pid="128/0924">Georges Kemayo</author>
+<author orcid="0000-0002-6528-947X" pid="170/0289">Nassima Benammar</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Improving AFDX end-to-end delays analysis.</title>
+<pages>1-8</pages>
+<year>2015</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2015.7301463</ee>
+<crossref>conf/etfa/2015</crossref>
+<url>db/conf/etfa/etfa2015.html#KemayoBRBR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/PhavorinRM15" mdate="2017-05-23">
+<author pid="170/0467">Guillaume Phavorin</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="64/2083">Claire Maiza</author>
+<title>Complexity of scheduling real-time tasks subjected to cache-related preemption delays.</title>
+<pages>1-8</pages>
+<year>2015</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2015.7301519</ee>
+<crossref>conf/etfa/2015</crossref>
+<url>db/conf/etfa/etfa2015.html#PhavorinRM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/medi/OuhammouGR15" mdate="2017-05-19">
+<author pid="36/10271">Yassine Ouhammou</author>
+<author pid="48/4475">Emmanuel Grolleau</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Extension and Utilization of a Design Framework to Model Integrated Modular Avionic Architecture.</title>
+<pages>16-27</pages>
+<year>2015</year>
+<booktitle>MEDI</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-23781-7_2</ee>
+<crossref>conf/medi/2015</crossref>
+<url>db/conf/medi/medi2015.html#OuhammouGR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtns/PhavorinRGCM15" mdate="2018-11-06">
+<author pid="170/0467">Guillaume Phavorin</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="74/6780">Jo&#235;l Goossens</author>
+<author pid="160/4641">Thomas Chapeaux</author>
+<author pid="64/2083">Claire Maiza</author>
+<title>Scheduling with preemption delays: anomalies and issues.</title>
+<pages>109-118</pages>
+<year>2015</year>
+<booktitle>RTNS</booktitle>
+<ee>https://doi.org/10.1145/2834848.2834853</ee>
+<crossref>conf/rtns/2015</crossref>
+<url>db/conf/rtns/rtns2015.html#PhavorinRGCM15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jdwm/KerkadBROG14" mdate="2025-09-06">
+<author orcid="0009-0003-0043-1345" pid="117/7923">Amira Kerkad</author>
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="o/CarlosOrdonez">Carlos Ordonez 0001</author>
+<author pid="82/2372" type="noshow">Dominique Geniet</author>
+<title>A Query Beehive Algorithm for Data Warehouse Buffer Management and Query Scheduling.</title>
+<pages>34-58</pages>
+<year>2014</year>
+<volume>10</volume>
+<journal>Int. J. Data Warehous. Min.</journal>
+<number>3</number>
+<ee>https://doi.org/10.4018/ijdwm.2014070103</ee>
+<url>db/journals/jdwm/ijdwm10.html#KerkadBROG14</url>
+</article>
+</r>
+<r><inproceedings key="conf/csdm/OuhammouGRRM14" mdate="2017-05-24">
+<author pid="36/10271">Yassine Ouhammou</author>
+<author pid="48/4475">Emmanuel Grolleau</author>
+<author pid="87/5221">Micha&#235;l Richard</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="54/613">Fr&#233;d&#233;ric Madiot</author>
+<title>MoSaRT Framework: A Collaborative Tool for Modeling and Analyzing Embedded Real-Time Systems.</title>
+<pages>283-295</pages>
+<year>2014</year>
+<booktitle>CSDM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-11617-4_20</ee>
+<crossref>conf/csdm/2014</crossref>
+<url>db/conf/csdm/csdm2014.html#OuhammouGRRM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtns/KemayoRBR14" mdate="2025-01-19">
+<author pid="128/0924">Georges Kemayo</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>A Forward end-to-end delays Analysis for packet switched networks.</title>
+<pages>65</pages>
+<year>2014</year>
+<booktitle>RTNS</booktitle>
+<ee>https://doi.org/10.1145/2659787.2659801</ee>
+<ee>https://www.wikidata.org/entity/Q130959896</ee>
+<crossref>conf/rtns/2014</crossref>
+<url>db/conf/rtns/rtns2014.html#KemayoRBR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/KemayoRBR13" mdate="2017-05-23">
+<author pid="128/0924">Georges Kemayo</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Optimistic problems in the trajectory approach in FIFO context.</title>
+<pages>1-8</pages>
+<year>2013</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2013.6648054</ee>
+<crossref>conf/etfa/2013</crossref>
+<url>db/conf/etfa/etfa2013.html#KemayoRBR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtns/NguyenTLR13" mdate="2022-03-29">
+<author pid="82/305">Thi Huyen Chau Nguyen</author>
+<author pid="317/1293">Ngoc Son Tran</author>
+<author pid="317/0474">V. Hung Le</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Approximation scheme for real-time tasks under fixed-priority scheduling with deferred preemption.</title>
+<pages>265-274</pages>
+<year>2013</year>
+<booktitle>RTNS</booktitle>
+<ee>https://doi.org/10.1145/2516821.2516831</ee>
+<crossref>conf/rtns/2013</crossref>
+<url>db/conf/rtns/rtns2013.html#NguyenTLR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtns/GoossensR13" mdate="2018-11-06">
+<author pid="74/6780">Jo&#235;l Goossens</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Partitioned scheduling of multimode multiprocessor real-time systems with temporal isolation.</title>
+<pages>297-305</pages>
+<year>2013</year>
+<booktitle>RTNS</booktitle>
+<ee>https://doi.org/10.1145/2516821.2516822</ee>
+<crossref>conf/rtns/2013</crossref>
+<url>db/conf/rtns/rtns2013.html#GoossensR13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/GoossensR13" mdate="2018-08-13">
+<author pid="74/6780">Jo&#235;l Goossens</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Partitioned scheduling of multimode multiprocessor real-time systems with temporal isolation.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1306.1316</ee>
+<volume>abs/1306.1316</volume>
+<url>db/journals/corr/corr1306.html#GoossensR13</url>
+</article>
+</r>
+<r><article key="journals/rts/RahniGRR12" mdate="2020-09-10">
+<author pid="65/7026">Ahmed Rahni</author>
+<author pid="48/4475">Emmanuel Grolleau</author>
+<author pid="87/5221">Micha&#235;l Richard</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Feasibility analysis of real-time transactions.</title>
+<pages>320-358</pages>
+<year>2012</year>
+<volume>48</volume>
+<journal>Real Time Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11241-012-9147-z</ee>
+<url>db/journals/rts/rts48.html#RahniGRR12</url>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/RichardKRGN12" mdate="2017-05-23">
+<author pid="22/2035">Pascal Richard</author>
+<author pid="128/0924">Georges Kemayo</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="48/4475">Emmanuel Grolleau</author>
+<author pid="82/305">Thi Huyen Chau Nguyen</author>
+<title>Response time bounds for static-priority tasks and arbitrary relative deadlines with resource augmentation.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2012.6489567</ee>
+<crossref>conf/etfa/2012</crossref>
+<url>db/conf/etfa/etfa2012.html#RichardKRGN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcc/OuhammouGRR12" mdate="2023-03-24">
+<author pid="36/10271">Yassine Ouhammou</author>
+<author pid="48/4475">Emmanuel Grolleau</author>
+<author pid="87/5221">Micha&#235;l Richard</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Model Driven Timing Analysis for Real-Time Systems.</title>
+<pages>1458-1465</pages>
+<year>2012</year>
+<booktitle>HPCC-ICESS</booktitle>
+<ee>https://doi.org/10.1109/HPCC.2012.213</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HPCC.2012.213</ee>
+<crossref>conf/hpcc/2012</crossref>
+<url>db/conf/hpcc/hpcc2012.html#OuhammouGRR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtns/OuhammouGRR12" mdate="2018-11-06">
+<author pid="36/10271">Yassine Ouhammou</author>
+<author pid="48/4475">Emmanuel Grolleau</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="87/5221">Micha&#235;l Richard</author>
+<title>Reducing the gap between design and scheduling.</title>
+<pages>21-30</pages>
+<year>2012</year>
+<booktitle>RTNS</booktitle>
+<ee>https://doi.org/10.1145/2392987.2392990</ee>
+<crossref>conf/rtns/2012</crossref>
+<url>db/conf/rtns/rtns2012.html#OuhammouGRR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtns/GoossensRLLR12" mdate="2018-11-06">
+<author pid="74/6780">Jo&#235;l Goossens</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="33/9672">Markus Lindstr&#246;m</author>
+<author pid="48/8036">Irina Iulia Lupu</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<title>Job partitioning strategies for multiprocessor scheduling of real-time periodic tasks with restricted migrations.</title>
+<pages>141-150</pages>
+<year>2012</year>
+<booktitle>RTNS</booktitle>
+<ee>https://doi.org/10.1145/2392987.2393005</ee>
+<crossref>conf/rtns/2012</crossref>
+<url>db/conf/rtns/rtns2012.html#GoossensRLLR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/ForgetGPR11" mdate="2017-06-15">
+<author orcid="0000-0002-1669-8971" pid="33/6672">Julien Forget</author>
+<author pid="48/4475">Emmanuel Grolleau</author>
+<author pid="83/6391">Claire Pagetti</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Dynamic priority scheduling of periodic tasks with extended precedences.</title>
+<pages>1-8</pages>
+<year>2011</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2011.6059015</ee>
+<crossref>conf/etfa/2011</crossref>
+<url>db/conf/etfa/etfa2011.html#ForgetGPR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/medi/OuhammouGRR11" mdate="2017-05-19">
+<author pid="36/10271">Yassine Ouhammou</author>
+<author pid="48/4475">Emmanuel Grolleau</author>
+<author pid="87/5221">Micha&#235;l Richard</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Towards a Simple Meta-model for Complex Real-Time and Embedded Systems.</title>
+<pages>226-236</pages>
+<year>2011</year>
+<booktitle>MEDI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-24443-8_24</ee>
+<crossref>conf/medi/2011</crossref>
+<url>db/conf/medi/medi2011.html#OuhammouGRR11</url>
+</inproceedings>
+</r>
+<r><incollection key="books/daglib/p/BellatrecheBR11" mdate="2019-09-16">
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<author orcid="0000-0002-9746-579X" pid="36/333">Kamel Boukhalfa</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Primary and Referential Horizontal Partitioning Selection Problems: Concepts, Algorithms and Advisor Tool.</title>
+<pages>258-286</pages>
+<year>2011</year>
+<booktitle>Integrations of Data Warehousing, Data Mining and Database Technologies</booktitle>
+<ee>https://doi.org/10.4018/978-1-60960-537-7.ch011</ee>
+<crossref>books/daglib/0026676</crossref>
+<url>db/books/daglib/0026676.html#BellatrecheBR11</url>
+</incollection>
+</r>
+<r><article key="journals/rts/DorinRRG10" mdate="2020-09-10">
+<author pid="47/8262">Fran&#231;ois Dorin</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="87/5221">Micha&#235;l Richard</author>
+<author pid="74/6780">Jo&#235;l Goossens</author>
+<title>Schedulability and sensitivity analysis of multiple criticality tasks with fixed-priorities.</title>
+<pages>305-331</pages>
+<year>2010</year>
+<volume>46</volume>
+<journal>Real Time Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11241-010-9107-4</ee>
+<url>db/journals/rts/rts46.html#DorinRRG10</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1006-2637" mdate="2018-08-13">
+<author pid="47/8262">Fran&#231;ois Dorin</author>
+<author pid="68/2193">Patrick Meumeu Yomsi</author>
+<author pid="74/6780">Jo&#235;l Goossens</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Semi-Partitioned Hard Real-Time Scheduling with Restricted Migrations upon Identical Multiprocessor Platforms</title>
+<ee type="oa">http://arxiv.org/abs/1006.2637</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1006.2637</volume>
+<url>db/journals/corr/corr1006.html#abs-1006-2637</url>
+</article>
+</r>
+<r><article key="journals/jdwm/BellatrecheBRW09" mdate="2022-04-09">
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<author orcid="0000-0002-9746-579X" pid="36/333">Kamel Boukhalfa</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="27/7537">Komla Yamavo Woameno</author>
+<title>Referential Horizontal Partitioning Selection Problem in Data Warehouses: Hardness Study and Selection Algorithms.</title>
+<pages>1-23</pages>
+<year>2009</year>
+<volume>5</volume>
+<journal>Int. J. Data Warehous. Min.</journal>
+<number>4</number>
+<ee>https://doi.org/10.4018/jdwm.2009080701</ee>
+<url>db/journals/jdwm/ijdwm5.html#BellatrecheBRW09</url>
+</article>
+</r>
+<r><article key="journals/rts/NguyenRB09" mdate="2020-09-10">
+<author pid="82/305">Thi Huyen Chau Nguyen</author>
+<author pid="22/2035">Pascal Richard</author>
+<author orcid="0000-0001-9205-584X" pid="84/2278">Enrico Bini</author>
+<title>Approximation techniques for response-time analysis of static-priority tasks.</title>
+<pages>147-176</pages>
+<year>2009</year>
+<volume>43</volume>
+<journal>Real Time Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11241-009-9078-5</ee>
+<url>db/journals/rts/rts43.html#NguyenRB09</url>
+</article>
+</r>
+<r><article key="journals/tc/BiniNRB09" mdate="2017-06-08">
+<author orcid="0000-0001-9205-584X" pid="84/2278">Enrico Bini</author>
+<author pid="82/305">Thi Huyen Chau Nguyen</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="b/SKBaruah">Sanjoy K. Baruah</author>
+<title>A Response-Time Bound in Fixed-Priority Scheduling with Arbitrary Deadlines.</title>
+<pages>279-286</pages>
+<year>2009</year>
+<volume>58</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TC.2008.167</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2008.167</ee>
+<url>db/journals/tc/tc58.html#BiniNRB09</url>
+</article>
+</r>
+<r><article key="journals/eor/RidouardRM08" mdate="2020-02-21">
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="10/1698">Patrick Martineau</author>
+<title>On-line scheduling on a batch processing machine with unbounded batch size to minimize the makespan.</title>
+<pages>1327-1342</pages>
+<year>2008</year>
+<volume>189</volume>
+<journal>Eur. J. Oper. Res.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.ejor.2006.06.080</ee>
+<url>db/journals/eor/eor189.html#RidouardRM08</url>
+</article>
+</r>
+<r><inproceedings key="conf/dawak/BellatrecheBR08" mdate="2022-04-09">
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<author orcid="0000-0002-9746-579X" pid="36/333">Kamel Boukhalfa</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Data Partitioning in Data Warehouses: Hardness Study, Heuristics and ORACLE Validation.</title>
+<pages>87-96</pages>
+<year>2008</year>
+<booktitle>DaWaK</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85836-2_9</ee>
+<crossref>conf/dawak/2008</crossref>
+<url>db/conf/dawak/dawak2008.html#BellatrecheBR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eda/BoukhalfaBR08" mdate="2014-04-24">
+<author pid="36/333">Kamel Boukhalfa</author>
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Fragmentations Primaire et D&#233;riv&#233;e : Etude de Complexit&#233;, Algorithmes de S&#233;lection et Validation sous Oracle 10g.</title>
+<pages>123-139</pages>
+<year>2008</year>
+<booktitle>EDA</booktitle>
+<crossref>conf/eda/2008</crossref>
+<url>db/conf/eda/eda2008.html#BoukhalfaBR08</url>
+<ee>http://editions-rnti.fr/?inprocid=1000698</ee>
+</inproceedings>
+</r>
+<r><article key="journals/ited/LewRR07" mdate="2020-10-08">
+<author pid="63/2060">Art Lew</author>
+<author pid="25/2456">John F. Raffensperger</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Letter by Art Lew, Response by Raffensperger et al.</title>
+<pages>185-187</pages>
+<year>2007</year>
+<volume>7</volume>
+<journal>INFORMS Trans. Educ.</journal>
+<number>3</number>
+<url>db/journals/ited/ited7.html#LewRR07</url>
+</article>
+</r>
+<r><inproceedings key="conf/rtcsa/FisherNGR07" mdate="2023-03-23">
+<author pid="11/5001">Nathan Fisher</author>
+<author pid="82/305">Thi Huyen Chau Nguyen</author>
+<author pid="74/6780">Jo&#235;l Goossens</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Parametric Polynomial-Time Algorithms for Computing Response-Time Bounds for Static-Priority Tasks with Release Jitters.</title>
+<pages>377-385</pages>
+<year>2007</year>
+<crossref>conf/rtcsa/2007</crossref>
+<booktitle>RTCSA</booktitle>
+<ee>https://doi.org/10.1109/RTCSA.2007.54</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RTCSA.2007.54</ee>
+<url>db/conf/rtcsa/rtcsa2007.html#FisherNGR07</url>
+</inproceedings>
+</r>
+<r><article key="journals/jec/RidouardRCT06" mdate="2020-08-07">
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="55/929">Francis Cottet</author>
+<author pid="61/1963">Karim Traore</author>
+<title>Some results on scheduling tasks with self-suspensions.</title>
+<pages>301-312</pages>
+<year>2006</year>
+<volume>2</volume>
+<journal>J. Embed. Comput.</journal>
+<number>3-4</number>
+<ee>http://content.iospress.com/articles/journal-of-embedded-computing/jec00069</ee>
+<url>db/journals/jec/jec2.html#RidouardRCT06</url>
+</article>
+</r>
+<r><article key="journals/tsi/GoossensR05" mdate="2020-06-24">
+<author pid="74/6780">Jo&#235;l Goossens</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Optimisation de performance pour des syst&#232;mes temps r&#233;el stricts &#224; priorit&#233; fixe.</title>
+<pages>991-1011</pages>
+<year>2005</year>
+<volume>24</volume>
+<journal>Tech. Sci. Informatiques</journal>
+<number>8</number>
+<ee>https://doi.org/10.3166/tsi.24.991-1011</ee>
+<url>db/journals/tsi/tsi24.html#GoossensR05</url>
+</article>
+</r>
+<r><inproceedings key="conf/rtss/RidouardRC04" mdate="2023-03-24">
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="55/929">Francis Cottet</author>
+<title>Negative Results for Scheduling Independent Hard Real-Time Tasks with Self-Suspensions.</title>
+<pages>47-56</pages>
+<year>2004</year>
+<crossref>conf/rtss/2004</crossref>
+<booktitle>RTSS</booktitle>
+<ee>https://doi.org/10.1109/REAL.2004.35</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/REAL.2004.35</ee>
+<url>db/conf/rtss/rtss2004.html#RidouardRC04</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsi/RichardR03" mdate="2020-06-24">
+<author pid="87/5221">Micha&#235;l Richard</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>M&#233;thode de placement et d'affectation des priorit&#233;s pour les syst&#232;mes temps r&#233;el distribu&#233;s.</title>
+<pages>571-595</pages>
+<year>2003</year>
+<volume>22</volume>
+<journal>Tech. Sci. Informatiques</journal>
+<number>5</number>
+<ee>https://doi.org/10.3166/tsi.22.571-595</ee>
+<url>db/journals/tsi/tsi22.html#RichardR03</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecrts/Richard03" mdate="2023-03-23">
+<author pid="22/2035">Pascal Richard</author>
+<title>On the Complexity of Scheduling Real-Time Tasks with Self-Suspensions on One Processor.</title>
+<pages>187-194</pages>
+<year>2003</year>
+<crossref>conf/ecrts/2003</crossref>
+<booktitle>ECRTS</booktitle>
+<ee>https://doi.org/10.1109/EMRTS.2003.1212743</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/EMRTS.2003.1212743</ee>
+<url>db/conf/ecrts/ecrts2003.html#Richard03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/RichardRC03" mdate="2017-05-23">
+<author pid="87/5221">Micha&#235;l Richard</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="55/929">Francis Cottet</author>
+<title>Allocating and scheduling tasks in multiple fieldbus real-time systems.</title>
+<pages>137-144</pages>
+<year>2003</year>
+<booktitle>ETFA (1)</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2003.1247699</ee>
+<crossref>conf/etfa/2003-1</crossref>
+<url>db/conf/etfa/etfa2003-1.html#RichardRC03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cpe/Richard02" mdate="2017-05-21">
+<author pid="22/2035">Pascal Richard</author>
+<title>A Tool for Controlling Response Time in Real-Time Systems.</title>
+<pages>339-348</pages>
+<year>2002</year>
+<crossref>conf/cpe/2002</crossref>
+<booktitle>Computer Performance Evaluation / TOOLS</booktitle>
+<ee>https://doi.org/10.1007/3-540-46029-2_25</ee>
+<url>db/conf/cpe/cpe2002.html#Richard02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceccs/RichardCR01" mdate="2023-03-24">
+<author pid="22/2035">Pascal Richard</author>
+<author pid="55/929">Francis Cottet</author>
+<author pid="87/5221">Micha&#235;l Richard</author>
+<title>On-line Scheduling of Real-Time Distributed Computers With Complex Communication Constraints.</title>
+<pages>26-34</pages>
+<year>2001</year>
+<crossref>conf/iceccs/2001</crossref>
+<booktitle>ICECCS</booktitle>
+<ee>https://doi.org/10.1109/ICECCS.2001.930161</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICECCS.2001.930161</ee>
+<url>db/conf/iceccs/iceccs2001.html#RichardCR01</url>
+</inproceedings>
+</r>
+<r><article key="journals/rairo/Richard00" mdate="2020-09-02">
+<author pid="22/2035">Pascal Richard</author>
+<title>Modelling integer linear programs with petri nets.</title>
+<pages>305-312</pages>
+<year>2000</year>
+<volume>34</volume>
+<journal>RAIRO Oper. Res.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1051/ro:2000115</ee>
+<url>db/journals/rairo/rairo34.html#Richard00</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/AlinatGHPR87" mdate="2020-09-11">
+<author pid="92/9319">Pierre Alinat</author>
+<author pid="273/8383">Evelyne Gallais</author>
+<author pid="72/6478">Jean-Paul Haton</author>
+<author pid="40/4044">Jean-Marie Pierrel</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>A continuous speech dialog system for the oral control of a sonar console.</title>
+<pages>368-371</pages>
+<year>1987</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.1987.1169663</ee>
+<crossref>conf/icassp/1987</crossref>
+<url>db/conf/icassp/icassp1987.html#AlinatGHPR87</url>
+</inproceedings>
+</r>
+<coauthors n="66" nc="4">
+<co c="1"><na f="a/Alinat:Pierre" pid="92/9319">Pierre Alinat</na></co>
+<co c="0"><na f="a/Audsley:Neil_C=" pid="06/898">Neil C. Audsley</na></co>
+<co c="0" n="2"><na f="b/Baruah:Sanjoy" pid="b/SKBaruah">Sanjoy Baruah</na><na>Sanjoy K. Baruah</na></co>
+<co c="0"><na f="b/Bauer:Henri" pid="44/8188">Henri Bauer</na></co>
+<co c="0"><na f="b/Bellatreche:Ladjel" pid="b/LadjelBellatreche">Ladjel Bellatreche</na></co>
+<co c="0"><na f="b/Benammar:Nassima" pid="170/0289">Nassima Benammar</na></co>
+<co c="0"><na f="b/Bertout:Antoine" pid="148/4427">Antoine Bertout</na></co>
+<co c="0"><na f="b/Bini:Enrico" pid="84/2278">Enrico Bini</na></co>
+<co c="0"><na f="b/Bletsas_0001:Konstantinos" pid="06/2780">Konstantinos Bletsas 0001</na></co>
+<co c="0"><na f="b/Boukhalfa:Kamel" pid="36/333">Kamel Boukhalfa</na></co>
+<co c="0"><na f="b/Brandenburg:Bj=ouml=rn_B=" pid="19/2942">Bj&#246;rn B. Brandenburg</na></co>
+<co c="0"><na f="b/Br=uuml=ggen:Georg_von_der" pid="166/7057">Georg von der Br&#252;ggen</na></co>
+<co c="0"><na f="c/Chapeaux:Thomas" pid="160/4641">Thomas Chapeaux</na></co>
+<co c="0"><na f="c/Chen:Jian=Jia" pid="70/1961">Jian-Jia Chen</na></co>
+<co c="0"><na f="c/Chevrier:Emilie" pid="193/9089">Emilie Chevrier</na></co>
+<co c="0"><na f="c/Cottet:Francis" pid="55/929">Francis Cottet</na></co>
+<co c="0"><na f="d/Dorin:Fran=ccedil=ois" pid="47/8262">Fran&#231;ois Dorin</na></co>
+<co c="0"><na f="f/Fisher:Nathan" pid="11/5001">Nathan Fisher</na></co>
+<co c="0"><na f="f/Forget:Julien" pid="33/6672">Julien Forget</na></co>
+<co c="1"><na f="g/Gallais:Evelyne" pid="273/8383">Evelyne Gallais</na></co>
+<co c="0"><na f="g/Garreau:Richard" pid="367/9494">Richard Garreau</na></co>
+<co c="0"><na f="g/Gaspard:Thomas" pid="419/9705">Thomas Gaspard</na></co>
+<co c="0"><na f="g/Gaubert:Jean=Paul" pid="125/6682">Jean-Paul Gaubert</na></co>
+<co c="0"><na f="g/Geniet:Dominique" pid="82/2372" type="noshow">Dominique Geniet</na></co>
+<co c="0"><na f="g/George_0001:Laurent" pid="30/2161-1">Laurent George 0001</na></co>
+<co c="0"><na f="g/Goossens:Jo=euml=l" pid="74/6780">Jo&#235;l Goossens</na></co>
+<co c="0"><na f="g/Grolleau:Emmanuel" pid="48/4475">Emmanuel Grolleau</na></co>
+<co c="1" n="2"><na f="h/Haton:Jean_Paul" pid="72/6478">Jean Paul Haton</na><na>Jean-Paul Haton</na></co>
+<co c="0" n="2"><na f="h/Huang:Wen=Hung_Kevin" pid="201/5576">Wen-Hung Kevin Huang</na><na>Wen-Hung Huang 0001</na></co>
+<co c="0"><na f="k/Kato:Shinpei" pid="87/7044">Shinpei Kato</na></co>
+<co c="0"><na f="k/Kemayo:Georges" pid="128/0924">Georges Kemayo</na></co>
+<co c="0"><na f="k/Kerkad:Amira" pid="117/7923">Amira Kerkad</na></co>
+<co c="0"><na f="l/Ladeira:Matheus" pid="275/2021">Matheus Ladeira</na></co>
+<co c="2"><na f="l/Lamarche:Juliette" pid="379/0147">Juliette Lamarche</na></co>
+<co c="0"><na f="l/Le:V=_Hung" pid="317/0474">V. Hung Le</na></co>
+<co c="3"><na f="l/Lew:Art" pid="63/2060">Art Lew</na></co>
+<co c="0"><na f="l/Lindstr=ouml=m:Markus" pid="33/9672">Markus Lindstr&#246;m</na></co>
+<co c="0"><na f="l/Liu_0005:Cong" pid="95/6404-5">Cong Liu 0005</na></co>
+<co c="0"><na f="l/Long:Anh=Toan_Bui" pid="205/4794">Anh-Toan Bui Long</na></co>
+<co c="0"><na f="l/Lupu:Irina_Iulia" pid="48/8036">Irina Iulia Lupu</na></co>
+<co c="0"><na f="m/Madiot:Fr=eacute=d=eacute=ric" pid="54/613">Fr&#233;d&#233;ric Madiot</na></co>
+<co c="0" n="2"><na f="m/Ma=iuml=za:Claire" pid="64/2083">Claire Ma&#239;za</na><na>Claire Maiza</na></co>
+<co c="0"><na f="m/Martineau:Patrick" pid="10/1698">Patrick Martineau</na></co>
+<co c="2"><na f="m/Messaadi:Fateh" pid="379/0076">Fateh Messaadi</na></co>
+<co c="0"><na f="n/Nelissen:Geoffrey" pid="62/7802">Geoffrey Nelissen</na></co>
+<co c="0"><na f="n/Nguyen_0001:Thanh=Dat" pid="186/9739-1">Thanh-Dat Nguyen 0001</na></co>
+<co c="0"><na f="n/Nguyen:Thi_Huyen_Chau" pid="82/305">Thi Huyen Chau Nguyen</na></co>
+<co c="0"><na f="n/Niz:Dionisio_de" pid="45/3063">Dionisio de Niz</na></co>
+<co c="0"><na f="o/Ordonez_0001:Carlos" pid="o/CarlosOrdonez">Carlos Ordonez 0001</na></co>
+<co c="0"><na f="o/Ouhammou:Yassine" pid="36/10271">Yassine Ouhammou</na></co>
+<co c="0"><na f="p/Pagetti:Claire" pid="83/6391">Claire Pagetti</na></co>
+<co c="0"><na f="p/Phavorin:Guillaume" pid="170/0467">Guillaume Phavorin</na></co>
+<co c="1"><na f="p/Pierrel:Jean=Marie" pid="40/4044">Jean-Marie Pierrel</na></co>
+<co c="3"><na f="r/Raffensperger:John_F=" pid="25/2456">John F. Raffensperger</na></co>
+<co c="0"><na f="r/Rahni:Ahmed" pid="65/7026">Ahmed Rahni</na></co>
+<co c="0" n="2"><na f="r/Rajkumar:Ragunathan" pid="16/36">Ragunathan Rajkumar</na><na>Raj Rajkumar</na></co>
+<co c="0"><na f="r/Richard:Micha=euml=l" pid="87/5221">Micha&#235;l Richard</na></co>
+<co c="0"><na f="r/Ridouard:Fr=eacute=d=eacute=ric" pid="05/2077">Fr&#233;d&#233;ric Ridouard</na></co>
+<co c="2"><na f="s/Soro:Paul_Joseph_Namongo" pid="379/0320">Paul Joseph Namongo Soro</na></co>
+<co c="0"><na f="t/Tran:Ngoc_Son" pid="317/1293">Ngoc Son Tran</na></co>
+<co c="0"><na f="t/Traore:Karim" pid="61/1963">Karim Traore</na></co>
+<co c="2"><na f="v/Viseur:Sophie" pid="04/8339">Sophie Viseur</na></co>
+<co c="0"><na f="w/Woameno:Komla_Yamavo" pid="27/7537">Komla Yamavo Woameno</na></co>
+<co c="0"><na f="y/Yang:Maolin" pid="147/7698">Maolin Yang</na></co>
+<co c="0"><na f="y/Yomsi:Patrick_Meumeu" pid="68/2193">Patrick Meumeu Yomsi</na></co>
+<co c="0"><na f="z/Zazou:Abdelkrim_Ali" pid="193/9068">Abdelkrim Ali Zazou</na></co>
+</coauthors>
+</dblpperson>
+

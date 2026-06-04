@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<dblpperson name="David Marcheix" pid="47/6779" n="8">
+<person key="homepages/47/6779" mdate="2009-06-10">
+<author pid="47/6779">David Marcheix</author>
+</person>
+<r><inproceedings key="conf/smi/Baba-aliMS09" mdate="2017-05-21">
+<author pid="49/3785">Mehdi Baba-ali</author>
+<author pid="47/6779">David Marcheix</author>
+<author pid="41/2390">Xavier Skapin</author>
+<title>An edge matching technique for non-planar face intersections in geometric parametric models.</title>
+<pages>201-208</pages>
+<year>2009</year>
+<booktitle>Shape Modeling International</booktitle>
+<ee>https://doi.org/10.1109/SMI.2009.5170149</ee>
+<crossref>conf/smi/2009</crossref>
+<url>db/conf/smi/smi2009.html#Baba-aliMS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dgci/Baba-aliDSM08" mdate="2020-06-15">
+<author pid="49/3785">Mehdi Baba-ali</author>
+<author orcid="0000-0003-1580-5517" pid="14/5261">Guillaume Damiand</author>
+<author pid="41/2390">Xavier Skapin</author>
+<author pid="47/6779">David Marcheix</author>
+<title>Insertion and Expansion Operations for .</title>
+<pages>141-152</pages>
+<year>2008</year>
+<booktitle>DGCI</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-79126-3_14</ee>
+<crossref>conf/dgci/2008</crossref>
+<url>db/conf/dgci/dgci2008.html#Baba-aliDSM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/afrigraph/Baba-aliMSB07" mdate="2018-11-06">
+<author pid="49/3785">Mehdi Baba-ali</author>
+<author pid="47/6779">David Marcheix</author>
+<author pid="41/2390">Xavier Skapin</author>
+<author pid="22/4520">Yves Bertrand</author>
+<title>Generic computation of bulletin boards into geometric kernels.</title>
+<pages>85-93</pages>
+<year>2007</year>
+<crossref>conf/afrigraph/2007</crossref>
+<booktitle>Afrigraph</booktitle>
+<ee>https://doi.org/10.1145/1294685.1294700</ee>
+<url>db/conf/afrigraph/afrigraph2007.html#Baba-aliMSB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cadgraphics/Marcheix05" mdate="2023-03-23">
+<author pid="47/6779">David Marcheix</author>
+<title>A persistent naming of shells.</title>
+<pages>7</pages>
+<year>2005</year>
+<booktitle>CAD/Graphics</booktitle>
+<ee>https://doi.org/10.1109/CAD-CG.2005.12</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CAD-CG.2005.12</ee>
+<crossref>conf/cadgraphics/2005</crossref>
+<url>db/conf/cadgraphics/cadgraphics2005.html#Marcheix05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smi/AgbodanMPT03" mdate="2023-03-24">
+<author pid="19/684">Dago Agbodan</author>
+<author pid="47/6779">David Marcheix</author>
+<author pid="76/6038">Guy Pierra</author>
+<author pid="07/2073">Christophe Thabau</author>
+<title>A Topological Entity Matching Technique for Geometric Parametric Models.</title>
+<pages>235-244</pages>
+<year>2003</year>
+<crossref>conf/smi/2003</crossref>
+<booktitle>Shape Modeling International</booktitle>
+<ee>https://doi.org/10.1109/SMI.2003.1199623</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SMI.2003.1199623</ee>
+<url>db/conf/smi/smi2003.html#AgbodanMPT03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sma/MarcheixP02" mdate="2018-11-06">
+<author pid="47/6779">David Marcheix</author>
+<author pid="76/6038">Guy Pierra</author>
+<title>A survey of the persistent naming problem.</title>
+<pages>13-22</pages>
+<year>2002</year>
+<crossref>conf/sma/2002</crossref>
+<booktitle>Symposium on Solid Modeling and Applications</booktitle>
+<ee>https://doi.org/10.1145/566282.566288</ee>
+<url>db/conf/sma/sma2002.html#MarcheixP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscg/AgbodanMP00" mdate="2020-03-12">
+<author pid="19/684">Dago Agbodan</author>
+<author pid="47/6779">David Marcheix</author>
+<author pid="76/6038">Guy Pierra</author>
+<title>Persistent Naming for Parametric Models.</title>
+<year>2000</year>
+<crossref>conf/wscg/2000</crossref>
+<booktitle>WSCG</booktitle>
+<ee type="oa">http://wscg.zcu.cz/wscg2000/Papers_2000/Z41.ps.gz</ee>
+<url>db/conf/wscg/wscg2000.html#AgbodanMP00</url>
+</inproceedings>
+</r>
+<r><article key="journals/cg/MarcheixG98" mdate="2020-02-19">
+<author pid="47/6779">David Marcheix</author>
+<author pid="86/1996">Stefka Gueorguieva</author>
+<title>Nibble meshing: incremental triangulation of non-manifold solid boundary.</title>
+<pages>181-188</pages>
+<year>1998</year>
+<volume>22</volume>
+<journal>Comput. Graph.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1016/S0097-8493(98)00005-3</ee>
+<url>db/journals/cg/cg22.html#MarcheixG98</url>
+</article>
+</r>
+<coauthors n="8" nc="2">
+<co c="1"><na f="a/Agbodan:Dago" pid="19/684">Dago Agbodan</na></co>
+<co c="0"><na f="b/Baba=ali:Mehdi" pid="49/3785">Mehdi Baba-ali</na></co>
+<co c="0"><na f="b/Bertrand:Yves" pid="22/4520">Yves Bertrand</na></co>
+<co c="0"><na f="d/Damiand:Guillaume" pid="14/5261">Guillaume Damiand</na></co>
+<co c="-1"><na f="g/Gueorguieva:Stefka" pid="86/1996">Stefka Gueorguieva</na></co>
+<co c="1"><na f="p/Pierra:Guy" pid="76/6038">Guy Pierra</na></co>
+<co c="0"><na f="s/Skapin:Xavier" pid="41/2390">Xavier Skapin</na></co>
+<co c="1"><na f="t/Thabau:Christophe" pid="07/2073">Christophe Thabau</na></co>
+</coauthors>
+</dblpperson>
+

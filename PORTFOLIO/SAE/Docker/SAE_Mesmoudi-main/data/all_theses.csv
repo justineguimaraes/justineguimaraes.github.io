@@ -1,0 +1,291 @@
+id_these,id_personne,nom,prenom,status,directeur,colaborateur,date_debut,date_fin
+s429823,292607237,Zuo,Lin,En cours,Allel Hadj Ali,['Hadj Ali (069994811)'],2025-12-15,
+s430614,,Riabi,Sid Ali,En cours,"Arnaud Virazel, Patrick Girard","['Virazel (068454724)', 'Girard (073640107)']",2025-11-30,
+s429343,,Lazouzi,Jihane,En cours,"Emmanuel Grolleau, Frédéric Ridouard, Henri Bauer","['Grolleau (086811843)', 'Ridouard (113037937)', 'Bauer (15724444X)']",2025-11-03,
+s418101,,Vieira,Danillo,En cours,"Arnaud Virazel, Patrick Girard","['Virazel (068454724)', 'Girard (073640107)']",2025-09-30,
+s419338,289164729,Hamdani,Yahya,En cours,"Pascal Richard, Antoine Bertout","['Richard (07333930X)', 'Bertout (190909838)']",2025-08-27,
+s409010,282393161,Bouabdelli,Lamisse Fatiha,En cours,"Allel Hadj Ali, Slimane Hammoudi, Fatma Abdelhédi","['Hadj Ali (069994811)', 'Hammoudi (088805409)', 'Abdelhédi (178222267)']",2025-01-06,
+s403426,28113295X,Benhalima,Ahmed Youcef,En cours,"Allel Hadj Ali, Amin Mesmoudi, Seif-Eddine Benkabou","['Hadj Ali (069994811)', 'Mesmoudi (191781576)', 'Benkabou (228949602)']",2024-10-15,
+s387980,276565797,Moukneche,Mohamed Lotfi,En cours,"Ladjel Bellatreche, Nam Le","['Bellatreche (112281834)', 'Le (231152132)']",2024-03-19,
+s374508,272977225,Hariri,Ali,En cours,"Stéphane Jean, Mickaël Baron","['Jean (122008022)', 'Baron (077275292)']",2023-10-16,
+s380329,,Closquinet,Hugo,En cours,"Arnaud Virazel, Patrick Girard","['Virazel (068454724)', 'Girard (073640107)']",2023-10-01,
+s376880,,Ronga,Dorian,En cours,"Patrick Girard, Arnaud Virazel","['Girard (073640107)', 'Virazel (068454724)']",2023-09-01,
+s354215,,Chartier,Mathieu,En cours,"Guillaume Bourgeois, Stéphane Jean","['Bourgeois (086086405)', 'Jean (122008022)']",2022-10-31,
+s351027,265037670,Gaspard,Thomas,En cours,"Pascal Richard, Joel Goosens","['Richard (07333930X)', 'Goosens (None)']",2022-10-10,
+s349113,264741536,Descharmes,Luc,En cours,"Annie Choquet-Geniet, Frédéric Ridouard, Henri Bauer","['Choquet-Geniet (02991390X)', 'Ridouard (113037937)', 'Bauer (15724444X)']",2022-10-03,
+2023COMP2768,280433751,Adam,Loïc,Fini,Sébastien Destercke,['Destercke (133060705)'],,2023-10-23
+2003POIT2323,077275292,Baron,Mickaël,Fini,"Patrick Girard, Yamine Aït-Ameur","['Girard (073640107)', 'Aït-Ameur (077275225)']",,2003-01-01
+2025ESMA0015,265038014,Haenn,Quentin,Fini,"Allel Hadj Ali, Brice Chardin, Mickaël Baron","['Hadj Ali (069994811)', 'Chardin (161536174)', 'Baron (077275292)']",,2025-12-19
+2024ESMA0021,258728949,Perrot,Maxime,Fini,"Stéphane Jean, Brice Chardin, Mickaël Baron","['Jean (122008022)', 'Chardin (161536174)', 'Baron (077275292)']",,2024-12-13
+2022ESMA0024,236489127,Sellami,Chayma,Fini,"Allel Hadj Ali, Stéphane Jean, Mickaël Baron, Mounir Bechchi","['Hadj Ali (069994811)', 'Jean (122008022)', 'Baron (077275292)', 'Bechchi (144724111)']",,2022-12-12
+2018ESMA0005,189681632,Ponchateau,Cyrille,Fini,"Ladjel Bellatreche, Mickaël Baron","['Bellatreche (112281834)', 'Baron (077275292)']",,2018-10-12
+2024LYO10109,290538254,Berro,Auday,Fini,"Khalid Benabdeslem, Boualem Benatallah","['Benabdeslem (077258606)', 'Benatallah (075443775)']",,2024-06-25
+2023AIXM0232,283744812,Guermazi,Yassine,Fini,"Omar Boucelma, Sana Sellami","['Boucelma (095778233)', 'Sellami (147962196)']",,2023-07-03
+2022UBFCH031,267636792,Laifa,Abdelghani,Fini,"Laurent Gautier, Christophe Cruz","['Gautier (161672337)', 'Cruz (083343563)']",,2022-12-13
+2022PAUU3031,270294341,Seghiri,Akram,Fini,"Nabil Hameurlain, Faiza Belala","['Hameurlain (165141360)', 'Belala (223311820)']",,2022-06-11
+2021LYSE1233,26228636X,Daoud,Mohamed Taoufik,Fini,"Djamal Benslimane, Noura Faci","['Benslimane (09029369X)', 'Faci (188349138)']",,2021-11-15
+2021LYSE1158,259971979,Labiadh,Mouna,Fini,"Parisa Shariat Ghodous, Catarina Ferreira Da Silva, Christian Obrecht","['Shariat Ghodous (081360894)', 'Ferreira Da Silva (129900966)', 'Obrecht (169885569)']",,2021-09-09
+2021TOU20007,24227143X,El Malki,Nabil,Fini,"Olivier Teste, Franck Ravat","['Teste (076013286)', 'Ravat (127663711)']",,2021-01-13
+2019POIT2333,258308397,Riché-Piotaix,Quentin,Fini,"Patrick Girard, Frédéric Bilan","['Girard (192879391)', 'Bilan (076971376)']",,2019-12-20
+2019CNAM1274,243022018,Issa,Subhi,Fini,Samira Si-Said Cherfi,['Si-Said Cherfi (120166798)'],,2019-12-13
+2019SORUS110,242863914,Hannou,Fatma-Zohra,Fini,Bernd Amann,['Amann (060259418)'],,2019-06-28
+2019LAROS003,240192001,Chachoua,Soraya,Fini,"Pascal Estraillier, Jamal Malki","['Estraillier (071951830)', 'Malki (069774013)']",,2019-01-10
+2018LORR0230,234349883,Kherroubi,Souad,Fini,Dominique Méry,['Méry (076035085)'],,2018-12-21
+2018ORLE2053,241199247,Nguyen,Thanh Binh,Fini,"Mírian Halfeld Ferrari Alves, Béatrice Markhoff","['Halfeld Ferrari Alves (110534034)', 'Markhoff (110533569)']",,2018-12-03
+2018AZUR4042,231962347,Koné,Chaka,Fini,"Cécile Belleudy, Nhan Le Thanh","['Belleudy (112881912)', 'Le Thanh (031289207)']",,2018-06-01
+2017CNAM1137,223311464,Djenouhat,Manel Amel,Fini,"Kamel Barkaoui, Faiza Belala","['Barkaoui (033470677)', 'Belala (223311820)']",,2017-10-23
+2017AZUR4075,223332348,Pham,Tuan Anh,Fini,Nhan Le Thanh,['Le Thanh (031289207)'],,2017-09-22
+2016LYSE1331,20288970X,Saoud,Zohra,Fini,"Djamal Benslimane, Noura Faci","['Benslimane (09029369X)', 'Faci (188349138)']",,2016-12-14
+2016BELF0307,230086047,Benmimoune,Lamine,Fini,"Amir Hajjam El Hassani, Parisa Shariat Ghodous","['Hajjam El Hassani (033486964)', 'Shariat Ghodous (081360894)']",,2016-12-10
+2016LYSE1282,199512019,Benfenatki,Hind,Fini,"Parisa Shariat Ghodous, Aicha-Nabila Benharkat, Catarina Ferreira Da Silva","['Shariat Ghodous (081360894)', 'Benharkat (088077802)', 'Ferreira Da Silva (129900966)']",,2016-12-07
+2016SACLL002,191629170,Sellami,Rami,Fini,Bruno Defude,['Defude (030971845)'],,2016-02-05
+2015LYO22018,191589241,Dehdouh,Khaled,Fini,"Omar Boussaid, Fadila Bentayeb","['Boussaid (074555081)', 'Bentayeb (120680971)']",,2015-11-05
+2015NICE4033,187240426,Nguyen,Thi Hoa Hue,Fini,Nhan Le Thanh,['Le Thanh (031289207)'],,2015-06-23
+2014AIXM4331,186160666,El Sarraj,Lama,Fini,"Bernard Espinasse, Thérèse Libourel","['Espinasse (031383009)', 'Libourel (050331590)']",,2014-07-10
+2014ESMA0017,17417926X,Hachana,Safaà,Fini,"Yamine Aït-Ameur, Frédéric Cuppens, Nora Cuppens","['Aït-Ameur (077275225)', 'Cuppens (033640068)', 'Cuppens (055307779)']",,2014-07-04
+2013ESMA0019,175946485,Bazhar,Youness,Fini,"Yamine Aït-Ameur, Stéphane Jean","['Aït-Ameur (077275225)', 'Jean (122008022)']",,2013-12-13
+2013LYO10212,18834912X,Abdeldjelil,Hanane,Fini,"Djamal Benslimane, Noura Faci","['Benslimane (09029369X)', 'Faci (188349138)']",,2013-11-20
+2013NICE4017,170051366,Tayari Meftah,Imen,Fini,"Nhan Le Thanh, Chokri Ben Amar","['Le Thanh (031289207)', 'Ben Amar (144453487)']",,2013-04-12
+2012MON20194,165233524,Mami,Imene,Fini,"Zohra Bellahsène, Rémi Coletta","['Bellahsène (07917857X)', 'Coletta (074277626)']",,2012-11-15
+2023BORD0012,273872230,Lopez,Myriam,Fini,"Marie Beurton aimar, Sofian Maabout, Gayo Diallo","['Beurton aimar (122639839)', 'Maabout (148141978)', 'Diallo (112800084)']",,2023-01-26
+2023GRALM003,270483497,Fejza,Amela,Fini,Pierre Genevès,['Genevès (117936324)'],,2023-01-11
+2021UBFCK076,269633766,Gillet,Annabelle,Fini,"Nadine Cullot, Eric Leclercq","['Cullot (060459786)', 'Leclercq (15156549X)']",,2021-12-02
+2021GRALM076,253128587,Zgolli,Asma,Fini,"Genoveva Vargas-Solar, Christine Collet, Christophe Bobineau","['Vargas-Solar (113038569)', 'Collet (032222211)', 'Bobineau (223305359)']",,2021-08-23
+2021GRALM009,256903433,Lawal,Muideen,Fini,"Pierre Genevès, Nabil Layaida","['Genevès (117936324)', 'Layaida (15031504X)']",,2021-04-21
+2018LYSE1179,234400846,Kemp,Gavin,Fini,"Parisa Shariat Ghodous, Catarina Ferreira Da Silva, Genoveva Vargas-Solar","['Shariat Ghodous (081360894)', 'Ferreira Da Silva (129900966)', 'Vargas-Solar (113038569)']",,2018-09-26
+2018NORMLH02,224901729,Samiri,Mohamed Yassine,Fini,"Jaouad Boukachour, Abdelaziz El Fazziki","['Boukachour (074575228)', 'El Fazziki (180077287)']",,2018-02-10
+2018NORMLH01,224881655,Abourraja,Mohamed Nezar,Fini,"Jaouad Boukachour, Abdelaziz El Fazziki","['Boukachour (074575228)', 'El Fazziki (180077287)']",,2018-02-09
+2016CLF22784,227577876,Chabane,Yahia,Fini,Farouk Toumani,['Toumani (139537619)'],,2016-12-19
+2016LYSE1301,200201409,Kacfah Emani,Cheikh Hito,Fini,"Parisa Shariat Ghodous, Catarina Ferreira Da Silva","['Shariat Ghodous (081360894)', 'Ferreira Da Silva (129900966)']",,2016-12-01
+2015LYO10050,185467245,Malki,Abdelhamid,Fini,"Djamal Benslimane, Sidi Mohammed Benslimane","['Benslimane (09029369X)', 'Benslimane (185467296)']",,2015-04-23
+2013LAROS405,180658255,Mefteh,Wafa,Fini,Alain Bouju,['Bouju (092855997)'],,2013-09-20
+s339163,261743325,Traparic,David,Fini,"Mohamed-Chaker Larabi, Ladjel Bellatreche","['Larabi (073523550)', 'Bellatreche (112281834)']",,2025-12-18
+s305136,257497552,Saidi,Boumediene,Fini,"Ladjel Bellatreche, Azeddine Chikh, Amin Mesmoudi","['Bellatreche (112281834)', 'Chikh (231572956)', 'Mesmoudi (191781576)']",,2025-12-01
+2023ESMA0012,231738803,Farouzi,Abir,Fini,"Ladjel Bellatreche, Mimoun Malki","['Bellatreche (112281834)', 'Malki (273668242)']",,2023-12-02
+2022ESMA0023,235495131,Ghabri,Issam,Fini,"Ladjel Bellatreche, Sadok Ben Yahia","['Bellatreche (112281834)', 'Ben Yahia (159811708)']",,2022-12-29
+2022ESMA0017,231741162,Zouaghi,Ishaq,Fini,"Ladjel Bellatreche, Taoufik Aguili, Amin Mesmoudi","['Bellatreche (112281834)', 'Aguili (180818260)', 'Mesmoudi (191781576)']",,2022-11-08
+2021ESMA0009,220595151,Dembele,Simon Pierre,Fini,Ladjel Bellatreche,['Bellatreche (112281834)'],,2021-07-08
+2021ESMA0001,22059564X,Galicia Auyón,Jorge Armando,Fini,"Ladjel Bellatreche, Amin Mesmoudi","['Bellatreche (112281834)', 'Mesmoudi (191781576)']",,2021-01-12
+2020ESMA0009,191000396,Khelil,Abdallah,Fini,"Ladjel Bellatreche, Mohamed Senouci, Amin Mesmoudi","['Bellatreche (112281834)', 'Senouci (23459957X)', 'Mesmoudi (191781576)']",,2020-10-08
+2017ESMA0012,174428871,Djilani,Zouhir,Fini,"Ladjel Bellatreche, Selma Khouri","['Bellatreche (112281834)', 'Khouri (171515234)']",,2017-07-12
+2017ESMA0009,188101012,Brahimi,Lahcene,Fini,"Ladjel Bellatreche, Yassine Ouhammou","['Bellatreche (112281834)', 'Ouhammou (175835705)']",,2017-07-03
+2017ESMA0010,175955999,Ali Zazou,Abdelkrim,Fini,"Emmanuel Grolleau, Ladjel Bellatreche, Jean-Paul Gaubert","['Grolleau (086811843)', 'Bellatreche (112281834)', 'Gaubert (124336019)']",,2017-04-21
+2017ESMA0006,200818600,Salmi,Cheik,Fini,"Ladjel Bellatreche, Jalil Boukhobza","['Bellatreche (112281834)', 'Boukhobza (09772582X)']",,2017-03-29
+2017ESMA0001,174425953,Barkat,Okba,Fini,"Ladjel Bellatreche, Yamine Aït-Ameur","['Bellatreche (112281834)', 'Aït-Ameur (077275225)']",,2017-01-24
+2016ESMA0024,174292953,Bouarar,Selma,Fini,"Ladjel Bellatreche, Stéphane Jean","['Bellatreche (112281834)', 'Jean (122008022)']",,2016-12-13
+2016ESMA0026,174297564,Boukorca,Ahcène,Fini,Ladjel Bellatreche,['Bellatreche (112281834)'],,2016-12-12
+2016ESMA0016,174436971,Guetmi,Nadir,Fini,"Ladjel Bellatreche, Abdessamad Imine","['Bellatreche (112281834)', 'Imine (114367426)']",,2016-12-12
+2015ESMA0012,17596002X,Bouchakri,Rima,Fini,"Ladjel Bellatreche, Khaled-Walid Hidouci","['Bellatreche (112281834)', 'Hidouci (183913485)']",,2015-09-17
+2015ESMA0001,174233965,Royer,Kevin,Fini,Ladjel Bellatreche,['Bellatreche (112281834)'],,2015-03-30
+2014ESMA0014,174219474,Mbaiossoum,Bery Leouro,Fini,"Ladjel Bellatreche, Stéphane Jean","['Bellatreche (112281834)', 'Jean (122008022)']",,2014-12-12
+2014ESMA0027,174463111,Benkrid,Soumia,Fini,"Ladjel Bellatreche, Khaled-Walid Hidouci","['Bellatreche (112281834)', 'Hidouci (183913485)']",,2014-06-24
+2014ESMA0001,175004811,Boukhari,Ilyes,Fini,"Ladjel Bellatreche, Stéphane Jean","['Bellatreche (112281834)', 'Jean (122008022)']",,2014-01-14
+2013ESMA0027,176499717,Kerkad,Amira,Fini,"Ladjel Bellatreche, Dominique Geniet","['Bellatreche (112281834)', 'Geniet (082988145)']",,2013-12-11
+2013ESMA0016,171515234,Khouri,Selma,Fini,"Ladjel Bellatreche, Thouraya Bouaban-Tebibel","['Bellatreche (112281834)', 'Bouaban-Tebibel (175350108)']",,2013-10-12
+2013ESMA0010,171513614,Chakroun,Chedlia,Fini,"Yamine Aït-Ameur, Ladjel Bellatreche","['Aït-Ameur (077275225)', 'Bellatreche (112281834)']",,2013-10-02
+2012ESMA0027,171113772,Teguiak,Henry Valery,Fini,"Guy Pierra, Yamine Aït-Ameur, Ladjel Bellatreche","['Pierra (030560993)', 'Aït-Ameur (077275225)', 'Bellatreche (112281834)']",,2012-01-01
+2009ESMA0006,136381251,Boukhalfa,Kamel,Fini,"Ladjel Bellatreche, Guy Pierra","['Bellatreche (112281834)', 'Pierra (030560993)']",,2009-01-01
+2009ESMA0024,145805433,Fankam Nguemkam,Chimène,Fini,"Guy Pierra, Ladjel Bellatreche","['Pierra (030560993)', 'Bellatreche (112281834)']",,2009-01-01
+2007POIT2270,120064588,Dehainsala,Hondjack,Fini,"Guy Pierra, Ladjel Bellatreche","['Pierra (030560993)', 'Bellatreche (112281834)']",,2007-01-01
+2006POIT2367,11227255X,Nguyen Xuan,Dung,Fini,"Ladjel Bellatreche, Guy Pierra","['Bellatreche (112281834)', 'Pierra (030560993)']",,2006-01-01
+2000CLF22255,112281834,Bellatreche,Ladjel,Fini,Michel Schneider,['Schneider (061233870)'],,2000-01-01
+2024IPPAS015,28008935X,Jerbi,Imen,Fini,"Walid Gaaloul, Sami Bhiri, Mohamed Sellami","['Gaaloul (111889308)', 'Bhiri (093328702)', 'Sellami (160761778)']",,2024-07-05
+2017LYSE1256,224707280,Acar,Hayri,Fini,"Parisa Shariat Ghodous, Jean-Patrick Gelas, Gulfem Isiklar Alptekin","['Shariat Ghodous (081360894)', 'Gelas (083299440)', 'Isiklar Alptekin (224707302)']",,2017-11-23
+2017TOUR4007,221400133,Abid,Ahmed,Fini,"Thomas Devogele, Nizar Messai, Mohamed Abid, Mohsen Rouached","['Devogele (061555614)', 'Messai (133030660)', 'Abid (094937400)', 'Rouached (123897017)']",,2017-07-19
+2016TOU20139,221419292,El Malki,Mohammed,Fini,"Olivier Teste, Max Chevalier","['Teste (076013286)', 'Chevalier (069989699)']",,2016-12-08
+2025LYO10062,286754568,Megherbi,Walid,Fini,"Hamida Seba Lagraa, Mohammed Haddad","['Seba Lagraa (079974686)', 'Haddad (176196455)']",,2025-04-17
+2018LYSE1046,228949602,Benkabou,Seif-Eddine,Fini,Khalid Benabdeslem,['Benabdeslem (077258606)'],,2018-03-21
+2011ISAL0133,161536174,Chardin,Brice,Fini,Jean-Marc Petit,['Petit (078903092)'],,2011-12-07
+2022ESMA0020,241167248,Parkin,Louise,Fini,"Brice Chardin, Allel Hadj Ali, Stéphane Jean","['Chardin (161536174)', 'Hadj Ali (069994811)', 'Jean (122008022)']",,2022-12-09
+2021ESMA0012,227136454,Tribak,Mohamed,Fini,"Emmanuel Grolleau, Thierry Poinot, Brice Chardin","['Grolleau (086811843)', 'Poinot (059664940)', 'Chardin (161536174)']",,2021-11-26
+2019ESMA0016,241926033,Dellal,Ibrahim,Fini,"Allel Hadj Ali, Brice Chardin, Stéphane Jean","['Hadj Ali (069994811)', 'Chardin (161536174)', 'Jean (122008022)']",,2019-12-10
+2022UMONS048,081829639,D'hondt,Pierre,Fini,"Patrick Girard, Arnaud Virazel","['Girard (073640107)', 'Virazel (068454724)']",,2022-11-23
+2022UCFAC087,270136762,Carballo Hernandez,Walther,Fini,"François Berry, Maxime Pelcat","['Berry (170520552)', 'Pelcat (148709060)']",,2022-11-18
+2021GRALM074,262722542,Hammami,Hayet,Fini,"Gaëlle Calvary, Faouzi Moussa, Fatoumata Camara","['Calvary (122752228)', 'Moussa (168012251)', 'Camara (170788016)']",,2021-12-20
+2020MONTS121,255653972,Ho,Tien Phu,Fini,"Arnaud Virazel, Alberto Bosio","['Virazel (068454724)', 'Bosio (174383592)']",,2020-12-17
+2020MONTS116,255508964,Deveautour,Bastien,Fini,"Arnaud Virazel, Patrick Girard","['Virazel (068454724)', 'Girard (073640107)']",,2020-12-11
+2020GRALT038,252406133,Shah,Riddhi Jitendrakumar,Fini,Lorena Anghel,['Anghel (091614295)'],,2020-10-05
+2019MONTS060,242526373,Traiola,Marcello,Fini,"Alberto Bosio, Patrick Girard, Arnaud Virazel","['Bosio (174383592)', 'Girard (073640107)', 'Virazel (068454724)']",,2019-09-25
+2019GREAM035,241814340,Fenicio,Alessandro,Fini,"Gaëlle Calvary, Yann Laurillau","['Calvary (122752228)', 'Laurillau (069458413)']",,2019-09-23
+2017AIXM0586,231867573,Ngueya Wandji,Steve,Fini,"Jean-Michel Portal, Hassen Aziza","['Portal (102048045)', 'Aziza (085275581)']",,2017-12-15
+2016MONTT278,226701859,Nocua Cifuentes,Jorge Alejandro,Fini,"Patrick Girard, Arnaud Virazel","['Girard (073640107)', 'Virazel (068454724)']",,2016-11-02
+2016MONTT308,226916049,Touati,Aymen,Fini,"Alberto Bosio, Patrick Girard","['Bosio (174383592)', 'Girard (073640107)']",,2016-10-21
+2016MONTT285,226773779,Patel,Darayus Adil,Fini,Patrick Girard,['Girard (073640107)'],,2016-07-05
+2016MONTT313,226927997,Wali,Imran,Fini,"Arnaud Virazel, Patrick Girard","['Virazel (068454724)', 'Girard (073640107)']",,2016-03-30
+2015MONTS206,200494228,Asokan,Anu,Fini,"Serge Pravossoudovitch, Patrick Girard","['Pravossoudovitch (033137056)', 'Girard (073640107)']",,2015-12-09
+2015VALE0027,189489529,Guerrier,Yohan,Fini,"Christophe Kolski, Franck Poirier","['Kolski (032302800)', 'Poirier (077656598)']",,2015-09-04
+2014ESMA0022,175283087,Mohand Oussaïd,Linda,Fini,"Yamine Aït-Ameur, Idir Aït-Sadoune","['Aït-Ameur (077275225)', 'Aït-Sadoune (176615830)']",,2014-12-16
+2014MON20241,232728011,Tsiligiannis,Georgios,Fini,"Serge Pravossoudovitch, Patrick Girard","['Pravossoudovitch (033137056)', 'Girard (073640107)']",,2014-09-17
+2014MON20018,18828124X,Sun,Zhenzhou,Fini,"Patrick Girard, Serge Pravossoudovitch","['Girard (073640107)', 'Pravossoudovitch (033137056)']",,2014-05-16
+2013MON20080,176162704,Bonet Zordan,Leonardo Henrique,Fini,"Patrick Girard, Serge Pravossoudovitch","['Girard (073640107)', 'Pravossoudovitch (033137056)']",,2013-12-06
+2013MON20155,172341469,Seabra de Azevedo,João Batista,Fini,"Serge Pravossoudovitch, Patrick Girard","['Pravossoudovitch (033137056)', 'Girard (073640107)']",,2013-10-11
+2013ESMA0025,171515749,Maîtrehenry,Sébastien,Fini,Yamine Aït-Ameur,['Aït-Ameur (077275225)'],,2013-10-04
+2013VALE0001,170577163,Charfi,Selem,Fini,"Houcine Ezzedine, Faouzi Moussa","['Ezzedine (033310556)', 'Moussa (168012251)']",,2013-02-15
+2012MON20132,166323349,Tran,Duc Anh,Fini,Serge Pravossoudovitch,['Pravossoudovitch (033137056)'],,2012-12-21
+2012ENST0018,17471615X,Baglioni,Mathias,Fini,"Eric Lecolinet, Yves Guiard","['Lecolinet (112920764)', 'Guiard (031153305)']",,2012-04-25
+2011PA112326,156883759,Faure,Guillaume,Fini,Michel Beaudouin-Lafon,['Beaudouin-Lafon (031188222)'],,2011-12-15
+2011MON20185,158814231,Mauroux,Pierre-Didier,Fini,Patrick Girard,['Girard (073640107)'],,2011-12-09
+2011MON20072,157589676,Wu,Fangmei,Fini,Patrick Girard,['Girard (073640107)'],,2011-10-12
+2010MON20012,143375164,Ben Abboud,Youssef,Fini,Patrick Girard,['Girard (073640107)'],,2010-04-30
+2009METZ007S,136760562,Youssef,Mazen,Fini,Abbas Dandache,['Dandache (030963524)'],,2009-06-08
+2021SORUS452,263696758,Pavlidis,Antonios,Fini,Haralampos Stratigopoulos,['Stratigopoulos (192979426)'],,2021-07-13
+2019GREAT115,250332523,Kalsing,Arthur,Fini,"Laurent Fesquet, Chouki Aktouf","['Fesquet (081162073)', 'Aktouf (108409570)']",,2019-07-11
+2018GREAT107,236109693,Takam Tchendjou,Ghislain,Fini,Emmanuel Simeu,['Simeu (117818232)'],,2018-12-12
+2018AIXM0099,234264543,Andrianjohany,Nomena Gabriel,Fini,"Karine Castellani-Coulié, Wenceslas Rahajandraibe","['Castellani-Coulié (072405902)', 'Rahajandraibe (072428996)']",,2018-03-02
+2017LORIS458,227233700,Hafidhi,Mohamed Mourad,Fini,Emmanuel Boutillon,['Boutillon (031719716)'],,2017-11-16
+2017LORIS467,230166806,Moréac,Erwan,Fini,"André Rossi, Johann Laurent","['Rossi (077729226)', 'Laurent (071282971)']",,2017-10-25
+2015PA066274,189998350,Blanchardon,Adrien,Fini,"Roselyne Chotin, Habib Mehrez","['Chotin (078439841)', 'Mehrez (089368088)']",,2015-09-15
+2015ENST0015,188946292,Sarrazin,Sébastien,Fini,"Lirida Alves de Barros Naviner, Valentin Gherman","['Alves de Barros Naviner (032552998)', 'Gherman (188946659)']",,2015-03-31
+2014PA066719,261612093,Dron,Wilfried,Fini,Patrick Garda,['Garda (074794620)'],,2014-12-10
+2014ECDL0027,183611357,Jin,Huiliang,Fini,"Bertrand David, René Chalon","['David (059937939)', 'Chalon (088716155)']",,2014-10-15
+2014ENST0054,195042948,An,Ting,Fini,Lirida Alves de Barros Naviner,['Alves de Barros Naviner (032552998)'],,2014-09-30
+2012ENST0038,174721544,Ban,Tian,Fini,Lirida Alves de Barros Naviner,['Alves de Barros Naviner (032552998)'],,2012-09-04
+s356414,,Mongelli,Gianmarco,Fini,"Arnaud Virazel, Patrick Girard","['Virazel (068454724)', 'Girard (073640107)']",,2025-11-14
+2024UMONS096,290950856,Xhafa,Xhesila,Fini,"Patrick Girard, Arnaud Virazel","['Girard (073640107)', 'Virazel (068454724)']",,2024-12-19
+2024UMONS057,285044109,Ammoura,Lila,Fini,"Arnaud Virazel, Patrick Girard","['Virazel (068454724)', 'Girard (073640107)']",,2024-12-05
+2024UMONS012,280808917,Lefevre,Julia,Fini,"Patrick Girard, Arnaud Virazel","['Girard (073640107)', 'Virazel (068454724)']",,2024-06-17
+2017ESMA0003,175006075,Goubali,Olga,Fini,"Patrick Girard, Laurent Guittet, Pascal Berruet","['Girard (073640107)', 'Guittet (113846290)', 'Berruet (121200221)']",,2017-01-30
+2011GRENT020,153387718,Bougerol,Antonin,Fini,"Régis Leveugle, Patrick Girard","['Leveugle (076485218)', 'Girard (073640107)']",,2011-05-16
+2009ESMA0028,146698908,Caffiau,Sybille,Fini,"Patrick Girard, Dominique L. Scapin","['Girard (073640107)', 'Scapin (076604810)']",,2009-01-01
+2008POIT2309,132838583,Sanou,Loé,Fini,"Patrick Girard, Laurent Guittet","['Girard (073640107)', 'Guittet (113846290)']",,2008-01-01
+2008MON20213,130615706,Ney,Alexandre,Fini,Patrick Girard,['Girard (073640107)'],,2008-01-01
+2008MON20015,083475346,Rousset,Alexandre,Fini,Patrick Girard,['Girard (073640107)'],,2008-01-01
+2007MON20237,128147253,Ginez,Olivier,Fini,"Patrick Girard, Serge Pravossoudovitch","['Girard (073640107)', 'Pravossoudovitch (033137056)']",,2007-01-01
+2006POIT2341,113845952,Guibert,Nicolas,Fini,"Patrick Girard, Laurent Guittet","['Girard (073640107)', 'Guittet (113846290)']",,2006-01-01
+2006POIT2356,11439797X,Kamel,Nadjet,Fini,"Yamine Aït-Ameur, Patrick Girard","['Aït-Ameur (077275225)', 'Girard (073640107)']",,2006-01-01
+2006MON20025,076779343,Badereddine,Nabil,Fini,Patrick Girard,['Girard (073640107)'],,2006-01-01
+2005POIT2325,103228411,Lucquiaud,Vincent,Fini,"Patrick Girard, Francis Jambon","['Girard (073640107)', 'Jambon (103285024)']",,2005-01-01
+2002POIT2320,073640182,Depaulis,Fabrice,Fini,Patrick Girard,['Girard (073640107)'],,2002-01-01
+1994MON20208,283643722,Khalkhal,Abdelaziz,Fini,Patrick Girard,['Girard (073640107)'],,1994-01-01
+1992MON20053,073640107,Girard,Patrick,Fini,Serge Pravossoudovitch,['Pravossoudovitch (033137056)'],,1992-01-01
+1992POIT2345,073640107,Girard,Patrick,Fini,Guy Pierra,['Pierra (030560993)'],,1992-01-01
+2024UPHF0048,282636153,Carneiro Maia,Vitor,Fini,"Christophe Kolski, Guilherme Horta Travassos, Kathia Marçal de Oliveira","['Kolski (032302800)', 'Horta Travassos (255721536)', 'Marçal de Oliveira (171948696)']",,2024-11-26
+2021REN1S123,263434133,Mercier,Romain,Fini,Daniel Chillet,['Chillet (109182197)'],,2021-12-17
+2021GRALT063,25933975X,Garay trindade,Matheus,Fini,Rodrigo Possamai Bastos,['Possamai Bastos (147702321)'],,2021-09-30
+2021IPPAT005,256236682,Yang,Xuecan,Fini,"Lirida Alves de Barros Naviner, Laurence Likforman-Sulem","['Alves de Barros Naviner (032552998)', 'Likforman-Sulem (029391164)']",,2021-03-24
+2020IPPAT040,25326670X,Maciel de Paiva Junior,Nilson,Fini,"Lirida Alves de Barros Naviner, Hao Cai","['Alves de Barros Naviner (032552998)', 'Cai (192838652)']",,2020-12-10
+2020AIXM0567,259848875,Bazzi,Hussein,Fini,"Hassen Aziza, Adnan Harb, Mathieu Moreau","['Aziza (085275581)', 'Harb (234641959)', 'Moreau (152085866)']",,2020-12-04
+2016GREAT016,192479911,Al Khatib,Chadi,Fini,"Laurent Fesquet, Gilles Sicard","['Fesquet (081162073)', 'Sicard (082094829)']",,2016-03-01
+2014GRENT014,179744607,Bousquet,Laurent,Fini,"Emmanuel Simeu, Laurent Fesquet, Katell Morin-Allory","['Simeu (117818232)', 'Fesquet (081162073)', 'Morin-Allory (082022658)']",,2014-01-29
+2012ECDL0029,170317668,Zhou,Yun,Fini,"Bertrand David, René Chalon","['David (059937939)', 'Chalon (088716155)']",,2012-10-08
+2023LYO10153,277395941,Korichi,Abdel-Rahmen,Fini,Hamamache Kheddouci,['Kheddouci (07451251X)'],,2023-09-18
+2023ANGE0007,272125369,Letard,Alexandre,Fini,"Tassadit Amghar, Olivier Camp, Nicolas Gutowski","['Amghar (241137829)', 'Camp (15861996X)', 'Gutowski (242333362)']",,2023-05-23
+2022LYSE3012,26617308X,Romdhani,Senda,Fini,Chirine Ghedira,['Ghedira (083803467)'],,2022-05-10
+2021PAUU3034,259700703,Shahzad,Faisal,Fini,"Richard Chbeir, Joe M. Tekli","['Chbeir (09043434X)', 'Tekli (142950424)']",,2021-12-16
+2021PAUU3067,258914203,Alchicha,Élie,Fini,"Richard Chbeir, Bechara Al Bouna","['Chbeir (09043434X)', 'Al Bouna (176555846)']",,2021-12-16
+2021UPSLD001,259932930,Acheli,Mehdi,Fini,Daniela Grigori,['Grigori (061182818)'],,2021-10-25
+2020REIMS002,242884385,Ben othmane,Zied,Fini,Cyril de Runz,['Runz (130379832)'],,2020-01-23
+2019TOUR4041,272659843,Silva,Clay Palmeira Da,Fini,Thomas Devogele,['Devogele (061555614)'],,2019-09-23
+2017USPCB003,224510916,Benaissa,Adel,Fini,Salima Benbernou,['Benbernou (100584853)'],,2017-03-02
+2016USPCB124,225833832,Huang,Xin,Fini,Salima Benbernou,['Benbernou (100584853)'],,2016-11-30
+2016ESMA0014,189670207,Fokou Pelap,Géraud,Fini,Stéphane Jean,['Jean (122008022)'],,2016-11-21
+2015ARTO0203,186271131,Ennaceur,Amel,Fini,"Éric Lefèvre, Zied Elouedi","['Lefèvre (081781237)', 'Elouedi (134861892)']",,2015-05-29
+2021REN1S088,261144693,Thierry,Constance,Fini,Arnaud Martin,['Martin (167578405)'],,2021-12-14
+2021UNIP5203,276605616,Hammoud,Khodor,Fini,Salima Benbernou,['Benbernou (100584853)'],,2021-11-15
+2021TOUL0012,279932359,Tay,Ahmad,Fini,Frédéric Lafont,['Lafont (112045529)'],,2021-07-01
+2019ANGE0030,242333362,Gutowski,Nicolas,Fini,"Tassadit Amghar, Olivier Camp","['Amghar (241137829)', 'Camp (15861996X)']",,2019-11-04
+2019PA131004,244742332,Beck,Gaël,Fini,Hanane Azzag,['Azzag (144804824)'],,2019-10-14
+2019LYSE1121,238446980,Benallal,Mohammed Wehbi,Fini,"Djamal Benslimane, Mahmoud Barhamgi","['Benslimane (09029369X)', 'Barhamgi (169097196)']",,2019-08-28
+2018LYSE1135,233563644,Omri,Asma,Fini,"Djamal Benslimane, Karim Benouaret, Mohamed Nazih Omri","['Benslimane (09029369X)', 'Benouaret (172181003)', 'Omri (198012675)']",,2018-08-30
+2015TOUR4052,196217776,Diallo,Mouhamadou Saliou,Fini,"Arnaud Giacometti, Cheikh Talibouya Diop","['Giacometti (056997221)', 'Diop (094185433)']",,2015-03-27
+2013LYO10202,189377216,Belhoul,Yacine,Fini,"Hamamache Kheddouci, Mohammed Haddad","['Kheddouci (07451251X)', 'Haddad (176196455)']",,2013-11-07
+2023ESMA0016,231740514,Yousfi,Houssameddine,Fini,"Allel Hadj Ali, Houcine Matallah, Amin Mesmoudi","['Hadj Ali (069994811)', 'Matallah (275318745)', 'Mesmoudi (191781576)']",,2023-12-07
+2022ESMA0019,220596913,Nadouri,Sana,Fini,"Allel Hadj Ali, Zaidi Sahnoun","['Hadj Ali (069994811)', 'Sahnoun (267882823)']",,2022-12-05
+2021ESMA0011,231738439,Boulanouar,Khedidja,Fini,"Allel Hadj Ali, Mohand Lagha","['Hadj Ali (069994811)', 'Lagha (259145416)']",,2021-11-17
+2019ESMA0008,201741466,Abidi,Amna,Fini,"Allel Hadj Ali, Boutheïna Ben Yaghlane","['Hadj Ali (069994811)', 'Ben Yaghlane (167799940)']",,2019-06-11
+2019ESMA0007,201743124,Bousnina,Fatma Ezzahra,Fini,"Allel Hadj Ali, Boutheïna Ben Yaghlane","['Hadj Ali (069994811)', 'Ben Yaghlane (167799940)']",,2019-06-11
+2017ESMA0016,175960674,Chouiref,Zahira,Fini,"Allel Hadj Ali, Karim Benouaret","['Hadj Ali (069994811)', 'Benouaret (172181003)']",,2017-11-27
+2017ESMA0011,188108556,Elmi,Saïda,Fini,"Allel Hadj Ali, Boutheïna Ben Yaghlane","['Hadj Ali (069994811)', 'Ben Yaghlane (167799940)']",,2017-09-15
+2017ESMA0008,179005375,Gammoudi,Aymen,Fini,"Allel Hadj Ali, Boutheïna Ben Yaghlane","['Hadj Ali (069994811)', 'Ben Yaghlane (167799940)']",,2017-06-17
+2013REN1S105,176423982,Abbaci,Katia,Fini,"Allel Hadj Ali, Daniel Rocacher","['Hadj Ali (069994811)', 'Rocacher (131056794)']",,2013-12-12
+2012LYO10177,172181003,Benouaret,Karim,Fini,"Djamal Benslimane, Allel Hadj Ali","['Benslimane (09029369X)', 'Hadj Ali (069994811)']",,2012-10-09
+2011REN1E004,156501244,Mokhtari,Amine,Fini,"Olivier Pivert, Allel Hadj Ali","['Pivert (166591904)', 'Hadj Ali (069994811)']",,2011-01-01
+2002TOU30160,069994811,Hadj Ali,Allel,Fini,Henri Prade,['Prade (053435710)'],,2002-01-01
+2024LYO10031,282279997,Sajadi Ansari,Fatemeh,Fini,"Djamal Benslimane, Mahmoud Barhamgi","['Benslimane (09029369X)', 'Barhamgi (169097196)']",,2024-02-22
+2018UBFCK080,257673318,Basaille-Gahitte,Ian,Fini,"Nadine Cullot, Eric Leclercq","['Cullot (060459786)', 'Leclercq (15156549X)']",,2018-02-09
+2024ESMA0026,258426845,Gaide,Maxime,Fini,"Stéphane Jean, David Marcheix, Xavier Skapin","['Jean (122008022)', 'Marcheix (070711658)', 'Skapin (060595957)']",,2024-12-11
+2007POIT2324,122008022,Jean,Stéphane,Fini,"Yamine Aït-Ameur, Guy Pierra","['Aït-Ameur (077275225)', 'Pierra (030560993)']",,2007-01-01
+2019POIT2254,235388947,Cardot,Anaïs,Fini,"Pascal Lienhardt, Xavier Skapin, David Marcheix","['Lienhardt (032879431)', 'Skapin (060595957)', 'Marcheix (070711658)']",,2019-01-30
+1996BOR10629,070711658,Marcheix,David,Fini,Pascal Guitton,['Guitton (060888997)'],,1996-01-01
+2010POIT2254,149178476,Baba-Ali,Mehdi,Fini,"Yves Bertrand, David Marcheix, Xavier Skapin","['Bertrand (034489894)', 'Marcheix (070711658)', 'Skapin (060595957)']",,2010-01-01
+2002POIT2313,070711801,Agbodan,Dago,Fini,"Guy Pierra, David Marcheix","['Pierra (030560993)', 'Marcheix (070711658)']",,2002-01-01
+2015LYO10326,191781576,Mesmoudi,Amin,Fini,Mohand Saïd Hacid,['Hacid (070848440)'],,2015-12-03
+2018POIT2282,234016833,Benammar,Nassima,Fini,"Pascal Richard, Frédéric Ridouard, Henri Bauer","['Richard (07333930X)', 'Ridouard (113037937)', 'Bauer (15724444X)']",,2018-09-17
+2017INPT0131,226706281,Bérard-Deroche,Émilie,Fini,"Christian Fraboul, Jean-Luc Scharbarg","['Fraboul (085596337)', 'Scharbarg (174212712)']",,2017-12-12
+2011INPT0008,15724444X,Bauer,Henri,Fini,Christian Fraboul,['Fraboul (085596337)'],,2011-10-04
+2024ESMA0001,253975573,Roberty,Adrien,Fini,"Annie Choquet-Geniet, Frédéric Ridouard, Siwar Ben Hadj Saïd, Henri Bauer","['Choquet-Geniet (02991390X)', 'Ridouard (113037937)', 'Ben Hadj Saïd (19137251X)', 'Bauer (15724444X)']",,2024-02-06
+2014ESMA0010,174217285,Kemayo,Georges Arnaud,Fini,"Pascal Richard, Frédéric Ridouard, Henri Bauer","['Richard (07333930X)', 'Ridouard (113037937)', 'Bauer (15724444X)']",,2014-09-23
+2022ESMA0003,224547348,Jamil,Roy,Fini,Emmanuel Grolleau,['Grolleau (086811843)'],,2022-03-04
+2015LIL10110,190909838,Bertout,Antoine,Fini,"Richard Olejnik, Julien Forget","['Olejnik (091912431)', 'Forget (163689709)']",,2015-11-25
+2025ESMA0001,264675738,Karnib,Nour,Fini,"Emmanuel Grolleau, Antoine Bertout","['Grolleau (086811843)', 'Bertout (190909838)']",,2025-02-10
+2023ESMA0014,231128665,Kamni,Soulimane,Fini,"Emmanuel Grolleau, Yassine Ouhammou, Antoine Bertout","['Grolleau (086811843)', 'Ouhammou (175835705)', 'Bertout (190909838)']",,2023-12-20
+2014NANT2011,186131917,Abdallah,Maïssa,Fini,Maryline Chetto,['Chetto (097866962)'],,2014-01-01
+2012SUPL0023,170764753,Benyahia,Abderraouf,Fini,François Terrier,['Terrier (031311040)'],,2012-11-26
+2017ESMA0015,181321203,Mouafo Tchinda,Yves,Fini,"Annie Choquet-Geniet, Gaëlle Largeteau-Skapin","['Choquet-Geniet (02991390X)', 'Largeteau-Skapin (082988056)']",,2017-10-12
+2014ESMA0011,175004501,Bikienga,Moustapha,Fini,"Annie Choquet-Geniet, Dominique Geniet","['Choquet-Geniet (02991390X)', 'Geniet (082988145)']",,2014-10-16
+2012ESMA0003,161572065,Fotsing Takoutsi,Christian,Fini,"Annie Choquet-Geniet, Guy Vidal-Naquet","['Choquet-Geniet (02991390X)', 'Vidal-Naquet (032114605)']",,2012-01-01
+2010ESMA0018,176643834,Malo,Sadouanouan,Fini,Annie Choquet-Geniet,['Choquet-Geniet (02991390X)'],,2010-01-01
+2006POIT2327,112135927,Pailler,Stéphane,Fini,Annie Choquet-Geniet,['Choquet-Geniet (02991390X)'],,2006-01-01
+1987PA112248,02991390X,Choquet-Geniet,Annie,Fini,Alain Finkel,['Finkel (031087140)'],,1987-01-01
+2024ESMA0017,233333789,Mesli-Kesraoui,Ouissem,Fini,"Patrick Girard, Pascal Berruet, Emmanuel Grolleau, Yassine Ouhammou, Soraya Kesraoui","['Girard (192879391)', 'Berruet (121200221)', 'Grolleau (086811843)', 'Ouhammou (175835705)', 'Kesraoui (223352942)']",,2024-06-26
+2020ESMA0007,196911648,Nguyen,Thanh Dat,Fini,"Emmanuel Grolleau, Yassine Ouhammou","['Grolleau (086811843)', 'Ouhammou (175835705)']",,2020-07-10
+2015LORR0135,190135972,Bedoui,Akram,Fini,"René Schott, Lhassane Idoumghar","['Schott (029061504)', 'Idoumghar (071016295)']",,2015-11-12
+1989PA112178,082988145,Geniet,Dominique,Fini,Joffroy Beauquier,['Beauquier (029892732)'],,1989-01-01
+2007POIT2347,122573285,Chauvière,Bernard,Fini,Dominique Geniet,['Geniet (082988145)'],,2007-01-01
+2004POIT2269,082988056,Largeteau-Skapin,Gaëlle,Fini,"Francis Cottet, Dominique Geniet","['Cottet (032488130)', 'Geniet (082988145)']",,2004-01-01
+s383844,,Hawila,Ismail,Fini,Liliana Cucu-grosjean,['Cucu-grosjean (087109530)'],,2025-12-15
+2024BRES0126,284836613,Ait Habouche,Manele,Fini,"Jean-Philippe Babau, Goulven Guillou, Mickaël Kerboeuf","['Babau (127584803)', 'Guillou (152332677)', 'Kerboeuf (069393583)']",,2024-12-19
+2024UPAST159,284512656,Brulin,Pierre-Yves,Fini,"Nassim Rizoug, Fouad Khenfri","['Rizoug (103726314)', 'Khenfri (196372305)']",,2024-11-29
+2024LORR0017,278336833,Samson,Maxine,Fini,Ye-Qiong Song,['Song (115436286)'],,2024-01-24
+2023ULILB051,278383793,Senoussaoui,Ikram,Fini,"Giuseppe Lipari, Mohammed Kamel Benhaoua","['Lipari (160182379)', 'Benhaoua (259920673)']",,2023-12-14
+2023ESAE0005,269692509,Beck,Thomas,Fini,"Frédéric Boniol, Jérôme Ermont, Luc Maillet","['Boniol (125095864)', 'Ermont (162455100)', 'Maillet (163689784)']",,2023-01-17
+2023BRES0006,271733489,Atchadam,Ill-Ham,Fini,Frank Singhoff,['Singhoff (057757380)'],,2023-01-12
+2022ECDN0057,268203091,Haur,Imane,Fini,"Olivier-Henri Roux, Jean-Luc Béchennec","['Roux (066922836)', 'Béchennec (086974882)']",,2022-11-30
+2022INPT0051,269394141,Loche,Daniel,Fini,"Jean-Charles Fabre, Michaël Lauer","['Fabre (058354530)', 'Lauer (163762880)']",,2022-07-01
+2022ESAE0007,262446014,Rakotomalala,Lucien,Fini,"Marc Boyer, Pierre Roux","['Boyer (061690996)', 'Roux (17631959X)']",,2022-02-15
+2021LORR0360,265651077,Docquier,Théo,Fini,"Ye-Qiong Song, Vincent Chevrier","['Song (115436286)', 'Chevrier (06949066X)']",,2021-11-15
+2020BRES0081,260177458,El Baccouri,Hamza,Fini,Jean-Philippe Babau,['Babau (127584803)'],,2020-12-17
+2020INPT0044,230881467,Hotescu,Oana Andreea,Fini,"Jean-Luc Scharbarg, Katia Jaffrès-Runser","['Scharbarg (174212712)', 'Jaffrès-Runser (185513484)']",,2020-05-29
+2017SACLS405,224587099,Loulou,Hassan,Fini,Chérif Larouci,['Larouci (067318789)'],,2017-11-21
+2016ECDN0019,243614152,Tigori,Kabland Toussaint Gautier,Fini,"Olivier-Henri Roux, Jean-Luc Béchennec","['Roux (066922836)', 'Béchennec (086974882)']",,2016-11-24
+2016ISAR0009,197147097,Xia,Tian,Fini,Fabienne Uzel-Nouvel,['Uzel-Nouvel (098144022)'],,2016-07-05
+2016INPT0054,193956519,Badache,Nesrine,Fini,"Christian Fraboul, Jean-Luc Scharbarg","['Fraboul (085596337)', 'Scharbarg (174212712)']",,2016-05-27
+2016BESA2045,201785900,Abdulhameed,Abbas Abdulazeez,Fini,"Hassan Mountassir, Bruno Tatibouet, Ahmed Hammad","['Mountassir (117689483)', 'Tatibouet (034192646)', 'Hammad (197280544)']",,2016-03-04
+2014BRES0011,185220835,Mehiaoui,Asma,Fini,Jean-Philippe Babau,['Babau (127584803)'],,2014-06-16
+2014PA112056,17757187X,Ndoye,Falou,Fini,Yves Sorel,['Sorel (087109670)'],,2014-04-03
+2013ESMA0029,175835705,Ouhammou,Yassine,Fini,"Emmanuel Grolleau, Mickaël Richard, Pascal Richard","['Grolleau (086811843)', 'Richard (175835950)', 'Richard (155140078)']",,2013-12-12
+2011INPL097N,168778823,Khan,Dawood Ashraf,Fini,"Françoise Simonot-Lion, Nicolas Navet","['Simonot-Lion (074135910)', 'Navet (096306831)']",,2011-11-29
+2023ECDN0039,276485505,Bernabeu,Antoine,Fini,"Olivier-Henri Roux, Sébastien Faucou, Mikaël Briday","['Roux (066922836)', 'Faucou (077263847)', 'Briday (086961691)']",,2023-12-15
+2023ISAT0031,27577046X,Meunier,Rémi,Fini,"Thierry Monteil, Thomas Carle","['Monteil (078020301)', 'Carle (18325581X)']",,2023-11-30
+2020SORUS188,253135486,Ben Amor,Slim,Fini,Liliana Cucu,['Cucu (087109530)'],,2020-12-14
+2019GREAM045,243022123,Prévot,Christophe,Fini,"Alain Girault, Sophie Quinton","['Girault (087188910)', 'Quinton (151306850)']",,2019-11-15
+2018INPT0026,227299981,Ahmed Nacer,Abdelaziz,Fini,"Christian Fraboul, Jean-Luc Scharbarg","['Fraboul (085596337)', 'Scharbarg (174212712)']",,2018-03-09
+2017ESAE0011,203899997,Amari,Ahmed,Fini,"Jérôme Lacan, Ahlem Mifdaoui","['Lacan (145231577)', 'Mifdaoui (122900227)']",,2017-09-21
+2017ESAE0007,22565718X,Perret,Quentin,Fini,"Claire Pagetti, Eric Noulard","['Pagetti (08651542X)', 'Noulard (070745420)']",,2017-04-25
+2017ESAE0004,220210160,Brau,Guillaume,Fini,"Jérôme Hugues, Nicolas Navet","['Hugues (105679569)', 'Navet (096306831)']",,2017-03-13
+2015ESAE0019,23609856X,Kloda,Tomasz,Fini,Bruno d' Ausbourg,['Ausbourg (160732980)'],,2015-09-29
+2023ESMA0011,240254287,Ladeira Boechat Lemos,Matheus,Fini,"Emmanuel Grolleau, Yassine Ouhammou","['Grolleau (086811843)', 'Ouhammou (175835705)']",,2023-11-14
+2018ESMA0020,18967220X,Bui Long,Anh Toan,Fini,"Emmanuel Grolleau, Yassine Ouhammou","['Grolleau (086811843)', 'Ouhammou (175835705)']",,2018-12-20
+2010ESMA0012,15117718X,Dorin,François,Fini,"Pascal Richard, Michaël Richard, Emmanuel Grolleau","['Richard (07333930X)', 'Richard (073338923)', 'Grolleau (086811843)']",,2010-01-01
+2008POIT2307,132789256,Rahni,Ahmed,Fini,"Pascal Richard, Emmanuel Grolleau, Michaël Richard","['Richard (07333930X)', 'Grolleau (086811843)', 'Richard (073338923)']",,2008-01-01
+2008POIT2300,131308793,Ngo,Khanh Hieu,Fini,"Francis Cottet, Emmanuel Grolleau","['Cottet (032488130)', 'Grolleau (086811843)']",,2008-01-01
+2007POIT2261,117047600,Traore,Karim,Fini,"Francis Cottet, Emmanuel Grolleau","['Cottet (032488130)', 'Grolleau (086811843)']",,2007-01-01
+1999POIT2337,086811843,Grolleau,Emmanuel,Fini,Francis Cottet,['Cottet (032488130)'],,1999-01-01
+2023ULILB028,276041372,Grebant,Sandro,Fini,"Giuseppe Lipari, Julien Forget","['Lipari (160182379)', 'Forget (163689709)']",,2023-11-07
+2019GREAM002,236428802,Lo,Moustapha,Fini,"Florence Maraninchi, Pascal Raymond","['Maraninchi (060569026)', 'Raymond (080236170)']",,2019-02-22
+2002POIT2321,073338923,Richard,Michaël,Fini,"Francis Cottet, Pascal Richard","['Cottet (032488130)', 'Richard (07333930X)']",,2002-01-01
+2020NANT4032,254193226,Boukir,Khaoula,Fini,"Jean-Luc Béchennec, Anne-Marie Deplanche","['Béchennec (086974882)', 'Deplanche (030979110)']",,2020-12-16
+2018SORUS033,235108448,Klikpo,Enagnon Cédric,Fini,Alix Munier-Kordon,['Munier-Kordon (159831458)'],,2018-03-13
+2017BRES0011,226115984,Tran,Hai Nam,Fini,Frank Singhoff,['Singhoff (057757380)'],,2017-01-23
+2013NANT2010,192705717,Shehzad,Muhammad Naeem,Fini,"Yvon Trinquet, Anne-Marie Deplanche","['Trinquet (077231686)', 'Deplanche (030979110)']",,2013-01-01
+2002TOUR4024,129568899,Haro,Christophe,Fini,Christian Proust,['Proust (05978718X)'],,2002-01-01
+2018SORUS425,245411682,Khatib,Jad,Fini,"Alix Munier-Kordon, Kods Trabelsi","['Munier-Kordon (159831458)', 'Trabelsi (24541214X)']",,2018-09-11
+2017INPT0039,220114803,M'sirdi,Soukayna Raja,Fini,"Yamine Aït-Ameur, Marc Pantel","['Aït-Ameur (077275225)', 'Pantel (078866618)']",,2017-07-05
+2016LEHA0014,195961692,Belfkih,Abderrahmen,Fini,Bruno Sadeg,['Sadeg (109292146)'],,2016-10-17
+2016NANT4002,196372305,Khenfri,Fouad,Fini,"Maryline Chetto, Khaled Chaaban","['Chetto (097866962)', 'Chaaban (111875617)']",,2016-09-13
+2015PEST1030,189000945,Qamhieh,Manar,Fini,Laurent George,['George (061281190)'],,2015-01-26
+2012ENMP0017,162546629,Marouf,Mohamed,Fini,"Brigitte d' Andréa-Novel, Yves Sorel","['Andréa-Novel (029397251)', 'Sorel (087109670)']",,2012-06-01
+s406107,,Garreau,Richard,Fini,"Pascal Richard, Frédéric Ridouard","['Richard (07333930X)', 'Ridouard (113037937)']",,2024-11-28
+2010ESMA0014,176613129,Nguyen,Thi Huyen Chau,Fini,Pascal Richard,['Richard (07333930X)'],,2010-01-01
+2006POIT2323,113037937,Ridouard,Frédéric,Fini,Pascal Richard,['Richard (07333930X)'],,2006-01-01
+2020INPT0047,24043966X,Soni,Aakash,Fini,"Jean-Luc Scharbarg, Jérôme Ermont","['Scharbarg (174212712)', 'Ermont (162455100)']",,2020-06-05

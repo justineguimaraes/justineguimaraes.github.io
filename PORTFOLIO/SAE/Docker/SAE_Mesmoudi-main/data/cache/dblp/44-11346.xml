@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<dblpperson name="Allan Fousse" pid="44/11346" n="4">
+<person key="homepages/44/11346" mdate="2012-05-14">
+<author pid="44/11346">Allan Fousse</author>
+</person>
+<r><inproceedings key="conf/hci/LachaumeGGF16" mdate="2017-05-24">
+<author pid="05/11345">Thomas Lachaume</author>
+<author pid="48/6113-2">Patrick Girard 0002</author>
+<author pid="84/2640">Laurent Guittet</author>
+<author pid="44/11346">Allan Fousse</author>
+<title>Avoiding Inaccuracies in Task Models.</title>
+<pages>498-509</pages>
+<year>2016</year>
+<booktitle>HCI (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-39510-4_46</ee>
+<crossref>conf/hci/2016-1</crossref>
+<url>db/conf/hci/hci2016-1.html#LachaumeGGF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ergoihm/LachaumeCGFG12" mdate="2018-11-06">
+<author pid="05/11345">Thomas Lachaume</author>
+<author pid="05/5967">Sybille Caffiau</author>
+<author pid="48/6113-2">Patrick Girard 0002</author>
+<author pid="44/11346">Allan Fousse</author>
+<author pid="84/2640">Laurent Guittet</author>
+<title>Comparaison de diff&#233;rentes approches de simulation dans les mod&#232;les de t&#226;ches.</title>
+<pages>57</pages>
+<year>2012</year>
+<booktitle>Ergo'IHM</booktitle>
+<ee>https://doi.org/10.1145/2652574.2653410</ee>
+<crossref>conf/ergoihm/2012</crossref>
+<url>db/conf/ergoihm/ergoihm2012.html#LachaumeCGFG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hcse/ThomasPLA12" mdate="2018-06-26">
+<author pid="05/11345">Thomas Lachaume</author>
+<author pid="48/6113-2">Patrick Girard 0002</author>
+<author pid="84/2640">Laurent Guittet</author>
+<author pid="44/11346">Allan Fousse</author>
+<title>ProtoTask, New Task Model Simulator.</title>
+<pages>323-330</pages>
+<year>2012</year>
+<booktitle>HCSE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-34347-6_24</ee>
+<crossref>conf/hcse/2012</crossref>
+<url>db/conf/hcse/hcse2012.html#ThomasPLA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihm/LachaumeGGF11" mdate="2018-11-06">
+<author pid="05/11345">Thomas Lachaume</author>
+<author pid="48/6113-2">Patrick Girard 0002</author>
+<author pid="84/2640">Laurent Guittet</author>
+<author pid="44/11346">Allan Fousse</author>
+<title>Prototypage bas&#233; sur les mod&#232;les de t&#226;ches: une &#233;tude pilote.</title>
+<pages>23:1-23:4</pages>
+<year>2011</year>
+<booktitle>IHM</booktitle>
+<ee>https://doi.org/10.1145/2044354.2044383</ee>
+<crossref>conf/ihm/2011</crossref>
+<url>db/conf/ihm/ihm2011.html#LachaumeGGF11</url>
+</inproceedings>
+</r>
+<coauthors n="4" nc="1">
+<co c="0"><na f="c/Caffiau:Sybille" pid="05/5967">Sybille Caffiau</na></co>
+<co c="0"><na f="g/Girard_0002:Patrick" pid="48/6113-2">Patrick Girard 0002</na></co>
+<co c="0"><na f="g/Guittet:Laurent" pid="84/2640">Laurent Guittet</na></co>
+<co c="0"><na f="l/Lachaume:Thomas" pid="05/11345">Thomas Lachaume</na></co>
+</coauthors>
+</dblpperson>
+
