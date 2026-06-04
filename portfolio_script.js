@@ -120,7 +120,7 @@ var PROJECTS = {
     badge: "Visualisation",
     badgeClass: "badge-viz",
     title: "Intégration des données dans un DataWarehouse",
-    image: 'assets/talend.png',
+    image: 'assets/Talend.png',
     desc: "Conception d'un tableau de bord interactif destiné à l'aide à la décision, avec automatisation de l'alimentation des données via un pipeline ETL.",
     objectifs: [
       "Modéliser le besoin métier et définir les KPIs",
