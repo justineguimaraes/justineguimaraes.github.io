@@ -1,0 +1,779 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Justine Guimaraes — Data Analyst</title>
+  <link rel="stylesheet" href="portfolio_style.css" />
+</head>
+<body>
+
+<!-- ══════════════════════════════════════
+     NAVIGATION
+══════════════════════════════════════ -->
+<nav>
+  <div class="nav-logo">JG<span style="color:var(--text-dim)">_data</span></div>
+  <ul class="nav-links">
+    <li><a id="nav-accueil"     onclick="navigate('accueil')">Accueil</a></li>
+    <li><a id="nav-apropos"     onclick="navigate('apropos')">À propos</a></li>
+    <li><a id="nav-parcours"    onclick="navigate('parcours')">Parcours</a></li>
+    <li><a id="nav-projets"     onclick="navigate('projets')">Projets</a></li>
+    <li><a id="nav-competences" onclick="navigate('competences')">Compétences</a></li>
+    <li><a id="nav-contact"     onclick="navigate('contact')">Contact</a></li>
+  </ul>
+</nav>
+
+
+<!-- ══════════════════════════════════════
+     PAGE 1 — ACCUEIL
+══════════════════════════════════════ -->
+<section class="page" id="accueil">
+  <div class="hero-wrap">
+
+    <div class="hero-top">
+      <!-- Texte -->
+      <div>
+        <div class="hero-label">// Data Analyst · Alternance 2025–2027</div>
+        <h1 class="hero-name">Justine<br><em>Guimaraes</em></h1>
+        <div class="hero-role">BUT Sciences des données · Visualisation &amp; outils décisionnels</div>
+        <p class="hero-desc">
+          Passionnée par la transformation des données en décisions, je combine rigueur analytique,
+          curiosité et sens du terrain. Actuellement en alternance, je construis des ponts entre
+          la data et le monde réel.
+        </p>
+        <a class="cta-btn" onclick="navigate('parcours')">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M5 12h14M12 5l7 7-7 7"/>
+          </svg>
+          Découvrir mon parcours
+        </a>
+      </div>
+
+      <!-- Photo -->
+      <div class="hero-photo-wrap">
+        <div class="hero-photo-placeholder">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1">
+            <circle cx="12" cy="8" r="4"/>
+            <path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/>
+          </svg>
+          <img src="assets/CNI.jpg" alt="Photo" />
+        </div>
+      </div>
+    </div>
+
+    <!-- Stats -->
+    <div class="hero-stats">
+      <div>
+        <div class="stat-num">3<span>+</span></div>
+        <div class="stat-label">Années d'expérience</div>
+      </div>
+      <div>
+        <div class="stat-num"><em>∞</em></div>
+        <div class="stat-label">Curiosité analytique</div>
+      </div>
+      <div>
+        <div class="stat-num">4</div>
+        <div class="stat-label">Outils BI maîtrisés</div>
+      </div>
+      <div>
+        <div class="stat-num">1</div>
+        <div class="stat-label">An de voyage en solo</div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+<!-- ══════════════════════════════════════
+     PAGE 2 — À PROPOS
+══════════════════════════════════════ -->
+<section class="page" id="apropos">
+  <div class="section-wrap">
+
+    <div class="section-header">
+      <span class="section-num">01</span>
+      <h2 class="section-title">À propos <em>de moi</em></h2>
+    </div>
+
+    <div class="apropos-grid">
+
+      <!-- Texte de présentation -->
+      <div class="apropos-text">
+        <p>
+          Curieuse de nature et rigoureuse dans mes analyses, j'ai emprunté un chemin atypique
+          qui m'a conduite des sciences humaines à la data science. Après une <strong>licence en
+          psychologie</strong> et un <strong>master en économie comportementale et digitale</strong>,
+          j'ai choisi de me spécialiser dans les données — un domaine où la compréhension des
+          comportements humains rencontre la puissance des chiffres.
+        </p>
+        <p>
+          Ce qui me motive ? Donner du sens aux données brutes. Qu'il s'agisse de concevoir
+          un dashboard lisible, d'identifier une tendance cachée dans un jeu de données ou
+          d'automatiser un rapport, j'aime que mon travail ait un <strong>impact concret</strong>
+          pour ceux qui l'utilisent.
+        </p>
+        <p>
+          En dehors du travail, je suis une coureuse assidue (10 km en 58 min 42 s), une voyageuse
+          autonome qui a sillonné l'Asie du Sud-Est et l'Australie seule pendant un an, et une
+          amatrice de peinture à l'aquarelle. Ces expériences m'ont appris à <strong>m'adapter
+          rapidement</strong>, à gérer l'incertitude et à prioriser l'essentiel.
+        </p>
+
+        <div class="tag-cloud">
+          <span class="tag">Curiosité</span>
+          <span class="tag">Adaptabilité</span>
+          <span class="tag">Rigueur</span>
+          <span class="tag">Esprit d'équipe</span>
+          <span class="tag">Autonomie</span>
+          <span class="tag">Communication</span>
+          <span class="tag">Résilience</span>
+          <span class="tag">Prise d'initiative</span>
+        </div>
+      </div>
+
+      <!-- Bilan BUT 2 -->
+      <div>
+        <div class="bilan-box">
+          <div class="bilan-title">// Bilan — BUT 2ᵉ année</div>
+
+          <div class="bilan-item">
+            <div class="bilan-dot"></div>
+            <p><strong>Statistiques avancées</strong> — maîtrise des tests d'hypothèses, régressions linéaires et séries temporelles appliqués à des cas réels.</p>
+          </div>
+          <div class="bilan-item">
+            <div class="bilan-dot"></div>
+            <p><strong>Dashboards &amp; BI</strong> — conception d'outils décisionnels interactifs avec Power BI et Tableau, automatisation des flux de données.</p>
+          </div>
+          <div class="bilan-item">
+            <div class="bilan-dot"></div>
+            <p><strong>Bases de données</strong> — modélisation, requêtes SQL avancées et pipelines de données (Talend).</p>
+          </div>
+          <div class="bilan-item">
+            <div class="bilan-dot"></div>
+            <p><strong>Projets en équipe</strong> — conduite de projets data bout en bout, de la collecte à la restitution, avec des livrables concrets.</p>
+          </div>
+          <div class="bilan-item">
+            <div class="bilan-dot"></div>
+            <p><strong>Data storytelling</strong> — apprentissage de la narration par les données pour des présentations percutantes et accessibles.</p>
+          </div>
+
+          <div class="mini-chart">
+            <div class="bar-item" style="height:55%"></div>
+            <div class="bar-item" style="height:80%"></div>
+            <div class="bar-item" style="height:65%"></div>
+            <div class="bar-item" style="height:95%"></div>
+            <div class="bar-item" style="height:70%"></div>
+            <div class="bar-item" style="height:100%"></div>
+            <div class="bar-item" style="height:85%"></div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- ══════════════════════════════════════
+     PAGE 3 — PARCOURS
+══════════════════════════════════════ -->
+<section class="page" id="parcours">
+  <div class="section-wrap">
+
+    <div class="section-header">
+      <span class="section-num">02</span>
+      <h2 class="section-title">Mon <em>parcours</em></h2>
+    </div>
+
+    <div class="timeline">
+
+      <!-- BUT -->
+      <div class="timeline-item">
+        <div class="timeline-date">2025 — 2027</div>
+        <div class="timeline-institution">IUT de Poitiers / Campus de Niort</div>
+        <div class="timeline-degree">BUT Science des données — Parcours Visualisation &amp; outils décisionnels</div>
+        <ul class="timeline-details">
+          <li>Analyse et traitement de données pour la prise de décision</li>
+          <li>Conception et automatisation d'outils décisionnels et dashboards</li>
+          <li>Visualisation de données avec Power BI, Tableau, SAS</li>
+          <li>Programmation : Python, SQL, PHP, VBA</li>
+          <li>Gestion de bases de données et pipelines (Talend)</li>
+        </ul>
+      </div>
+
+      <!-- Master -->
+      <div class="timeline-item">
+        <div class="timeline-date">2021 — 2023</div>
+        <div class="timeline-institution">Université de Bourgogne Franche-Comté · IAE de Dijon</div>
+        <div class="timeline-degree">Master international BDEEM — Behavioral &amp; Digital Economics for Effective Management</div>
+        <ul class="timeline-details">
+          <li>Analyse de données, travail en équipe et gestion de projet</li>
+          <li>Rapport en anglais : analyse des facteurs influençant les recettes et notes d'un film (RStudio)</li>
+          <li>Économie comportementale, marketing digital, stratégie internationale</li>
+        </ul>
+      </div>
+
+      <!-- Licence -->
+      <div class="timeline-item">
+        <div class="timeline-date">2018 — 2021</div>
+        <div class="timeline-institution">Université de Caen</div>
+        <div class="timeline-degree">Licence de Psychologie</div>
+        <ul class="timeline-details">
+          <li>Méthodes quantitatives et qualitatives d'analyse</li>
+          <li>Compréhension des comportements humains et des biais cognitifs</li>
+          <li>Rédaction scientifique et esprit de synthèse</li>
+        </ul>
+      </div>
+
+    </div>
+
+    <!-- Expériences pro -->
+    <div class="section-header" style="margin-top: 4rem;">
+      <span class="section-num">02b</span>
+      <h2 class="section-title">Expériences <em>pro</em></h2>
+    </div>
+
+    <div class="timeline">
+
+      <div class="timeline-item">
+        <div class="timeline-date">2023 — 2024</div>
+        <div class="timeline-institution">Socram Banque</div>
+        <div class="timeline-degree">Conseillière — Service recouvrement crédit</div>
+        <ul class="timeline-details">
+          <li>Contrôle et traitement de données clients, suivi des procédures et reporting</li>
+          <li>Répartition et suivi des mails et courriers officiels</li>
+        </ul>
+      </div>
+
+      <div class="timeline-item">
+        <div class="timeline-date">Mars — Juin 2023</div>
+        <div class="timeline-institution">EuCham · European Chamber (Hongrie)</div>
+        <div class="timeline-degree">Stage à l'étranger</div>
+        <ul class="timeline-details">
+          <li>Analyse de données socio-économiques et macroéconomiques</li>
+          <li>Conception et mise en place d'un jeu interactif pour l'entreprise</li>
+          <li>Gestion de projets et réseautage dans un environnement international</li>
+        </ul>
+      </div>
+
+      <div class="timeline-item">
+        <div class="timeline-date">Fév. — Juin 2022</div>
+        <div class="timeline-institution">Finances &amp; Territoires</div>
+        <div class="timeline-degree">Stage — Chargée de veille stratégique et rédaction</div>
+        <ul class="timeline-details">
+          <li>Analyse et identification d'appels à projets pertinents pour les clients</li>
+          <li>Rédaction de synthèses claires pour faciliter l'exploitation des informations</li>
+          <li>Travail en équipe pour garantir la qualité des propositions</li>
+        </ul>
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+
+<!-- ══════════════════════════════════════
+     PAGE 4 — PROJETS
+══════════════════════════════════════ -->
+<section class="page" id="projets">
+  <div class="section-wrap">
+
+    <div class="section-header">
+      <span class="section-num">03</span>
+      <h2 class="section-title">Mes <em>projets</em></h2>
+    </div>
+
+    <!-- Onglets BUT 2 / BUT 3 -->
+    <div class="proj-tabs">
+      <button class="proj-tab active" id="tab-but2" onclick="showProjPanel('but2')">BUT 2ᵉ année</button>
+      <button class="proj-tab"        id="tab-but3" onclick="showProjPanel('but3')">BUT 3ᵉ année</button>
+    </div>
+
+    <!-- Panel BUT 2 -->
+    <div class="proj-panel active" id="proj-but2">
+      <div class="proj-grid">
+
+        <div class="proj-card" data-proj="cinema" onclick="openProjectModal('cinema')">
+          <div class="proj-card-top">
+            <span class="proj-icon">📊</span>
+            <span class="proj-badge badge-stat">Statistiques</span>
+          </div>
+          
+          <h3>Développement d’un composant d’une solution décisionnelle</h3>
+          <p>Analyse des facteurs influençant les recettes et les notes d'un film. Régressions linéaires, tests d'hypothèses, visualisation des résultats.</p>
+          <div class="proj-tools">
+            <span class="proj-tool">Docker</span>
+            <span class="proj-tool">Github</span>
+          </div>
+          <div class="proj-card-cta">Voir la fiche <span>→</span></div>
+        </div>
+
+        <div class="proj-card" data-proj="talend" onclick="openProjectModal('talend')">
+          <div class="proj-card-top">
+            <span class="proj-icon">📈</span>
+            <span class="proj-badge badge-viz">Visualisation</span>
+          </div>
+          
+          <h3>Intégration des données dans un DataWarehouse</h3>
+          <p>Conception d'un tableau de bord interactif destiné à l'aide à la décision, avec automatisation de l'alimentation des données.</p>
+          <div class="proj-tools">
+            <span class="proj-tool">Talend</span>
+          </div>
+          <div class="proj-card-cta">Voir la fiche <span>→</span></div>
+        </div>
+
+        <div class="proj-card" data-proj="bdd" onclick="openProjectModal('bdd')">
+          <div class="proj-card-top">
+            <span class="proj-icon">🗄️</span>
+            <span class="proj-badge badge-ml">Base de données</span>
+          </div>
+          
+          <h3>Modélisation base de données</h3>
+          <p>Conception et implémentation d'une base de données relationnelle, requêtes complexes et optimisation des performances.</p>
+          <div class="proj-tools">
+            <span class="proj-tool">SQL</span>
+            <span class="proj-tool">Merise</span>
+            <span class="proj-tool">PHP</span>
+          </div>
+          <div class="proj-card-cta">Voir la fiche <span>→</span></div>
+        </div>
+
+        <div class="proj-card proj-card--featured" data-proj="velib" onclick="openProjectModal('velib')">
+          <div class="proj-card-top">
+            <span class="proj-icon">🚲</span>
+            <span class="proj-badge badge-api">API · DataViz</span>
+          </div>
+          
+          <h3>Dashboard Vélib Paris</h3>
+          <p>Collecte en temps réel des données Vélib via l'API OpenData Paris, dashboard interactif HTML avec carte et graphiques.</p>
+          <div class="proj-tools">
+            <span class="proj-tool">Python</span>
+            <span class="proj-tool">API REST</span>
+            <span class="proj-tool">Pandas</span>
+            <span class="proj-tool">Leaflet.js</span>
+            <span class="proj-tool">Chart.js</span>
+          </div>
+          <div class="proj-card-cta">Voir la fiche <span>→</span></div>
+        </div>
+
+        <div class="proj-card" data-proj="aluminium" onclick="openProjectModal('aluminium')">
+          <div class="proj-card-top">
+            <span class="proj-icon">📉</span>
+            <span class="proj-badge badge-ts">Séries temporelles</span>
+          </div>
+          
+          <h3>Prévision du prix de l'aluminium</h3>
+          <p>Modélisation d'une série temporelle mensuelle (FMI, 1992-2025) et prévision du prix de l'aluminium jusqu'en 2026 via un modèle additif.</p>
+          <div class="proj-tools">
+            <span class="proj-tool">Excel</span>
+            <span class="proj-tool">Séries temporelles</span>
+            <span class="proj-tool">Prévision</span>
+          </div>
+          <div class="proj-card-cta">Voir la fiche <span>→</span></div>
+        </div>
+
+        <div class="proj-card" data-proj="futurIA" onclick="openProjectModal('futurIA')">
+          <div class="proj-card-top">
+            <span class="proj-icon">🤖</span>
+            <span class="proj-badge badge-territory">Besoins du territoire</span>
+          </div>
+          
+          <h3>Sensibilisation à l'IA — Future of IA</h3>
+          <p>Animation d'ateliers de sensibilisation à l'IA en lycée (Latitudes), analyse des questionnaires de satisfaction de 68 élèves.</p>
+          <div class="proj-tools">
+            <span class="proj-tool">Excel</span>
+            <span class="proj-tool">Data viz</span>
+            <span class="proj-tool">Pédagogie</span>
+          </div>
+          <div class="proj-card-cta">Voir la fiche <span>→</span></div>
+        </div>
+
+        <div class="proj-card" data-proj="rshiny" onclick="openProjectModal('rshiny')">
+          <div class="proj-card-top">
+            <span class="proj-icon">📐</span>
+            <span class="proj-badge badge-stat">Analyse multivariée</span>
+          </div>
+          
+          <h3>Reporting analyse multivariée</h3>
+          <p>Application interactive R Shiny de reporting statistique déployée en ligne, permettant d'explorer des données multivariées.</p>
+          <div class="proj-tools">
+            <span class="proj-tool">R Shiny</span>
+            <span class="proj-tool">Analyse multivariée</span>
+          </div>
+          <div class="proj-card-cta">Voir la fiche <span>→</span></div>
+        </div>
+
+        <div class="proj-card" data-proj="carte" onclick="openProjectModal('carte')">
+          <div class="proj-card-top">
+            <span class="proj-icon">🗺️</span>
+            <span class="proj-badge badge-viz">Cartographie</span>
+          </div>
+
+          <h3>QGIS : Les McDonald's en France métropolitaine</h3>
+          <p>Réalisation de deux cartes concernant les structures déjà existantes de Mcdonalds sur le territoire de la France Métropolitaine.</p>
+          <div class="proj-tools">
+            <span class="proj-tool">QGIS</span>
+          </div>
+          <div class="proj-card-cta">Voir la fiche <span>→</span></div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Panel BUT 3 -->
+    <div class="proj-panel" id="proj-but3">
+      <div class="proj-empty">
+        <p>// Projets BUT 3 à venir</p>
+        <p style="margin-top: 0.5rem; font-size: 0.75rem; opacity: 0.6;">Cette section sera complétée au fil de l'année en alternance.</p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+<!-- ══════════════════════════════════════
+     PAGE 5 — COMPÉTENCES
+══════════════════════════════════════ -->
+<section class="page" id="competences">
+  <div class="section-wrap">
+
+    <div class="section-header">
+      <span class="section-num">04</span>
+      <h2 class="section-title">Mes <em>compétences</em></h2>
+    </div>
+
+    <div class="skills-grid">
+
+      <!-- Informatiques -->
+      <div class="skill-block">
+        <div class="skill-block-title">Outils &amp; logiciels</div>
+
+        <div class="skill-row">
+          <div class="skill-name-row">
+            <span class="skill-name">Power BI / Tableau</span>
+            <span class="skill-level">Avancé</span>
+          </div>
+          <div class="skill-bar-bg"><div class="skill-bar" style="width:85%"></div></div>
+        </div>
+
+        <div class="skill-row">
+          <div class="skill-name-row">
+            <span class="skill-name">Excel / VBA</span>
+            <span class="skill-level">Avancé</span>
+          </div>
+          <div class="skill-bar-bg"><div class="skill-bar" style="width:85%"></div></div>
+        </div>
+
+        <div class="skill-row">
+          <div class="skill-name-row">
+            <span class="skill-name">SQL</span>
+            <span class="skill-level">Intermédiaire</span>
+          </div>
+          <div class="skill-bar-bg"><div class="skill-bar" style="width:70%"></div></div>
+        </div>
+
+        <div class="skill-row">
+          <div class="skill-name-row">
+            <span class="skill-name">Python</span>
+            <span class="skill-level">Intermédiaire</span>
+          </div>
+          <div class="skill-bar-bg"><div class="skill-bar" style="width:65%"></div></div>
+        </div>
+
+        <div class="skill-row">
+          <div class="skill-name-row">
+            <span class="skill-name">RStudio / SAS</span>
+            <span class="skill-level">Intermédiaire</span>
+          </div>
+          <div class="skill-bar-bg"><div class="skill-bar" style="width:60%"></div></div>
+        </div>
+
+        <div class="skill-row">
+          <div class="skill-name-row">
+            <span class="skill-name">Talend</span>
+            <span class="skill-level">Notions</span>
+          </div>
+          <div class="skill-bar-bg"><div class="skill-bar" style="width:40%"></div></div>
+        </div>
+      </div>
+
+      <!-- Mathématiques / Statistiques -->
+      <div class="skill-block">
+        <div class="skill-block-title">Statistiques &amp; maths</div>
+
+        <div class="skill-row">
+          <div class="skill-name-row">
+            <span class="skill-name">Statistiques descriptives</span>
+            <span class="skill-level">Avancé</span>
+          </div>
+          <div class="skill-bar-bg"><div class="skill-bar" style="width:90%"></div></div>
+        </div>
+
+        <div class="skill-row">
+          <div class="skill-name-row">
+            <span class="skill-name">Régressions linéaires</span>
+            <span class="skill-level">Avancé</span>
+          </div>
+          <div class="skill-bar-bg"><div class="skill-bar" style="width:85%"></div></div>
+        </div>
+
+        <div class="skill-row">
+          <div class="skill-name-row">
+            <span class="skill-name">Tests d'hypothèses</span>
+            <span class="skill-level">Intermédiaire</span>
+          </div>
+          <div class="skill-bar-bg"><div class="skill-bar" style="width:75%"></div></div>
+        </div>
+
+        <div class="skill-row">
+          <div class="skill-name-row">
+            <span class="skill-name">Séries temporelles</span>
+            <span class="skill-level">Intermédiaire</span>
+          </div>
+          <div class="skill-bar-bg"><div class="skill-bar" style="width:65%"></div></div>
+        </div>
+      </div>
+
+      <!-- Transversales -->
+      <div class="skill-block">
+        <div class="skill-block-title">Compétences transversales</div>
+        <ul class="skill-list">
+          <li>Gestion de projet et coordination d'équipe</li>
+          <li>Communication écrite et orale (data storytelling)</li>
+          <li>Veille stratégique et analyse documentaire</li>
+          <li>Anglais C1 — environnements professionnels internationaux</li>
+          <li>Espagnol A2</li>
+          <li>Réseautage en contexte international (Hongrie)</li>
+        </ul>
+      </div>
+
+      <!-- Personnelles -->
+      <div class="skill-block">
+        <div class="skill-block-title">Savoir-être</div>
+        <ul class="skill-list">
+          <li>Curiosité et appétence pour l'apprentissage continu</li>
+          <li>Rigueur et sens du détail</li>
+          <li>Adaptabilité (voyage solo d'un an en Asie-Australie)</li>
+          <li>Prise d'initiative et autonomie</li>
+          <li>Résilience et gestion de l'incertitude</li>
+          <li>Créativité (peinture, aquarelle)</li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- ══════════════════════════════════════
+     PAGE 6 — CONTACT
+══════════════════════════════════════ -->
+<section class="page" id="contact">
+  <div class="section-wrap">
+
+    <div class="section-header">
+      <span class="section-num">05</span>
+      <h2 class="section-title">Me <em>contacter</em></h2>
+    </div>
+
+    <div class="contact-grid">
+
+      <!-- Infos -->
+      <div>
+        <p class="contact-intro">Parlons <em>données</em><br>ensemble.</p>
+        <p class="contact-sub">
+          Disponible pour une alternance en tant que data analyst. N'hésitez pas à me contacter
+          pour discuter de vos besoins ou d'une opportunité.
+        </p>
+
+        <div class="contact-items">
+
+          <div class="contact-item">
+            <div class="contact-item-icon">📍</div>
+            <div>
+              <div class="contact-item-label">Adresse</div>
+              <div class="contact-item-value">18 rue de Nambot, 79000 Niort</div>
+            </div>
+          </div>
+
+          <div class="contact-item">
+            <div class="contact-item-icon">📞</div>
+            <div>
+              <div class="contact-item-label">Téléphone</div>
+              <div class="contact-item-value">
+                <a href="tel:+33695663381">06 95 66 33 81</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="contact-item">
+            <div class="contact-item-icon">✉️</div>
+            <div>
+              <div class="contact-item-label">Email</div>
+              <div class="contact-item-value">
+                <a href="/cdn-cgi/l/email-protection#9af0efe9eef3f4ffacb4fdeff3f7fbe8fbffe9dafdf7fbf3f6b4f9f5f7"><span class="__cf_email__" data-cfemail="adc7d8ded9c4c3c89b83cad8c4c0ccdfccc8deedcac0ccc4c183cec2c0">[email&#160;protected]</span></a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="contact-actions">
+          <a class="btn-primary" href="assets/reports/CV_Justine_Guimaraes.pdf" download>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4M7 10l5 5 5-5M12 15V3"/>
+            </svg>
+            Télécharger mon CV
+          </a>
+          <a class="btn-secondary" href="https://www.linkedin.com/in/justine-guimaraes" target="_blank" rel="noopener">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6z"/>
+              <rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/>
+            </svg>
+            Voir mon LinkedIn
+          </a>
+        </div>
+      </div>
+
+      <!-- Carte LinkedIn décorative -->
+      <div>
+        <div class="deco-card">
+          <div class="deco-card-title">// LinkedIn</div>
+          <div class="linkedin-card">
+            <div class="linkedin-avatar">JG</div>
+            <div class="linkedin-info">
+              <h4>Justine Guimaraes</h4>
+              <p>Étudiante BUT Sciences des données<br>Alternante Data Analyst</p>
+            </div>
+          </div>
+          <a class="linkedin-link" href="https://www.linkedin.com/in/justine-guimaraes" target="_blank" rel="noopener">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+            linkedin.com/in/justine-guimaraes
+          </a>
+        </div>
+
+        <div class="deco-card">
+          <div class="deco-card-title">// Disponibilité</div>
+          <p style="font-size:0.88rem; color:var(--text-muted); line-height:1.7;">
+            En alternance depuis <strong style="color:var(--text)">2025</strong>, disponible pour
+            des échanges autour de projets data, d'opportunités ou simplement pour
+            partager des idées autour de la data.
+          </p>
+          <div style="display:flex; align-items:center; gap:0.6rem; margin-top:1.2rem;">
+            <span style="width:8px;height:8px;border-radius:50%;background:var(--accent);display:inline-block;box-shadow:0 0 8px rgba(110,231,199,0.6)"></span>
+            <span style="font-family:var(--mono);font-size:0.72rem;color:var(--accent);letter-spacing:0.08em;">En alternance · Niort</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- ══════════════════════════════════════
+     FOOTER
+══════════════════════════════════════ -->
+<footer>
+  © 2026 — Justine Guimaraes &nbsp;·&nbsp; BUT Sciences des données &nbsp;·&nbsp; IUT de Poitiers / Niort
+</footer>
+
+
+<!-- ══════════════════════════════════════
+     MODAL — FICHE PROJET
+══════════════════════════════════════ -->
+<div class="proj-modal-overlay" id="projModalOverlay" onclick="closeProjectModal(event)">
+  <div class="proj-modal" id="projModal">
+
+    <!-- Header modal -->
+    <div class="proj-modal-header">
+      <div class="proj-modal-meta">
+        <span class="proj-modal-icon" id="modalIcon"></span>
+        <div>
+          <div class="proj-modal-badge-wrap" id="modalBadgeWrap"></div>
+          <h2 class="proj-modal-title" id="modalTitle"></h2>
+        </div>
+      </div>
+      <button class="proj-modal-close" onclick="closeProjectModal(null)">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M18 6L6 18M6 6l12 12"/>
+        </svg>
+      </button>
+    </div>
+
+    <!-- Scrollable body -->
+
+    <div class="proj-modal-body">
+
+      <!-- Image du projet (optionnel) -->
+      <div class="proj-modal-section" id="modalImageSection" style="display:none">
+        <img id="modalImage" src="" alt="" class="proj-modal-img">
+      </div>
+
+      <!-- Description -->
+      <div class="proj-modal-section">
+        <div class="proj-modal-section-label">// Description</div>
+        <p class="proj-modal-desc" id="modalDesc"></p>
+      </div>
+
+      <!-- Objectifs -->
+      <div class="proj-modal-section" id="modalObjectifsSection">
+        <div class="proj-modal-section-label">// Objectifs</div>
+        <ul class="proj-modal-list" id="modalObjectifs"></ul>
+      </div>
+
+      <!-- Compétences acquises -->
+      <div class="proj-modal-section">
+        <div class="proj-modal-section-label">// Compétences acquises</div>
+        <div class="proj-modal-tags" id="modalSkills"></div>
+      </div>
+
+      <!-- Outils -->
+      <div class="proj-modal-section">
+        <div class="proj-modal-section-label">// Outils utilisés</div>
+        <div class="proj-modal-tools-list" id="modalTools"></div>
+      </div>
+
+      <!-- Code (optionnel) -->
+      <div class="proj-modal-section proj-modal-code-section" id="modalCodeSection" style="display:none">
+        <div class="proj-modal-section-label">
+          // Code source
+          <button class="code-copy-btn" id="codeCopyBtn" onclick="copyCode()">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/>
+            </svg>
+            Copier
+          </button>
+        </div>
+        <pre class="proj-modal-code" id="modalCode"></pre>
+      </div>
+
+      <!-- Actions : rapport PDF + lien externe -->
+      <div class="proj-modal-actions" id="modalActionsSection" style="display:none">
+        <a class="proj-modal-action-btn btn-rapport" id="modalRapportBtn" href="#" download target="_blank" rel="noopener">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4M7 10l5 5 5-5M12 15V3"/>
+          </svg>
+          Télécharger le rapport
+        </a>
+        <a class="proj-modal-action-btn btn-link" id="modalLinkBtn" href="#" target="_blank" rel="noopener">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+          </svg>
+          Voir l'application
+        </a>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+<script src="portfolio_script.js"></script>
+</body>
+</html>

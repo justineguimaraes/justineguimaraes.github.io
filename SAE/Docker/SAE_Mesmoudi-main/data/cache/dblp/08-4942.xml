@@ -1,0 +1,620 @@
+<?xml version="1.0"?>
+<dblpperson name="Micka&#235;l Baron" pid="08/4942" n="41">
+<person key="homepages/08/4942" mdate="2019-01-10">
+<author pid="08/4942">Micka&#235;l Baron</author>
+<url>http://www.lias-lab.fr/members/mickaelbaron</url>
+<url>http://mbaron.developpez.com/</url>
+<url>http://keulkeul.blogspot.de/</url>
+<url>https://scholar.google.com/citations?user=ft3n180AAAAJ</url>
+</person>
+<r><inproceedings key="conf/dexa/HaririJB25" mdate="2025-10-15">
+<author pid="230/2955">Ali Hariri</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author orcid="0000-0002-3356-0835" pid="08/4942">Micka&#235;l Baron</author>
+<title>Towards Automating RDF Extraction for Archaeological Knowledge Graphs with LLMs.</title>
+<pages>83-97</pages>
+<year>2025</year>
+<booktitle>DEXA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-02049-9_6</ee>
+<crossref>conf/dexa/2025-1</crossref>
+<url>db/conf/dexa/dexa2025-1.html#HaririJB25</url>
+<stream>streams/conf/dexa</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismis/HaennCB24" mdate="2024-10-06">
+<author orcid="0009-0009-1663-0107" pid="378/8068">Quentin Haenn</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Clustering Under Radius Constraints Using Minimum Dominating Sets.</title>
+<pages>14-23</pages>
+<year>2024</year>
+<booktitle>ISMIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-62700-2_2</ee>
+<crossref>conf/ismis/2024</crossref>
+<url>db/conf/ismis/ismis2024.html#HaennCB24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismis/PerrotBCJ24" mdate="2024-06-26">
+<author pid="355/4356">Maxime Perrot</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<title>Knowledge Graphs for Data Integration in Retail.</title>
+<pages>231-245</pages>
+<year>2024</year>
+<booktitle>ISMIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-62700-2_21</ee>
+<crossref>conf/ismis/2024</crossref>
+<url>db/conf/ismis/ismis2024.html#PerrotBCJ24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/PerrotBCJ23" mdate="2023-09-01">
+<author pid="355/4356">Maxime Perrot</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<title>Thesaurus-Based Transformation: A Classification Method for Real Dirty Data.</title>
+<pages>256-265</pages>
+<year>2023</year>
+<booktitle>ADBIS (Short Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-42941-5_23</ee>
+<crossref>conf/adbis/2023short</crossref>
+<url>db/conf/adbis/adbis2023short.html#PerrotBCJ23</url>
+</inproceedings>
+</r>
+<r><article key="journals/kais/ParkinCJHB22" mdate="2022-09-22">
+<author orcid="0000-0002-6522-3526" pid="300/8750">Louise Parkin</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>A cooperative treatment of the plethoric answers problem in RDF.</title>
+<pages>2481-2514</pages>
+<year>2022</year>
+<volume>64</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1007/s10115-022-01710-8</ee>
+<url>db/journals/kais/kais64.html#ParkinCJHB22</url>
+</article>
+</r>
+<r><inproceedings key="conf/rcis/SellamiBJBHC22" mdate="2022-05-16">
+<author pid="234/1600">Chayma Sellami</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="47/1403">Mounir Bechchi</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="225/8923">Dominique Chabot</author>
+<title>Trust Model Recommendation Driven by Application Requirements.</title>
+<pages>694-702</pages>
+<year>2022</year>
+<booktitle>RCIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-05760-1_45</ee>
+<crossref>conf/rcis/2022</crossref>
+<url>db/conf/rcis/rcis2022.html#SellamiBJBHC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/ParkinCJHB21" mdate="2021-09-02">
+<author pid="300/8750">Louise Parkin</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Dealing with Plethoric Answers of SPARQL Queries.</title>
+<pages>292-304</pages>
+<year>2021</year>
+<booktitle>DEXA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86472-9_27</ee>
+<crossref>conf/dexa/2021-1</crossref>
+<url>db/conf/dexa/dexa2021-1.html#ParkinCJHB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rcis/SellamiBBHJC21" mdate="2021-05-14">
+<author pid="234/1600">Chayma Sellami</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<author pid="47/1403">Mounir Bechchi</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="225/8923">Dominique Chabot</author>
+<title>Towards a Unified Framework for Computational Trust and Reputation Models for e-Commerce Applications.</title>
+<pages>616-622</pages>
+<year>2021</year>
+<booktitle>RCIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-75018-3_44</ee>
+<crossref>conf/rcis/2021</crossref>
+<url>db/conf/rcis/rcis2021.html#SellamiBBHJC21</url>
+</inproceedings>
+</r>
+<r><article key="journals/kais/DellalJHCB19" mdate="2025-01-19">
+<author pid="201/5364">Ibrahim Dellal</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Query answering over uncertain RDF knowledge bases: explain and obviate unsuccessful query results.</title>
+<pages>1633-1665</pages>
+<year>2019</year>
+<volume>61</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10115-019-01332-7</ee>
+<ee>https://www.wikidata.org/entity/Q128428669</ee>
+<url>db/journals/kais/kais61.html#DellalJHCB19</url>
+</article>
+</r>
+<r><article key="journals/dn/DellalJHCB18" mdate="2019-07-26">
+<author pid="201/5364">Ibrahim Dellal</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Traitement coop&#233;ratif des requ&#234;tes RDF dans le contexte des bases de connaissances incertaines.</title>
+<pages>9-35</pages>
+<year>2018</year>
+<volume>21</volume>
+<journal>Document Num&#233;rique</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.3166/dn.21.1-2.9-35</ee>
+<url>db/journals/dn/dn21.html#DellalJHCB18</url>
+</article>
+</r>
+<r><article key="journals/jdwm/PonchateauBOB18" mdate="2020-08-20">
+<author pid="208/7657">Cyrille Ponchateau</author>
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<author pid="o/CarlosOrdonez">Carlos Ordonez 0001</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>A Mathematical Database to Process Time Series.</title>
+<pages>1-21</pages>
+<year>2018</year>
+<volume>14</volume>
+<journal>Int. J. Data Warehous. Min.</journal>
+<number>3</number>
+<ee>https://doi.org/10.4018/IJDWM.2018070101</ee>
+<url>db/journals/jdwm/jdwm14.html#PonchateauBOB18</url>
+</article>
+</r>
+<r><article key="journals/kais/FokouJHB17" mdate="2017-05-28">
+<author pid="124/9773">G&#233;raud Fokou</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Handling failing RDF queries: from diagnosis to relaxation.</title>
+<pages>167-195</pages>
+<year>2017</year>
+<volume>50</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10115-016-0941-0</ee>
+<url>db/journals/kais/kais50.html#FokouJHB17</url>
+</article>
+</r>
+<r><article key="journals/soco/AmeurBBJS17" mdate="2017-05-20">
+<author pid="a/YamineAitAmeur">Yamine A&#239;t Ameur</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="22/4347">Eric Sardet</author>
+<title>Ontologies in engineering: the OntoDB/OntoQL platform.</title>
+<pages>369-389</pages>
+<year>2017</year>
+<volume>21</volume>
+<journal>Soft Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00500-015-1633-5</ee>
+<url>db/journals/soco/soco21.html#AmeurBBJS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/dexa/DellalJHCB17" mdate="2017-08-14">
+<author pid="201/5364">Ibrahim Dellal</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>On Addressing the Empty Answer Problem in Uncertain Knowledge Bases.</title>
+<pages>120-129</pages>
+<year>2017</year>
+<booktitle>DEXA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-64468-4_9</ee>
+<crossref>conf/dexa/2017-1</crossref>
+<url>db/conf/dexa/dexa2017-1.html#DellalJHCB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inforsid/DellalJHCB17" mdate="2021-02-01">
+<author pid="201/5364">Ibrahim Dellal</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Traitement coop&#233;ratif des requ&#234;tes RDF dans le contexte des bases de connaissances incertaines.</title>
+<pages>277-292</pages>
+<year>2017</year>
+<booktitle>INFORSID</booktitle>
+<ee type="oa">http://inforsid.fr/actes/2017/INFORSID_2017_paper_16</ee>
+<crossref>conf/inforsid/2017</crossref>
+<url>db/conf/inforsid/inforsid2017.html#DellalJHCB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eda/PonchateauBB16" mdate="2019-10-22">
+<author pid="208/7657">Cyrille Ponchateau</author>
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Entrep&#244;t de Donn&#233;es dans l'&#232;re Data Science : De la Donn&#233;e au Mod&#232;le.</title>
+<pages>65-80</pages>
+<year>2016</year>
+<booktitle>EDA</booktitle>
+<ee>http://editions-rnti.fr/?inprocid=1002255</ee>
+<crossref>conf/eda/2016</crossref>
+<url>db/conf/eda/eda2016.html#PonchateauBB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esws/FokouJHB16" mdate="2017-05-24">
+<author pid="124/9773">G&#233;raud Fokou</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>RDF Query Relaxation Strategies Based on Failure Causes.</title>
+<pages>439-454</pages>
+<year>2016</year>
+<booktitle>ESWC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-34129-3_27</ee>
+<crossref>conf/esws/2016</crossref>
+<url>db/conf/esws/eswc2016.html#FokouJHB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/FokouJHB15" mdate="2021-01-29">
+<author pid="124/9773">G&#233;raud Fokou</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>QaRS: A User-Friendly Graphical Tool for Semantic Query Design and Relaxation.</title>
+<pages>553-556</pages>
+<year>2015</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2015.56</ee>
+<crossref>conf/edbt/2015</crossref>
+<url>db/conf/edbt/edbt2015.html#FokouJHB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esws/FokouJHB15" mdate="2017-05-24">
+<author pid="124/9773">G&#233;raud Fokou</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Cooperative Techniques for SPARQL Query Relaxation in RDF Databases.</title>
+<pages>237-252</pages>
+<year>2015</year>
+<booktitle>ESWC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-18818-8_15</ee>
+<crossref>conf/esws/2015</crossref>
+<url>db/conf/esws/eswc2015.html#FokouJHB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/BouararBJB14" mdate="2017-05-21">
+<author pid="125/2719">Selma Bouarar</author>
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Do Rule-Based Approaches Still Make Sense in Logical Data Warehouse Design?</title>
+<pages>83-96</pages>
+<year>2014</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-10933-6_7</ee>
+<crossref>conf/adbis/2014</crossref>
+<url>db/conf/adbis/adbis2014.html#BouararBJB14</url>
+</inproceedings>
+</r>
+<r><article key="journals/isi/MbaiossoumBJB13" mdate="2022-03-16">
+<author pid="126/9081">Bery Leouro Mbaiossoum</author>
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Comparaison th&#233;orique et empirique de syst&#232;mes de bases de donn&#233;es s&#233;mantiques.</title>
+<pages>39-63</pages>
+<year>2013</year>
+<volume>18</volume>
+<journal>Ing&#233;nierie des Syst&#232;mes d Inf.</journal>
+<number>3</number>
+<ee type="archive">https://doi.org/10.3166/isi.18.3.39-63</ee>
+<url>db/journals/isi/isi18.html#MbaiossoumBJB13</url>
+</article>
+</r>
+<r><inproceedings key="conf/er/JeanBOFB13" mdate="2017-11-21">
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<author pid="o/CarlosOrdonez">Carlos Ordonez 0001</author>
+<author pid="124/9773">G&#233;raud Fokou</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>OntoDBench: Interactively Benchmarking Ontology Storage in a Database.</title>
+<pages>499-503</pages>
+<year>2013</year>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41924-9_44</ee>
+<crossref>conf/er/2013</crossref>
+<url>db/conf/er/er2013.html#JeanBOFB13</url>
+</inproceedings>
+</r>
+<r><article key="journals/cii/KhouriBBSJB12" mdate="2023-08-28">
+<author pid="53/8931">Selma Khouri</author>
+<author pid="119/1575">Ily&#232;s Boukhari</author>
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<author pid="22/4347">Eric Sardet</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Ontology-based structured web data warehouses for sustainable interoperability: requirement modeling, design methodology and tool.</title>
+<pages>799-812</pages>
+<year>2012</year>
+<volume>63</volume>
+<journal>Comput. Ind.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/j.compind.2012.08.001</ee>
+<ee>https://www.wikidata.org/entity/Q114671623</ee>
+<url>db/journals/cii/cii63.html#KhouriBBSJB12</url>
+</article>
+</r>
+<r><inproceedings key="conf/inforsid/MbaiossoumKBJB12" mdate="2021-03-16">
+<author pid="126/9081">Bery Leouro Mbaiossoum</author>
+<author pid="53/8931">Selma Khouri</author>
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Etude Comparative des Syst&#232;mes de Bases de Donn&#233;es &#224; base Ontologiques .</title>
+<pages>379-394</pages>
+<year>2012</year>
+<booktitle>INFORSID</booktitle>
+<ee type="archive">http://liris.cnrs.fr/inforsid/sites/default/files/2012_7_2-BeryMbaiossoum.pdf</ee>
+<crossref>conf/inforsid/2012</crossref>
+<url>db/conf/inforsid/inforsid2012.html#MbaiossoumKBJB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/JeanBFBK12" mdate="2017-05-25">
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="b/LadjelBellatreche">Ladjel Bellatreche</author>
+<author pid="124/9773">G&#233;raud Fokou</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<author pid="53/8931">Selma Khouri</author>
+<title>OntoDBench: Novel Benchmarking System for Ontology-Based Databases.</title>
+<pages>897-914</pages>
+<year>2012</year>
+<booktitle>OTM Conferences (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33615-7_32</ee>
+<crossref>conf/otm/2012-2</crossref>
+<url>db/conf/otm/otm2012-2.html#JeanBFBK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/BazharAJB12" mdate="2012-05-25">
+<author pid="70/11427">Youness Bazhar</author>
+<author pid="a/YamineAitAmeur">Yamine A&#239;t Ameur</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>A Flexible Support of Non Canonical Concepts in Ontology-based Databases.</title>
+<pages>393-398</pages>
+<year>2012</year>
+<booktitle>WEBIST</booktitle>
+<crossref>conf/webist/2012</crossref>
+<url>db/conf/webist/webist2012.html#BazharAJB12</url>
+</inproceedings>
+</r>
+<r><article key="journals/iwc/CaffiauSGBJ10" mdate="2020-03-13">
+<author pid="05/5967">Sybille Caffiau</author>
+<author pid="26/4951">Dominique L. Scapin</author>
+<author pid="48/6113-2">Patrick Girard 0002</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<author pid="87/3875">Francis Jambon</author>
+<title>Increasing the expressive power of task analysis: Systematic comparison and empirical assessment of tool-supported task models.</title>
+<pages>569-593</pages>
+<year>2010</year>
+<volume>22</volume>
+<journal>Interact. Comput.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.intcom.2010.06.003</ee>
+<url>db/journals/iwc/iwc22.html#CaffiauSGBJ10</url>
+</article>
+</r>
+<r><article key="journals/sttt/AmeurBKM09" mdate="2021-07-25">
+<author pid="a/YamineAitAmeur">Yamine A&#239;t Ameur</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<author orcid="0000-0003-3608-8895" pid="98/6742">Nadjet Kamel</author>
+<author pid="08/6452">Jean-Marc Mota</author>
+<title>Encoding a process algebra using the Event B method.</title>
+<pages>239-253</pages>
+<year>2009</year>
+<volume>11</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10009-009-0109-2</ee>
+<url>db/journals/sttt/sttt11.html#AmeurBKM09</url>
+</article>
+</r>
+<r><article key="journals/isi/AmeurABM08" mdate="2022-03-16">
+<author pid="a/YamineAitAmeur">Yamine A&#239;t Ameur</author>
+<author pid="96/5915">Idir A&#239;t-Sadoune</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<author pid="08/6452">Jean-Marc Mota</author>
+<title>D&#233;veloppements formels d'interfaces multimodales fond&#233;s sur la preuve et le raffinement. Sc&#233;narios de d&#233;veloppement.</title>
+<pages>127-154</pages>
+<year>2008</year>
+<volume>13</volume>
+<journal>Ing&#233;nierie des Syst&#232;mes d Inf.</journal>
+<number>2</number>
+<ee type="archive">https://doi.org/10.3166/isi.13.2.127-154</ee>
+<url>db/journals/isi/isi13.html#AmeurABM08</url>
+</article>
+</r>
+<r><article key="journals/sttt/AmeurB06" mdate="2020-04-02">
+<author pid="a/YamineAitAmeur">Yamine A&#239;t Ameur</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Formal and experimental validation approaches in HCI systems design based on a shared event B model.</title>
+<pages>547-563</pages>
+<year>2006</year>
+<volume>8</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s10009-006-0008-8</ee>
+<url>db/journals/sttt/sttt8.html#AmeurB06</url>
+</article>
+</r>
+<r><inproceedings key="conf/ihm/AmeurAMB06" mdate="2021-10-14">
+<author pid="a/YamineAitAmeur">Yamine A&#239;t Ameur</author>
+<author orcid="0000-0002-6484-8276" pid="96/5915">Idir A&#239;t-Sadoune</author>
+<author pid="08/6452">Jean-Marc Mota</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Validation et v&#233;rification formelles de syst&#232;mes interactifs multi-modaux fond&#233;es sur la preuve.</title>
+<pages>123-130</pages>
+<year>2006</year>
+<booktitle>IHM</booktitle>
+<ee>https://doi.org/10.1145/1132736.1132752</ee>
+<crossref>conf/ihm/2006</crossref>
+<url>db/conf/ihm/ihm2006.html#AmeurAMB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihm/BaronLAS06" mdate="2018-11-06">
+<author pid="08/4942">Micka&#235;l Baron</author>
+<author pid="02/1050">Vincent Lucquiaud</author>
+<author pid="39/6235">D. Autard</author>
+<author pid="26/4951">Dominique L. Scapin</author>
+<title>K-MADe: un environnement pour le noyau du mod&#232;le de description de l'activit&#233;.</title>
+<pages>287-288</pages>
+<year>2006</year>
+<booktitle>IHM</booktitle>
+<ee>https://doi.org/10.1145/1132736.1132786</ee>
+<crossref>conf/ihm/2006</crossref>
+<url>db/conf/ihm/ihm2006.html#BaronLAS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isola/AmeurB04" mdate="2008-09-11">
+<author pid="a/YamineAitAmeur">Yamine A&#239;t Ameur</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Bridging the gap between formal and experimental validation approaches in HCI systems design: use of the event B proof based technique.</title>
+<pages>74-80</pages>
+<year>2004</year>
+<booktitle>ISoLA (Preliminary proceedings)</booktitle>
+<crossref>conf/isola/2004i</crossref>
+<url>db/conf/isola/isola2004i.html#AmeurB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iui/BaronG04" mdate="2022-12-27">
+<author pid="08/4942">Micka&#235;l Baron</author>
+<author orcid="0000-0003-0722-8772" pid="48/6113-1">Patrick Girard 0001</author>
+<title>SUIDT: safe user interface design tool.</title>
+<pages>350-351</pages>
+<year>2004</year>
+<crossref>conf/iui/2004</crossref>
+<booktitle>IUI</booktitle>
+<ee>https://doi.org/10.1145/964442.964529</ee>
+<url>db/conf/iui/iui2004.html#BaronG04</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Baron03" mdate="2022-04-01">
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Vers une approche s&#251;re du d&#233;veloppement des Interfaces Homme-Machine. (Towards a safe approach to Human-Computer Interface development).</title>
+<year>2003</year>
+<school>University of Poitiers, France</school>
+<ee>https://tel.archives-ouvertes.fr/tel-03592883</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/ihm/BaronG03" mdate="2018-11-06">
+<author pid="08/4942">Micka&#235;l Baron</author>
+<author pid="48/6113-2">Patrick Girard 0002</author>
+<title>SUIDT: a user interface builder for secure user interfaces.</title>
+<pages>198-201</pages>
+<year>2003</year>
+<booktitle>IHM</booktitle>
+<ee>https://doi.org/10.1145/1063669.1063696</ee>
+<crossref>conf/ihm/2003</crossref>
+<url>db/conf/ihm/ihm2003.html#BaronG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/serp/AmeurBG03" mdate="2016-09-06">
+<author pid="a/YamineAitAmeur">Yamine A&#239;t Ameur</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<author pid="48/6113-2">Patrick Girard 0002</author>
+<title>Formal Validation of HCI User Tasks.</title>
+<pages>732-738</pages>
+<year>2003</year>
+<crossref>conf/serp/2003-2</crossref>
+<booktitle>Software Engineering Research and Practice</booktitle>
+<url>db/conf/serp/serp2003-2.html#AmeurBG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihm/Baron02" mdate="2018-11-06">
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Int&#233;gration d'un mod&#232;le de t&#226;che dans une d&#233;marche s&#251;re de construction d'interface.</title>
+<pages>73-80</pages>
+<year>2002</year>
+<booktitle>IHM</booktitle>
+<ee>https://doi.org/10.1145/777005.777016</ee>
+<crossref>conf/ihm/2002</crossref>
+<url>db/conf/ihm/ihm2002.html#Baron02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihm/Baron02a" mdate="2018-11-06">
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>De la conception &#226; la construction d'application s&#251;re.</title>
+<pages>285-286</pages>
+<year>2002</year>
+<booktitle>IHM</booktitle>
+<ee>https://doi.org/10.1145/777005.777056</ee>
+<crossref>conf/ihm/2002</crossref>
+<url>db/conf/ihm/ihm2002.html#Baron02a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tamodia/BaronG02" mdate="2016-09-06">
+<author pid="08/4942">Micka&#235;l Baron</author>
+<author pid="48/6113-2">Patrick Girard 0002</author>
+<title>SUIDT: A task model based GUI-Builder.</title>
+<pages>64-71</pages>
+<year>2002</year>
+<crossref>conf/tamodia/2002</crossref>
+<booktitle>TAMODIA</booktitle>
+<url>db/conf/tamodia/tamodia2002.html#BaronG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vl/BaronG01" mdate="2023-03-23">
+<author pid="08/4942">Micka&#235;l Baron</author>
+<author pid="48/6113-2">Patrick Girard 0002</author>
+<title>Bringing Robustness to End-User Programming.</title>
+<pages>142-</pages>
+<year>2001</year>
+<crossref>conf/vl/2001</crossref>
+<booktitle>HCC</booktitle>
+<ee>https://doi.org/10.1109/HCC.2001.995252</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HCC.2001.995252</ee>
+<url>db/conf/vl/hcc2001.html#BaronG01</url>
+</inproceedings>
+</r>
+<coauthors n="32" nc="1">
+<co c="0" n="2"><na f="a/A=iuml=t=Ameur:Yamine" pid="a/YamineAitAmeur">Yamine A&#239;t-Ameur</na><na>Yamine A&#239;t Ameur</na></co>
+<co c="0"><na f="a/A=iuml=t=Sadoune:Idir" pid="96/5915">Idir A&#239;t-Sadoune</na></co>
+<co c="0"><na f="a/Autard:D=" pid="39/6235">D. Autard</na></co>
+<co c="0"><na f="b/Bazhar:Youness" pid="70/11427">Youness Bazhar</na></co>
+<co c="0"><na f="b/Bechchi:Mounir" pid="47/1403">Mounir Bechchi</na></co>
+<co c="0"><na f="b/Bellatreche:Ladjel" pid="b/LadjelBellatreche">Ladjel Bellatreche</na></co>
+<co c="0"><na f="b/Bouarar:Selma" pid="125/2719">Selma Bouarar</na></co>
+<co c="0"><na f="b/Boukhari:Ily=egrave=s" pid="119/1575">Ily&#232;s Boukhari</na></co>
+<co c="0"><na f="c/Caffiau:Sybille" pid="05/5967">Sybille Caffiau</na></co>
+<co c="0"><na f="c/Chabot:Dominique" pid="225/8923">Dominique Chabot</na></co>
+<co c="0"><na f="c/Chardin:Brice" pid="41/9458">Brice Chardin</na></co>
+<co c="0"><na f="d/Dellal:Ibrahim" pid="201/5364">Ibrahim Dellal</na></co>
+<co c="0"><na f="f/Fokou:G=eacute=raud" pid="124/9773">G&#233;raud Fokou</na></co>
+<co c="-1"><na f="g/Girard_0001:Patrick" pid="48/6113-1">Patrick Girard 0001</na></co>
+<co c="0"><na f="g/Girard_0002:Patrick" pid="48/6113-2">Patrick Girard 0002</na></co>
+<co c="0" n="2"><na f="h/HadjAli:Allel" pid="24/2709">Allel HadjAli</na><na>Allel Hadjali</na></co>
+<co c="0"><na f="h/Haenn:Quentin" pid="378/8068">Quentin Haenn</na></co>
+<co c="0"><na f="h/Hariri:Ali" pid="230/2955">Ali Hariri</na></co>
+<co c="0"><na f="j/Jambon:Francis" pid="87/3875">Francis Jambon</na></co>
+<co c="0"><na f="j/Jean:St=eacute=phane" pid="j/StephaneJean">St&#233;phane Jean</na></co>
+<co c="0"><na f="k/Kamel:Nadjet" pid="98/6742">Nadjet Kamel</na></co>
+<co c="0"><na f="k/Khouri:Selma" pid="53/8931">Selma Khouri</na></co>
+<co c="0"><na f="l/Lucquiaud:Vincent" pid="02/1050">Vincent Lucquiaud</na></co>
+<co c="0"><na f="m/Mbaiossoum:Bery_Leouro" pid="126/9081">Bery Leouro Mbaiossoum</na></co>
+<co c="0"><na f="m/Mota:Jean=Marc" pid="08/6452">Jean-Marc Mota</na></co>
+<co c="0"><na f="o/Ordonez_0001:Carlos" pid="o/CarlosOrdonez">Carlos Ordonez 0001</na></co>
+<co c="0"><na f="p/Parkin:Louise" pid="300/8750">Louise Parkin</na></co>
+<co c="0"><na f="p/Perrot:Maxime" pid="355/4356">Maxime Perrot</na></co>
+<co c="0"><na f="p/Ponchateau:Cyrille" pid="208/7657">Cyrille Ponchateau</na></co>
+<co c="0"><na f="s/Sardet:Eric" pid="22/4347">Eric Sardet</na></co>
+<co c="0"><na f="s/Scapin:Dominique_L=" pid="26/4951">Dominique L. Scapin</na></co>
+<co c="0"><na f="s/Sellami:Chayma" pid="234/1600">Chayma Sellami</na></co>
+</coauthors>
+</dblpperson>
+

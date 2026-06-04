@@ -1,0 +1,183 @@
+author_id,type,titre,annee,venue_raw,auteurs,rank
+18,journal,Buffer dimensioning per frames in packet networks.,2025,Real Time Syst.,Richard Garreau | Frédéric Ridouard | Henri Bauer | Pascal Richard,NC
+18,conference,Global Versus Local Schedulability Analysis of a Two-Level Hierarchical System.,2025,ISORC,Luc Descharmes | Henri Bauer | Frédéric Ridouard | Annie Choquet-Geniet,C
+18,conference,Configuring the IEEE 802.1Q Time-Aware Shaper with Deep Reinforcement Learning.,2024,NOMS,Adrien Roberty | Quentin Besnard | Siwar Ben Hadj Said | Frédéric Ridouard | Henri Bauer | Annie Geniet,B
+18,conference,Reinforcement Learning for Time-Aware Shaping (IEEE 802.1Qbv) in Time-Sensitive Networks.,2023,ETFA,Adrien Roberty | Siwar Ben Hadj Said | Frédéric Ridouard | Henri Bauer | Annie Geniet,TBR
+18,conference,Link Between Real-Time Scheduling and Time-Triggered Networks.,2023,RTSS,Richard Garreau | Matheus Ladeira | Emmanuel Grolleau | Henri Bauer | Frédéric Ridouard | Pascal Richard,A*
+1,conference,Towards Automating RDF Extraction for Archaeological Knowledge Graphs with LLMs.,2025,DEXA (1),Ali Hariri | Stéphane Jean | Mickaël Baron,C
+1,conference,Clustering Under Radius Constraints Using Minimum Dominating Sets.,2024,ISMIS,Quentin Haenn | Brice Chardin | Mickaël Baron,C
+1,conference,Knowledge Graphs for Data Integration in Retail.,2024,ISMIS,Maxime Perrot | Mickaël Baron | Brice Chardin | Stéphane Jean,C
+1,conference,Thesaurus-Based Transformation: A Classification Method for Real Dirty Data.,2023,ADBIS (Short Papers),Maxime Perrot | Mickaël Baron | Brice Chardin | Stéphane Jean,C
+1,journal,A cooperative treatment of the plethoric answers problem in RDF.,2022,Knowl. Inf. Syst.,Louise Parkin | Brice Chardin | Stéphane Jean | Allel Hadjali | Mickaël Baron,NC
+1,conference,Trust Model Recommendation Driven by Application Requirements.,2022,RCIS,Chayma Sellami | Mickaël Baron | Stéphane Jean | Mounir Bechchi | Allel Hadjali | Dominique Chabot,B
+1,conference,Dealing with Plethoric Answers of SPARQL Queries.,2021,DEXA (1),Louise Parkin | Brice Chardin | Stéphane Jean | Allel Hadjali | Mickaël Baron,C
+1,conference,Towards a Unified Framework for Computational Trust and Reputation Models for e-Commerce Applications.,2021,RCIS,Chayma Sellami | Mickaël Baron | Mounir Bechchi | Allel Hadjali | Stéphane Jean | Dominique Chabot,B
+12,conference,An unfair optimal scheduling algorithm for uniform multiprocessors.,2025,ETFA,Thomas Gaspard | Antoine Bertout | Pascal Richard | Joël Goossens | Emmanuel Grolleau,TBR
+12,conference,Fault Current Limitation Constraint for the Distribution Network Reconfiguration Problem in Medium Voltage Compensated Distribution Networks.,2024,ISGT,Aghyles Graine | Nour Karnib | Jean-Paul Gaubert | Antoine Bertout | Emmanuel Grolleau | Didier Larraillet,none
+12,conference,A Dynamic Approach for the Distribution Network Reconfiguration Problem.,2024,ISGT,Aghyles Graine | Nour Karnib | Emmanuel Grolleau | Antoine Bertout | Jean-Paul Gaubert | Didier Larraillet,none
+12,conference,Distributed Generation Curtailment for Maintaining Voltage Stability.,2024,ISGT Asia,Nour Karnib | Aghyles Graine | Emmanuel Grolleau | Antoine Bertout | Jean-Paul Gaubert,none
+12,journal,Easing the tuning of drone autopilots through a model-based framework.,2023,J. Comput. Lang.,Soulimane Kamni | Antoine Bertout | Emmanuel Grolleau | Gautier Hattenberger | Yassine Ouhammou,NC
+12,conference,A Mixed Integer Linear Programming Model for the Distribution Network Reconfiguration Problem.,2023,ICSC,Aghyles Graine | Nour Karnib | Jean-Paul Gaubert | Antoine Bertout | Emmanuel Grolleau | Didier Larraillet,none
+12,conference,A Network Reduction Method for the Distribution Network Reconfiguration Problem.,2023,ISGT EUROPE,Aghyles Graine | Nour Karnib | Emmanuel Grolleau | Antoine Bertout | Jean-Paul Gaubert | Didier Larraillet,none
+12,journal,Workload assignment for global real-time scheduling on unrelated clustered platforms.,2022,Real Time Syst.,Antoine Bertout | Joël Goossens | Emmanuel Grolleau | Roy Jamil | Xavier Poczekajlo,NC
+12,conference,Latency analysis of self-suspending task chains.,2022,DATE,Tomasz Kloda | Jiyang Chen | Antoine Bertout | Lui Sha | Marco Caccamo,B
+12,conference,A Reverse Design Framework for Modifiable-off-the-Shelf Embedded Systems: Application to Open-Source Autopilots.,2022,MEDI,Soulimane Kamni | Yassine Ouhammou | Emmanuel Grolleau | Antoine Bertout | Gautier Hattenberger,C
+3,journal,A temporal dependency preserving approach for anomaly detection on multivariate time series.,2025,World Wide Web (WWW),Seif-Eddine Benkabou | Khalid Benabdeslem | Dou El Kefel Mansouri | Souleyman Chaib | Amin Mesmoudi | Allel Hadjali,NC
+3,journal,Bridging machine learning and query optimization: Feedback-driven selectivity estimation for spatial filters.,2025,World Wide Web (WWW),Nadir Guermoudi | Houcine Matallah | Amin Mesmoudi | Seif-Eddine Benkabou | Allel Hadjali | Ahmed Youcef Benhalima,NC
+3,journal,mFILS: Tri-Selection via Convex and Nonconvex Regularizations.,2024,IEEE Trans. Neural Networks Learn. Syst.,Dou El Kefel Mansouri | Khalid Benabdeslem | Seif-Eddine Benkabou | Souleyman Chaib | Mohamed Chohri,NC
+3,conference,Selectivity Estimation for Spatial Filters Using Optimizer Feedback: A Machine Learning Perspective.,2024,WISE (4),Nadir Guermoudi | Houcine Matallah | Amin Mesmoudi | Seif-Eddine Benkabou | Allel Hadjali,B
+3,journal,SRDF_QDAG: An efficient end-to-end RDF data management when graph exploration meets spatial processing.,2023,Comput. Sci. Inf. Syst.,Houssameddine Yousfi | Amin Mesmoudi | Allel Hadjali | Houcine Matallah | Seif-Eddine Benkabou,NC
+3,journal,CoSP: co-selection pick for a global explainability of black box machine learning models.,2023,World Wide Web (WWW),Dou El Kefel Mansouri | Seif-Eddine Benkabou | Khoula Meddahi | Allel Hadjali | Amin Mesmoudi | Khalid Benabdeslem | Souleyman Chaib,NC
+3,conference,RSMS: Robust Semi-supervised Multi-label Feature Selection for Regression.,2023,ICTAI,Vivien Kraus | Khalid Benabdeslem | Seif-Eddine Benkabou | Dou El Kefel Mansouri | Bruno Canitia,B
+3,conference,Adaptive Patch Labeling and Multi-Label Feature Selection for 360-Degree Image Quality Assessment.,2023,MMSP,Abderrezzaq Sendjasni | Mohamed-Chaker Larabi | Seif-Eddine Benkabou,C
+3,journal,Local Anomaly Detection for Multivariate Time Series by Temporal Dependency Based on Poisson Model.,2022,IEEE Trans. Neural Networks Learn. Syst.,Seif-Eddine Benkabou | Khalid Benabdeslem | Vivien Kraus | Kilian Bourhis | Bruno Canitia,NC
+3,conference,Towards a Co-selection Approach for a Global Explainability of Black Box Machine Learning Models.,2022,WISE,Khoula Meddahi | Seif-Eddine Benkabou | Allel Hadjali | Amin Mesmoudi | Dou El Kefel Mansouri | Khalid Benabdeslem | Souleyman Chaib,B
+3,conference,RDF_QDAG in Action: Efficient RDF Data Querying at Scale.,2022,WISE,Boumediene Saidi | Houssameddine Yousfi | Amin Mesmoudi | Seif-Eddine Benkabou | Allel Hadjali | Houcine Matallah,B
+3,journal,The Mode-Fisher pooling for time complexity optimization in deep convolutional neural networks.,2021,Neural Comput. Appl.,Dou El Kefel Mansouri | Bachir Kaddar | Seif-Eddine Benkabou | Khalid Benabdeslem,NC
+17,journal,Buffer dimensioning per frames in packet networks.,2025,Real Time Syst.,Richard Garreau | Frédéric Ridouard | Henri Bauer | Pascal Richard,NC
+17,conference,An unfair optimal scheduling algorithm for uniform multiprocessors.,2025,ETFA,Thomas Gaspard | Antoine Bertout | Pascal Richard | Joël Goossens | Emmanuel Grolleau,TBR
+17,journal,FracAbut: A python toolbox for computing fracture stratigraphy using interface impedance.,2024,Comput. Geosci.,Paul Joseph Namongo Soro | Juliette Lamarche | Sophie Viseur | Pascal Richard | Fateh Messaadi,NC
+17,conference,Link Between Real-Time Scheduling and Time-Triggered Networks.,2023,RTSS,Richard Garreau | Matheus Ladeira | Emmanuel Grolleau | Henri Bauer | Frédéric Ridouard | Pascal Richard,A*
+7,journal,A temporal dependency preserving approach for anomaly detection on multivariate time series.,2025,World Wide Web (WWW),Seif-Eddine Benkabou | Khalid Benabdeslem | Dou El Kefel Mansouri | Souleyman Chaib | Amin Mesmoudi | Allel Hadjali,NC
+7,journal,Bridging machine learning and query optimization: Feedback-driven selectivity estimation for spatial filters.,2025,World Wide Web (WWW),Nadir Guermoudi | Houcine Matallah | Amin Mesmoudi | Seif-Eddine Benkabou | Allel Hadjali | Ahmed Youcef Benhalima,NC
+7,conference,An Advanced Entity Resolution in Data Lakes: First Steps.,2025,DATA,Lamisse F. Bouabdelli | Fatma Abdelhedi | Slimane Hammoudi | Allel Hadjali,C
+7,journal,Parallel continuous skyline query over high-dimensional data stream windows.,2024,Distributed Parallel Databases,Walid Khames | Allel Hadjali | Mohand Lagha,NC
+7,conference,Selectivity Estimation for Spatial Filters Using Optimizer Feedback: A Machine Learning Perspective.,2024,WISE (4),Nadir Guermoudi | Houcine Matallah | Amin Mesmoudi | Seif-Eddine Benkabou | Allel Hadjali,B
+7,journal,An intelligent fuzzy system to manage western flower thrips population under biological treatment in roses yield.,2023,Comput. Electron. Agric.,Ahmad Tay | Frédéric Lafont | Jean-François Balmat | Allel Hadjali,NC
+7,journal,SRDF_QDAG: An efficient end-to-end RDF data management when graph exploration meets spatial processing.,2023,Comput. Sci. Inf. Syst.,Houssameddine Yousfi | Amin Mesmoudi | Allel Hadjali | Houcine Matallah | Seif-Eddine Benkabou,NC
+7,journal,Multisensor Data Fusion in IoT Environments in Dempster-Shafer Theory Setting: An Improved Evidence Distance-Based Approach.,2023,Sensors,Nour El Imane Hamda | Allel Hadjali | Mohand Lagha,NC
+7,journal,CoSP: co-selection pick for a global explainability of black box machine learning models.,2023,World Wide Web (WWW),Dou El Kefel Mansouri | Seif-Eddine Benkabou | Khoula Meddahi | Allel Hadjali | Amin Mesmoudi | Khalid Benabdeslem | Souleyman Chaib,NC
+7,conference,Databases and Information Systems: Contributions from ADBIS 2023 Workshops and Doctoral Consortium.,2023,ADBIS (Short Papers),Adam Przybylek | Aleksandra Karpus | Allel Hadjali | Anton Dignös | Carmem S. Hara | Danae Pla Karidi | Ester Zumpano | Fabio Persia | Genoveva Vargas-Solar | George Papastefanatos | Giancarlo Sperlì | Giorgos Giannopoulos | Ivan Lukovic | Julien Aligon | Manolis Terrovitis | Marek Grzegorowski | Mariella Bonomo | Mirian Halfeld Ferrari Alves | Nicolas Labroche | Paul Monsarrat | Richard Chbeir | Sana Sellami | Seshu Tirupathi | Simona E. Rombo | Slavica Kordic | Sonja Ristic | Tommaso Di Noia | Torben Bach Pedersen | Vincenzo Moscato,C
+7,conference,Towards a Context-based Mobility Prediction in Smart Cities: First Experimentations.,2023,TrustCom,Hocine Boukhedouma | Abdelkrim Meziane | Slimane Hammoudi | Amel Benna | Allel Hadjali,B
+7,journal,RG-SKY: A fuzzy group skyline relaxation for combinatorial decision making.,2022,Comput. Sci. Inf. Syst.,Sana Nadouri | Allel Hadjali | Zaïdi Sahnoun,NC
+7,journal,A cooperative treatment of the plethoric answers problem in RDF.,2022,Knowl. Inf. Syst.,Louise Parkin | Brice Chardin | Stéphane Jean | Allel Hadjali | Mickaël Baron,NC
+7,conference,A Fuzzy Satisfaction Concept Based-Approach for Skyline Relaxation.,2022,DEXA (2),Mohamed Haddache | Allel Hadjali | Hamid Azzoune,C
+7,conference,Fuzzy Group Skyline Relaxation.,2022,LFA,Sana Nadouri | Allel Hadjali | Zaïdi Sahnoun,none
+7,conference,Trust Model Recommendation Driven by Application Requirements.,2022,RCIS,Chayma Sellami | Mickaël Baron | Stéphane Jean | Mounir Bechchi | Allel Hadjali | Dominique Chabot,B
+7,conference,Towards a Co-selection Approach for a Global Explainability of Black Box Machine Learning Models.,2022,WISE,Khoula Meddahi | Seif-Eddine Benkabou | Allel Hadjali | Amin Mesmoudi | Dou El Kefel Mansouri | Khalid Benabdeslem | Souleyman Chaib,B
+7,conference,Explaining Unexpected Answers of SPARQL Queries.,2022,WISE,Louise Parkin | Brice Chardin | Stéphane Jean | Allel Hadjali,B
+7,conference,RDF_QDAG in Action: Efficient RDF Data Querying at Scale.,2022,WISE,Boumediene Saidi | Houssameddine Yousfi | Amin Mesmoudi | Seif-Eddine Benkabou | Allel Hadjali | Houcine Matallah,B
+7,journal,Skyline refinement exploiting fuzzy formal concept analysis.,2021,Int. J. Intell. Comput. Cybern.,Mohamed Haddache | Allel Hadjali | Hamid Azzoune,NC
+7,journal,Selecting Services for Multiple Users: Let's Be Democratic.,2021,IEEE Trans. Serv. Comput.,Karim Benouaret | Dimitris Sacharidis | Djamal Benslimane | Allel Hadjali,NC
+7,conference,Dealing with Plethoric Answers of SPARQL Queries.,2021,DEXA (1),Louise Parkin | Brice Chardin | Stéphane Jean | Allel Hadjali | Mickaël Baron,C
+7,conference,On Controlling Skyline Query Results: What Does Soft Computing Bring?,2021,FQAS,Allel Hadjali,C
+7,conference,A Possible Worlds Interpretation of Many-Sorted Theory for IR.,2021,IEA/AIE (2),Mohammed Sadou | Yassine Djouadi | Allel Hadj-Ali,C
+7,conference,Towards a Unified Framework for Computational Trust and Reputation Models for e-Commerce Applications.,2021,RCIS,Chayma Sellami | Mickaël Baron | Mounir Bechchi | Allel Hadjali | Stéphane Jean | Dominique Chabot,B
+16,journal,Vector Meson Spectrum from Top-Down Holographic QCD.,2024,Axioms,Mohammed Mia | Keshav Dasgupta | Charles Gale | Michael Richard | Olivier Trottier,NC
+0,journal,Inferring from an imprecise Plackett-Luce model: Application to label ranking.,2024,Fuzzy Sets Syst.,Loïc Adam | Arthur Van Camp | Sébastien Destercke | Benjamin Quost,NC
+0,journal,Handling inconsistency in (numerical) preferences using possibility theory.,2024,Inf. Fusion,Loïc Adam | Sébastien Destercke,NC
+0,conference,Handling Inconsistency in (Numerical) Preferences Using Possibility Theory.,2023,ECSQARU,Loïc Adam | Sébastien Destercke,C
+0,conference,Sous-ensembles maximaux cohérents multidimensionnels rendus faciles : illustration sur un problème d'estimation.,2022,LFA,Loïc Adam | Sébastien Destercke,none
+0,conference,Incremental Elicitation of Preferences: Optimist or Pessimist?,2021,ADT,Loïc Adam | Sébastien Destercke,C
+0,conference,Possibilistic preference elicitation by minimax regret.,2021,UAI,Loïc Adam | Sébastien Destercke,A
+4,conference,Clustering Under Radius Constraints Using Minimum Dominating Sets.,2024,ISMIS,Quentin Haenn | Brice Chardin | Mickaël Baron,C
+4,conference,Knowledge Graphs for Data Integration in Retail.,2024,ISMIS,Maxime Perrot | Mickaël Baron | Brice Chardin | Stéphane Jean,C
+4,conference,Thesaurus-Based Transformation: A Classification Method for Real Dirty Data.,2023,ADBIS (Short Papers),Maxime Perrot | Mickaël Baron | Brice Chardin | Stéphane Jean,C
+4,journal,A cooperative treatment of the plethoric answers problem in RDF.,2022,Knowl. Inf. Syst.,Louise Parkin | Brice Chardin | Stéphane Jean | Allel Hadjali | Mickaël Baron,NC
+4,conference,Explaining Unexpected Answers of SPARQL Queries.,2022,WISE,Louise Parkin | Brice Chardin | Stéphane Jean | Allel Hadjali,B
+4,conference,Dealing with Plethoric Answers of SPARQL Queries.,2021,DEXA (1),Louise Parkin | Brice Chardin | Stéphane Jean | Allel Hadjali | Mickaël Baron,C
+4,conference,Clustering to the Fewest Clusters Under Intra-Cluster Dissimilarity Constraints.,2021,ICTAI,Jennie Andersen | Brice Chardin | Mohamed Tribak,B
+11,journal,Buffer dimensioning per frames in packet networks.,2025,Real Time Syst.,Richard Garreau | Frédéric Ridouard | Henri Bauer | Pascal Richard,NC
+11,conference,Global Versus Local Schedulability Analysis of a Two-Level Hierarchical System.,2025,ISORC,Luc Descharmes | Henri Bauer | Frédéric Ridouard | Annie Choquet-Geniet,C
+11,conference,Configuring the IEEE 802.1Q Time-Aware Shaper with Deep Reinforcement Learning.,2024,NOMS,Adrien Roberty | Quentin Besnard | Siwar Ben Hadj Said | Frédéric Ridouard | Henri Bauer | Annie Geniet,B
+11,conference,Reinforcement Learning for Time-Aware Shaping (IEEE 802.1Qbv) in Time-Sensitive Networks.,2023,ETFA,Adrien Roberty | Siwar Ben Hadj Said | Frédéric Ridouard | Henri Bauer | Annie Geniet,TBR
+11,conference,Link Between Real-Time Scheduling and Time-Triggered Networks.,2023,RTSS,Richard Garreau | Matheus Ladeira | Emmanuel Grolleau | Henri Bauer | Frédéric Ridouard | Pascal Richard,A*
+15,conference,An unfair optimal scheduling algorithm for uniform multiprocessors.,2025,ETFA,Thomas Gaspard | Antoine Bertout | Pascal Richard | Joël Goossens | Emmanuel Grolleau,TBR
+15,journal,Resource constraint scheduling on two dedicated machines: Application to avionics.,2024,EURO J. Comput. Optim.,Ouissem Mesli-Kesraoui | Loic Ledreck | Emmanuel Grolleau | Soraya Kesraoui | Pascal Berruet | Yassine Ouhammou | Patrick Girard 0002,NC
+15,journal,Design of Micro-drone Autopilot Architecture with Static Scheduling Optimization.,2024,Unmanned Syst.,Gautier Hattenberger | Fabien Bonneval | Matheus Ladeira | Emmanuel Grolleau | Yassine Ouhammou,NC
+15,conference,Fault Current Limitation Constraint for the Distribution Network Reconfiguration Problem in Medium Voltage Compensated Distribution Networks.,2024,ISGT,Aghyles Graine | Nour Karnib | Jean-Paul Gaubert | Antoine Bertout | Emmanuel Grolleau | Didier Larraillet,none
+15,conference,A Dynamic Approach for the Distribution Network Reconfiguration Problem.,2024,ISGT,Aghyles Graine | Nour Karnib | Emmanuel Grolleau | Antoine Bertout | Jean-Paul Gaubert | Didier Larraillet,none
+15,conference,Distributed Generation Curtailment for Maintaining Voltage Stability.,2024,ISGT Asia,Nour Karnib | Aghyles Graine | Emmanuel Grolleau | Antoine Bertout | Jean-Paul Gaubert,none
+15,journal,Easing the tuning of drone autopilots through a model-based framework.,2023,J. Comput. Lang.,Soulimane Kamni | Antoine Bertout | Emmanuel Grolleau | Gautier Hattenberger | Yassine Ouhammou,NC
+15,conference,Towards a European Network of Enabling Technologies for Drones.,2023,DroneSE/RAPIDO@HiPEAC,Réda Nouacer | Mahmoud Hussein | Paul Detterer | Eugenio Villar | Fernando Herrera | Carlo Tieri | Emmanuel Grolleau,none
+15,conference,A Mixed Integer Linear Programming Model for the Distribution Network Reconfiguration Problem.,2023,ICSC,Aghyles Graine | Nour Karnib | Jean-Paul Gaubert | Antoine Bertout | Emmanuel Grolleau | Didier Larraillet,none
+15,conference,A Network Reduction Method for the Distribution Network Reconfiguration Problem.,2023,ISGT EUROPE,Aghyles Graine | Nour Karnib | Emmanuel Grolleau | Antoine Bertout | Jean-Paul Gaubert | Didier Larraillet,none
+15,conference,Link Between Real-Time Scheduling and Time-Triggered Networks.,2023,RTSS,Richard Garreau | Matheus Ladeira | Emmanuel Grolleau | Henri Bauer | Frédéric Ridouard | Pascal Richard,A*
+15,journal,Scheduling Offset-Free Systems Under FIFO Priority Protocol (Artifact).,2022,Dagstuhl Artifacts Ser.,Matheus Ladeira | Emmanuel Grolleau | Fabien Bonneval | Gautier Hattenberger | Yassine Ouhammou | Yuri Hérouard,NC
+15,journal,Workload assignment for global real-time scheduling on unrelated clustered platforms.,2022,Real Time Syst.,Antoine Bertout | Joël Goossens | Emmanuel Grolleau | Roy Jamil | Xavier Poczekajlo,NC
+15,conference,Scheduling Offset-Free Systems Under FIFO Priority Protocol.,2022,ECRTS,Matheus Ladeira | Emmanuel Grolleau | Fabien Bonneval | Gautier Hattenberger | Yassine Ouhammou | Yuri Hérouard,B
+15,conference,A Reverse Design Framework for Modifiable-off-the-Shelf Embedded Systems: Application to Open-Source Autopilots.,2022,MEDI,Soulimane Kamni | Yassine Ouhammou | Emmanuel Grolleau | Antoine Bertout | Gautier Hattenberger,C
+15,journal,RoBMEX: ROS-based modelling framework for end-users and experts.,2021,J. Syst. Archit.,Matheus Ladeira | Yassine Ouhammou | Emmanuel Grolleau,NC
+15,conference,Towards a Model-Based Approach to Support Physical Test Process of Aircraft Hydraulic Systems.,2021,MEDI,Ouissem Mesli-Kesraoui | Yassine Ouhammou | Olga Goubali | Pascal Berruet | Patrick Girard 0002 | Emmanuel Grolleau,C
+6,journal,Resource constraint scheduling on two dedicated machines: Application to avionics.,2024,EURO J. Comput. Optim.,Ouissem Mesli-Kesraoui | Loic Ledreck | Emmanuel Grolleau | Soraya Kesraoui | Pascal Berruet | Yassine Ouhammou | Patrick Girard 0002,NC
+6,conference,Towards a Model-Based Approach to Support Physical Test Process of Aircraft Hydraulic Systems.,2021,MEDI,Ouissem Mesli-Kesraoui | Yassine Ouhammou | Olga Goubali | Pascal Berruet | Patrick Girard 0002 | Emmanuel Grolleau,C
+13,conference,Global Versus Local Schedulability Analysis of a Two-Level Hierarchical System.,2025,ISORC,Luc Descharmes | Henri Bauer | Frédéric Ridouard | Annie Choquet-Geniet,C
+13,conference,Configuring the IEEE 802.1Q Time-Aware Shaper with Deep Reinforcement Learning.,2024,NOMS,Adrien Roberty | Quentin Besnard | Siwar Ben Hadj Said | Frédéric Ridouard | Henri Bauer | Annie Geniet,B
+13,conference,Reinforcement Learning for Time-Aware Shaping (IEEE 802.1Qbv) in Time-Sensitive Networks.,2023,ETFA,Adrien Roberty | Siwar Ben Hadj Said | Frédéric Ridouard | Henri Bauer | Annie Geniet,TBR
+10,journal,A temporal dependency preserving approach for anomaly detection on multivariate time series.,2025,World Wide Web (WWW),Seif-Eddine Benkabou | Khalid Benabdeslem | Dou El Kefel Mansouri | Souleyman Chaib | Amin Mesmoudi | Allel Hadjali,NC
+10,journal,SemPart: Yet another RDF data partitioning strategy.,2025,World Wide Web (WWW),Boumediene Saidi | Houcine Matallah | Amin Mesmoudi | Ladjel Bellatreche,NC
+10,journal,Bridging machine learning and query optimization: Feedback-driven selectivity estimation for spatial filters.,2025,World Wide Web (WWW),Nadir Guermoudi | Houcine Matallah | Amin Mesmoudi | Seif-Eddine Benkabou | Allel Hadjali | Ahmed Youcef Benhalima,NC
+10,conference,Selectivity Estimation for Spatial Filters Using Optimizer Feedback: A Machine Learning Perspective.,2024,WISE (4),Nadir Guermoudi | Houcine Matallah | Amin Mesmoudi | Seif-Eddine Benkabou | Allel Hadjali,B
+10,journal,SRDF_QDAG: An efficient end-to-end RDF data management when graph exploration meets spatial processing.,2023,Comput. Sci. Inf. Syst.,Houssameddine Yousfi | Amin Mesmoudi | Allel Hadjali | Houcine Matallah | Seif-Eddine Benkabou,NC
+10,journal,CoSP: co-selection pick for a global explainability of black box machine learning models.,2023,World Wide Web (WWW),Dou El Kefel Mansouri | Seif-Eddine Benkabou | Khoula Meddahi | Allel Hadjali | Amin Mesmoudi | Khalid Benabdeslem | Souleyman Chaib,NC
+10,conference,Towards a Co-selection Approach for a Global Explainability of Black Box Machine Learning Models.,2022,WISE,Khoula Meddahi | Seif-Eddine Benkabou | Allel Hadjali | Amin Mesmoudi | Dou El Kefel Mansouri | Khalid Benabdeslem | Souleyman Chaib,B
+10,conference,RDF_QDAG in Action: Efficient RDF Data Querying at Scale.,2022,WISE,Boumediene Saidi | Houssameddine Yousfi | Amin Mesmoudi | Seif-Eddine Benkabou | Allel Hadjali | Houcine Matallah,B
+10,journal,GoFast: Graph-based optimization for efficient and scalable query evaluation.,2021,Inf. Syst.,Ishaq Zouaghi | Amin Mesmoudi | Jorge Galicia | Ladjel Bellatreche | Taoufik Aguili,NC
+10,journal,Combining Graph Exploration and Fragmentation for Scalable RDF Query Processing.,2021,Inf. Syst. Frontiers,Abdallah Khelil | Amin Mesmoudi | Jorge Galicia | Ladjel Bellatreche | Mohand-Saïd Hacid | Emmanuel Coquery,NC
+2,journal,Advances on data management systems.,2025,Inf. Syst.,Ladjel Bellatreche | Marlon Dumas | Panagiotis Karras | Raimundas Matulevicius | Silvia Chiusano | Tania Cerquitelli | Robert Wrembel,NC
+2,journal,Advances in databases and information systems - Selected papers from ADBIS 2023.,2025,Inf. Syst.,Alberto Abelló | Ladjel Bellatreche | Oscar Romero 0001 | Panos Vassiliadis | Robert Wrembel,NC
+2,journal,GUITARES: graph attention network for building knowledge graph-based trust-aware recommender systems.,2025,J. Supercomput.,Ouissem Touameur | Fouzi Harrag | Ladjel Bellatreche,NC
+2,journal,BioGITOM: Matching Biomedical Ontologies with Graph Isomorphism Transformer.,2025,VLDB J.,Samira Oulefki | Lamia Berkani | Nassim Boudjenah | Ladjel Bellatreche | Aïcha Mokhtari,NC
+2,journal,SemPart: Yet another RDF data partitioning strategy.,2025,World Wide Web (WWW),Boumediene Saidi | Houcine Matallah | Amin Mesmoudi | Ladjel Bellatreche,NC
+2,conference,ICE-Cubed: Inpainting of Cinematographic Elements for Intelligent Context Expansion.,2025,ACIVS,David Traparic | Maugan De Murcia | Mohamed-Chaker Larabi | Ladjel Bellatreche,B
+2,conference,PAID: Power-Efficient AI-Optimized Databases.,2025,DaWaK,Ayoub Bouhatous | Ladjel Bellatreche | El Hassan Abdelwahed | Carlos Ordonez 0001,B
+2,conference,Accelerating Python Code with Parallel I/O.,2025,DEXA (2),Robin Varghese | Hashirul Quadir | Ladjel Bellatreche | Carlos Ordonez 0001,C
+2,conference,Enriching Spatial Indexes For User-Centric And Context-Aware Points Of Interest Search.,2025,SSDBM,Raghav Mittal | Ayaan Kakkar | Mukesh K. Mohania | Ladjel Bellatreche | Yoshiharu Ishikawa,B
+2,journal,Data engineering and modeling for artificial intelligence.,2024,Data Knowl. Eng.,Carlos Ordonez 0001 | Wojciech Macyna | Ladjel Bellatreche,NC
+2,journal,Balanced parallel triangle enumeration with an adaptive algorithm.,2024,Distributed Parallel Databases,Abir Farouzi | Xiantian Zhou | Ladjel Bellatreche | Mimoun Malki | Carlos Ordonez 0001,NC
+2,conference,Exploring Explainability in Arabic Language Models: An Empirical Analysis of Techniques.,2024,ACLING,Yousra Chahinez Hadj Azzem | Fouzi Harrag | Ladjel Bellatreche,none
+2,conference,Energy-Aware Analytics in the Cloud.,2024,BiDEDE@SIGMOD,Carlos Ordonez 0001 | Wojciech Macyna | Ladjel Bellatreche,none
+2,conference,Trust-Aware Disaster Image Classification using Monte Carlo Dropout Integrated with Graph Convolutional Networks and Deep Feature Extraction.,2024,ICT-DM,Ouissem Touameur | Fouzi Harrag | Ladjel Bellatreche,none
+2,conference,Results for BioGITOM in OAEI 2024.,2024,OM@ISWC,Samira Oulefki | Lamia Berkani | Ladjel Bellatreche | Nassim Boudjenah | Aïcha Mokhtari,none
+2,conference,Evaluating Contrastive and Non-contrastive Explanations for Language Models.,2024,WISE (2),Yousra Chahinez Hadj Azzem | Fouzi Harrag | Ladjel Bellatreche,B
+2,conference,Concepts and Relations Features Are All You Need for Embedding-Based Ontology Matching.,2024,WISE (1),Samira Oulefki | Lamia Berkani | Nassim Boudjenah | Ladjel Bellatreche | Aïcha Mokhtari,B
+2,journal,Guest editorial - Management of digital ecosystems.,2023,Comput. Sci. Inf. Syst.,Djamal Benslimane | Zakaria Maamar | Ladjel Bellatreche,NC
+2,journal,A theme section on the central role of modeling in designing and explaining data-driven systems and software.,2023,Softw. Syst. Model.,J. Christian Attiogbé | Sadok Ben Yahia | Ladjel Bellatreche,NC
+2,conference,ExplainerX: An Integrated and Explainable AI Framework for Nearly Zero-Energy Buildings.,2023,IEEE Big Data,Asma Kermiche | Chaima Rouzzi | Ladjel Bellatreche,B
+2,conference,Optimization of Dangerous Goods Stowage: A Hybrid Approach between Faster R-CNN and Coronavirus Metaheuristic.,2023,IEEE Big Data,Chaabane Abdelali | Yachba Khadidja | Ladjel Bellatreche,B
+2,conference,Energy-Aware Query Processing: A Case Study on Join Reordering.,2023,IEEE Big Data,Ladjel Bellatreche | Fouad Djellali | Wojciech Macyna | Carlos Ordonez 0001,B
+2,conference,FLOWER: Viewing Data Flow in ER Diagrams.,2023,DaWaK,Elijah Mitchell | Nabila Berkani | Ladjel Bellatreche | Carlos Ordonez 0001,B
+2,conference,Bitwise Algorithms to Compute the Transitive Closure of Graphs in Python.,2023,DEXA (1),Xiantian Zhou | Abir Farouzi | Ladjel Bellatreche | Carlos Ordonez 0001,C
+2,conference,Parallel Pattern Enumeration in Large Graphs.,2023,DEXA (1),Abir Farouzi | Xiantian Zhou | Ladjel Bellatreche | Mimoun Malki | Carlos Ordonez 0001,C
+2,conference,Context-aware Service Recommendation based on Knowledge Graph Embedding (Extended Abstract).,2023,ICDE,Haithem Mezni | Djamal Benslimane | Ladjel Bellatreche,A*
+2,conference,Towards Automatic Content Generation for Immersive Cinema Theater Based on Artificial Intelligence.,2023,MMSP,David Traparic | Mohamed-Chaker Larabi | Ladjel Bellatreche,C
+2,journal,"Special issue on advances in data, information and knowledge engineering in data science era.",2022,Computing,Ladjel Bellatreche | A Min Tjoa,NC
+2,journal,Guest editorial - applications of intelligent systems.,2022,Comput. Sci. Inf. Syst.,Amelia Badica | Costin Badica | Vladimir Kurbalija | Ladjel Bellatreche | Mirjana Ivanovic,NC
+2,journal,ProRes: Proactive re-selection of materialized views.,2022,Comput. Sci. Inf. Syst.,Mustapha Chaba Mouna | Ladjel Bellatreche | Boustia Narhimene,NC
+2,journal,Advances on innovative issues in intelligent systems and applications.,2022,Concurr. Comput. Pract. Exp.,Tulay Yildirim | Mirjana Ivanovic | Ladjel Bellatreche,NC
+2,journal,PROADAPT: Proactive framework for adaptive partitioning for big data warehouses.,2022,Data Knowl. Eng.,Soumia Benkrid | Ladjel Bellatreche | Yacine Mestoui | Carlos Ordonez 0001,NC
+2,journal,ZigZag+: A global optimization algorithm to solve the view selection problem for large-scale workload optimization.,2022,Eng. Appl. Artif. Intell.,Mohamed Kechar | Ladjel Bellatreche | Safia Nait Bahloul,NC
+2,journal,The central role of data repositories and data models in Data Science and Advanced Analytics.,2022,Future Gener. Comput. Syst.,Ladjel Bellatreche | Carlos Ordonez 0001 | Dominique Méry | Matteo Golfarelli | El Hassan Abdelwahed,NC
+2,journal,Data processing in modern distributed architectures.,2022,Inf. Syst.,Jérôme Darmont | Boris Novikov 0001 | Robert Wrembel | Ladjel Bellatreche,NC
+2,journal,Advances on Data Management and Information Systems.,2022,Inf. Syst. Frontiers,Jérôme Darmont | Boris Novikov 0001 | Robert Wrembel | Ladjel Bellatreche,NC
+2,journal,Named entity disambiguation in short texts over knowledge graphs.,2022,Knowl. Inf. Syst.,Wissem Bouarroudj | Zizette Boufaïda 0001 | Ladjel Bellatreche,NC
+2,journal,Context-Aware Service Recommendation Based on Knowledge Graph Embedding.,2022,IEEE Trans. Knowl. Data Eng.,Haithem Mezni | Djamal Benslimane | Ladjel Bellatreche,NC
+2,conference,Comparing Association Rules and Deep Neural Networks for Heart Disease Prediction.,2022,IEEE Big Data,Carlos Ordonez 0001 | Ian Fund | Ladjel Bellatreche,B
+2,conference,The Impact of Multicore CPUs on Eco-Friendly Query Processors in Big Data Warehouses.,2022,IEEE Big Data,Ayoub Bouhatous | Ladjel Bellatreche | El Hassan Abdelwahed | Carlos Ordonez 0001,B
+2,conference,AI Approaches for Electricity Price Forecasting in Stable/Unstable Markets: EU Improvement Project.,2022,IEEE Big Data,Florian Chauvet | Ladjel Bellatreche | Carlos Augusto Santos Silva,B
+2,conference,GALGO: Scalable Graph Analytics with a Parallel DBMS.,2022,CIKM,Wellington Cabrera | Xiantian Zhou | Ladjel Bellatreche | Carlos Ordonez 0001,A
+2,conference,Safeness: Suffix Arrays Driven Materialized View Selection Framework for Large-Scale Workloads.,2022,DaWaK,Mohamed Kechar | Ladjel Bellatreche,B
+2,conference,Data-Driven Solutions for Electricity Price Forecasting: The Case of EU Improvement Project.,2022,SADASC,Khadija Elmoukhtafi | Ladjel Bellatreche | Mohamed Hamlich | Carlos Augusto Santos Silva,none
+2,journal,Towards understanding and harnessing the potential of Africa in digitalization.,2021,Concurr. Comput. Pract. Exp.,Soumia Benkrid | Rim Moussa | Hassan Badir | Moussa Lo | Ladjel Bellatreche,NC
+2,journal,GoFast: Graph-based optimization for efficient and scalable query evaluation.,2021,Inf. Syst.,Ishaq Zouaghi | Amin Mesmoudi | Jorge Galicia | Ladjel Bellatreche | Taoufik Aguili,NC
+2,journal,Combining Graph Exploration and Fragmentation for Scalable RDF Query Processing.,2021,Inf. Syst. Frontiers,Abdallah Khelil | Amin Mesmoudi | Jorge Galicia | Ladjel Bellatreche | Mohand-Saïd Hacid | Emmanuel Coquery,NC
+2,journal,Special Issue on Smart Applications and Data Analysis for Smart Cyber-Physical Systems.,2021,J. Syst. Archit.,Mohamed Hamlich | Ladjel Bellatreche | Anirban Mondal | Carlos Ordonez 0001,NC
+2,journal,Service-enabled systems and applications: current and future trends.,2021,Serv. Oriented Comput. Appl.,Karim Benouaret | Patrick C. K. Hung | Ladjel Bellatreche,NC
+2,journal,Correction to: On Formal Modeling and Validation of Wireless Sensor Network Protocols.,2021,Wirel. Pers. Commun.,Rachid Bechar | Mounir Tahar Abbes | Freha Mezzoudj | Ladjel Bellatreche,NC
+2,conference,Energy Efficiency vs. Performance of Analytical Queries: The case of Bitmap Join Indexes.,2021,IEEE BigData,Issam Ghabri | Ladjel Bellatreche | Sadok Ben Yahia,B
+2,conference,Towards an Adaptive Multidimensional Partitioning for Accelerating Spark SQL.,2021,DaWaK,Soumia Benkrid | Ladjel Bellatreche | Yacine Mestoui | Carlos Ordonez 0001,B
+2,conference,Selecting Subexpressions to Materialize for Dynamic Large-Scale Workloads.,2021,DaWaK,Mustapha Chaba Mouna | Ladjel Bellatreche | Boustia Narhimene,B
+2,conference,On Designing and Implementing Agro-ecology IoT Applications: Issues from Applied Research Projects.,2021,EDOC Workshops,Sandro Bimonte | Amina Belhassena | Christophe Cariou | Jean Laneurit | Rim Moussa | Gérard Chalhoub | Robert Wrembel | Gauthier Picard | Ladjel Bellatreche | Alexandre Journaux | Thierry Heirman | Ali Hassan 0001 | Stefano Rizzi | Jean-Pierre Georgé,B
+2,conference,Bringing Common Subexpression Problem from the Dark to Light: Towards Large-Scale Workload Optimizations.,2021,IDEAS,Mohamed Kechar | Ladjel Bellatreche | Safia Nait Bahloul,C
+8,journal,HiBenchLLM: Historical Inquiry Benchmarking for Large Language Models.,2025,Data Knowl. Eng.,Mathieu Chartier | Nabil Dakkoune | Guillaume Bourgeois | Stéphane Jean,NC
+8,conference,Towards Automating RDF Extraction for Archaeological Knowledge Graphs with LLMs.,2025,DEXA (1),Ali Hariri | Stéphane Jean | Mickaël Baron,C
+8,conference,Évaluation des capacités de réponse de larges modèles de langage (LLM) pour des questions d'historiens.,2024,EGC,Mathieu Chartier | Nabil Dakkoune | Guillaume Bourgeois | Stéphane Jean,NC
+8,conference,Knowledge Graphs for Data Integration in Retail.,2024,ISMIS,Maxime Perrot | Mickaël Baron | Brice Chardin | Stéphane Jean,C
+8,journal,Editorial: Special Issue on Semantic Web and Ontology Design for Cultural Heritage.,2023,ACM Journal on Computing and Cultural Heritage,Antonis Bikakis | Roberta Ferrario | Stéphane Jean | Béatrice Markhoff | Alessandro Mosca 0001 | Marianna Nicolosi Asmundo,NC
+8,conference,Thesaurus-Based Transformation: A Classification Method for Real Dirty Data.,2023,ADBIS (Short Papers),Maxime Perrot | Mickaël Baron | Brice Chardin | Stéphane Jean,C
+8,journal,A cooperative treatment of the plethoric answers problem in RDF.,2022,Knowl. Inf. Syst.,Louise Parkin | Brice Chardin | Stéphane Jean | Allel Hadjali | Mickaël Baron,NC
+8,conference,Trust Model Recommendation Driven by Application Requirements.,2022,RCIS,Chayma Sellami | Mickaël Baron | Stéphane Jean | Mounir Bechchi | Allel Hadjali | Dominique Chabot,B
+8,conference,Explaining Unexpected Answers of SPARQL Queries.,2022,WISE,Louise Parkin | Brice Chardin | Stéphane Jean | Allel Hadjali,B
+8,journal,Editorial: Special issue on Semantic Web for Cultural Heritage.,2021,Semantic Web,Antonis Bikakis | Eero Hyvönen | Stéphane Jean | Béatrice Markhoff | Alessandro Mosca 0001,NC
+8,conference,Dealing with Plethoric Answers of SPARQL Queries.,2021,DEXA (1),Louise Parkin | Brice Chardin | Stéphane Jean | Allel Hadjali | Mickaël Baron,C
+8,conference,Towards a Unified Framework for Computational Trust and Reputation Models for e-Commerce Applications.,2021,RCIS,Chayma Sellami | Mickaël Baron | Mounir Bechchi | Allel Hadjali | Stéphane Jean | Dominique Chabot,B
