@@ -1,0 +1,2604 @@
+<?xml version="1.0"?>
+<dblpperson name="Allel HadjAli" pid="24/2709" n="168">
+<person key="homepages/24/2709" mdate="2020-06-08">
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="24/2709">Allel Hadj-Ali</author>
+<author pid="24/2709">Allel Hadjali</author>
+<url>http://www.lias-lab.fr/members/allelhadjali?lang=en</url>
+<url>https://orcid.org/0000-0002-4452-1647</url>
+<note type="affiliation">Laboratory of Computer Science and Automatic Control for Systems (LIAS)</note>
+</person>
+<r><article key="journals/www/BenkabouBMCMH25" mdate="2025-06-01">
+<author pid="198/8701">Seif-Eddine Benkabou</author>
+<author pid="80/5648">Khalid Benabdeslem</author>
+<author pid="143/7516">Dou El Kefel Mansouri</author>
+<author pid="174/9275">Souleyman Chaib</author>
+<author pid="66/10119">Amin Mesmoudi</author>
+<author pid="24/2709">Allel Hadjali</author>
+<title>A temporal dependency preserving approach for anomaly detection on multivariate time series.</title>
+<pages>37</pages>
+<year>2025</year>
+<month>May</month>
+<volume>28</volume>
+<journal>World Wide Web (WWW)</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11280-025-01346-y</ee>
+<url>db/journals/www/www28.html#BenkabouBMCMH25</url>
+<stream>streams/journals/www</stream>
+</article>
+</r>
+<r><article key="journals/www/GuermoudiMMBHB25" mdate="2025-10-31">
+<author pid="392/6086">Nadir Guermoudi</author>
+<author pid="206/2514">Houcine Matallah</author>
+<author pid="66/10119">Amin Mesmoudi</author>
+<author pid="198/8701">Seif-Eddine Benkabou</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="418/9046">Ahmed Youcef Benhalima</author>
+<title>Bridging machine learning and query optimization: Feedback-driven selectivity estimation for spatial filters.</title>
+<pages>59</pages>
+<year>2025</year>
+<month>November</month>
+<volume>28</volume>
+<journal>World Wide Web (WWW)</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s11280-025-01371-x</ee>
+<url>db/journals/www/www28.html#GuermoudiMMBHB25</url>
+<stream>streams/journals/www</stream>
+</article>
+</r>
+<r><inproceedings key="conf/data/BouabdelliAHH25" mdate="2025-09-23">
+<author pid="415/6169">Lamisse F. Bouabdelli</author>
+<author pid="406/3728">Fatma Abdelhedi</author>
+<author pid="42/6348">Slimane Hammoudi</author>
+<author pid="24/2709">Allel Hadjali</author>
+<title>An Advanced Entity Resolution in Data Lakes: First Steps.</title>
+<pages>661-668</pages>
+<year>2025</year>
+<booktitle>DATA</booktitle>
+<ee>https://doi.org/10.5220/0013643200003967</ee>
+<crossref>conf/data/2025</crossref>
+<url>db/conf/data/data2025.html#BouabdelliAHH25</url>
+</inproceedings>
+</r>
+<r><article key="journals/dpd/KhamesHL24" mdate="2025-04-01">
+<author orcid="0000-0003-2594-0683" pid="386/9237">Walid Khames</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="121/5548">Mohand Lagha</author>
+<title>Parallel continuous skyline query over high-dimensional data stream windows.</title>
+<pages>469-524</pages>
+<year>2024</year>
+<month>December</month>
+<volume>42</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10619-024-07443-7</ee>
+<url>db/journals/dpd/dpd42.html#KhamesHL24</url>
+<stream>streams/journals/dpd</stream>
+</article>
+</r>
+<r><inproceedings key="conf/wise/GuermoudiMMBH24" mdate="2025-01-08">
+<author orcid="0009-0008-5653-3478" pid="392/6086">Nadir Guermoudi</author>
+<author orcid="0000-0003-3529-1939" pid="206/2514">Houcine Matallah</author>
+<author orcid="0000-0003-1307-591X" pid="66/10119">Amin Mesmoudi</author>
+<author orcid="0000-0002-4526-534X" pid="198/8701">Seif-Eddine Benkabou</author>
+<author orcid="0000-0002-4452-1647" pid="24/2709">Allel Hadjali</author>
+<title>Selectivity Estimation for Spatial Filters Using Optimizer Feedback: A Machine Learning Perspective.</title>
+<pages>101-115</pages>
+<year>2024</year>
+<booktitle>WISE (4)</booktitle>
+<ee>https://doi.org/10.1007/978-981-96-0573-6_8</ee>
+<crossref>conf/wise/2024-4</crossref>
+<url>db/conf/wise/wise2024-4.html#GuermoudiMMBH24</url>
+<stream>streams/conf/wise</stream>
+</inproceedings>
+</r>
+<r><proceedings key="conf/delta2/2024-1" mdate="2025-03-03">
+<editor pid="f/AnaLNFred">Ana Fred</editor>
+<editor orcid="0000-0002-4452-1647" pid="24/2709">Allel Hadjali</editor>
+<editor pid="55/2925">Oleg Gusikhin</editor>
+<editor orcid="0000-0002-8176-6950" pid="90/5377">Carlo Sansone</editor>
+<title>Deep Learning Theory and Applications - 5th International Conference, DeLTA 2024, Dijon, France, July 10-11, 2024, Proceedings, Part I</title>
+<booktitle>DeLTA (1)</booktitle>
+<publisher>Springer</publisher>
+<year>2024</year>
+<series href="db/series/ccis/index.html">Communications in Computer and Information Science</series>
+<volume>2171</volume>
+<isbn>978-3-031-66693-3</isbn>
+<isbn>978-3-031-66694-0</isbn>
+<ee>https://doi.org/10.1007/978-3-031-66694-0</ee>
+<url>db/conf/delta2/delta2024-1.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/delta2/2024-2" mdate="2025-03-03">
+<editor pid="f/AnaLNFred">Ana Fred</editor>
+<editor orcid="0000-0002-4452-1647" pid="24/2709">Allel Hadjali</editor>
+<editor pid="55/2925">Oleg Gusikhin</editor>
+<editor orcid="0000-0002-8176-6950" pid="90/5377">Carlo Sansone</editor>
+<title>Deep Learning Theory and Applications - 5th International Conference, DeLTA 2024, Dijon, France, July 10-11, 2024, Proceedings, Part II</title>
+<booktitle>DeLTA (2)</booktitle>
+<publisher>Springer</publisher>
+<year>2024</year>
+<series href="db/series/ccis/index.html">Communications in Computer and Information Science</series>
+<volume>2172</volume>
+<isbn>978-3-031-66704-6</isbn>
+<isbn>978-3-031-66705-3</isbn>
+<ee>https://doi.org/10.1007/978-3-031-66705-3</ee>
+<url>db/conf/delta2/delta2024-2.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/ismis/2024" mdate="2024-06-27">
+<editor orcid="0000-0001-9840-844X" pid="63/5512">Annalisa Appice</editor>
+<editor orcid="0000-0001-6876-0688" pid="a/HaneneAzzag">Hanane Azzag</editor>
+<editor orcid="0000-0002-9591-9591" pid="h/MohandSaidHacid">Mohand-Said Hacid</editor>
+<editor orcid="0000-0002-4452-1647" pid="24/2709">Allel Hadjali</editor>
+<editor orcid="0000-0002-8619-914X" pid="r/ZbigniewWRas">Zbigniew W. Ras</editor>
+<title>Foundations of Intelligent Systems - 27th International Symposium, ISMIS 2024, Poitiers, France, June 17-19, 2024, Proceedings</title>
+<booktitle>ISMIS</booktitle>
+<publisher>Springer</publisher>
+<year>2024</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>14670</volume>
+<isbn>978-3-031-62699-9</isbn>
+<isbn>978-3-031-62700-2</isbn>
+<ee>https://doi.org/10.1007/978-3-031-62700-2</ee>
+<url>db/conf/ismis/ismis2024.html</url>
+</proceedings>
+</r>
+<r><article key="journals/cea/TayLBH23" mdate="2023-09-19">
+<author pid="356/9540">Ahmad Tay</author>
+<author pid="87/4049">Fr&#233;d&#233;ric Lafont</author>
+<author pid="117/8798">Jean-Fran&#231;ois Balmat</author>
+<author pid="24/2709">Allel Hadjali</author>
+<title>An intelligent fuzzy system to manage western flower thrips population under biological treatment in roses yield.</title>
+<pages>108066</pages>
+<year>2023</year>
+<month>September</month>
+<volume>212</volume>
+<journal>Comput. Electron. Agric.</journal>
+<ee>https://doi.org/10.1016/j.compag.2023.108066</ee>
+<url>db/journals/cea/cea212.html#TayLBH23</url>
+</article>
+</r>
+<r><article key="journals/comsis/YousfiMHMB23" mdate="2023-10-24">
+<author pid="320/0416">Houssameddine Yousfi</author>
+<author pid="66/10119">Amin Mesmoudi</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="206/2514">Houcine Matallah</author>
+<author pid="198/8701">Seif-Eddine Benkabou</author>
+<title>SRDF_QDAG: An efficient end-to-end RDF data management when graph exploration meets spatial processing.</title>
+<pages>1311-1341</pages>
+<year>2023</year>
+<volume>20</volume>
+<journal>Comput. Sci. Inf. Syst.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.2298/csis230225046y</ee>
+<url>db/journals/comsis/comsis20.html#YousfiMHMB23</url>
+</article>
+</r>
+<r><article key="journals/sensors/HamdaHL23" mdate="2023-07-13">
+<author pid="350/9646">Nour El Imane Hamda</author>
+<author orcid="0000-0002-4452-1647" pid="24/2709">Allel Hadjali</author>
+<author pid="121/5548">Mohand Lagha</author>
+<title>Multisensor Data Fusion in IoT Environments in Dempster-Shafer Theory Setting: An Improved Evidence Distance-Based Approach.</title>
+<pages>5141</pages>
+<year>2023</year>
+<volume>23</volume>
+<journal>Sensors</journal>
+<number>11</number>
+<ee type="oa">https://doi.org/10.3390/s23115141</ee>
+<url>db/journals/sensors/sensors23.html#HamdaHL23</url>
+</article>
+</r>
+<r><article key="journals/www/MansouriBMHMBC23" mdate="2024-01-06">
+<author pid="143/7516">Dou El Kefel Mansouri</author>
+<author pid="198/8701">Seif-Eddine Benkabou</author>
+<author pid="332/5700">Khoula Meddahi</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="66/10119">Amin Mesmoudi</author>
+<author pid="80/5648">Khalid Benabdeslem</author>
+<author pid="174/9275">Souleyman Chaib</author>
+<title>CoSP: co-selection pick for a global explainability of black box machine learning models.</title>
+<pages>3965-3981</pages>
+<year>2023</year>
+<month>November</month>
+<volume>26</volume>
+<journal>World Wide Web (WWW)</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s11280-023-01213-8</ee>
+<url>db/journals/www/www26.html#MansouriBMHMBC23</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/PrzybylekKHDHKZ23" mdate="2023-09-14">
+<author orcid="0000-0002-8231-709X" pid="90/8118">Adam Przybylek</author>
+<author orcid="0000-0001-6198-1234" pid="187/6053">Aleksandra Karpus</author>
+<author orcid="0000-0002-4452-1647" pid="24/2709">Allel Hadjali</author>
+<author orcid="0000-0002-7621-967X" pid="96/11411">Anton Dign&#246;s</author>
+<author orcid="0000-0002-0674-9229" pid="26/3914">Carmem S. Hara</author>
+<author orcid="0000-0002-3154-6212" pid="181/9145">Danae Pla Karidi</author>
+<author orcid="0000-0003-1129-3737" pid="42/4927">Ester Zumpano</author>
+<author orcid="0000-0002-1798-0215" pid="98/7475">Fabio Persia</author>
+<author orcid="0000-0001-9545-1821" pid="v/GVargas-Solar">Genoveva Vargas-Solar</author>
+<author orcid="0000-0002-9273-9843" pid="44/2379">George Papastefanatos</author>
+<author orcid="0000-0003-4033-3777" pid="121/0078">Giancarlo Sperl&#236;</author>
+<author orcid="0000-0002-8252-9869" pid="42/4419">Giorgos Giannopoulos</author>
+<author orcid="0000-0003-1319-488X" pid="42/1001">Ivan Lukovic</author>
+<author orcid="0000-0002-1954-8733" pid="08/9059">Julien Aligon</author>
+<author orcid="0000-0003-0784-8402" pid="t/ManolisTerrovitis">Manolis Terrovitis</author>
+<author orcid="0000-0003-4740-0725" pid="122/1797">Marek Grzegorowski</author>
+<author orcid="0000-0002-1536-0872" pid="244/2250">Mariella Bonomo</author>
+<author orcid="0000-0003-2601-3224" pid="f/MirianHalfeldFerrariAlves">Mirian Halfeld Ferrari Alves</author>
+<author orcid="0000-0002-2794-2124" pid="74/2775">Nicolas Labroche</author>
+<author pid="223/8410">Paul Monsarrat</author>
+<author orcid="0000-0003-4112-1426" pid="c/RichardChbeir">Richard Chbeir</author>
+<author orcid="0000-0001-8302-3053" pid="43/5676">Sana Sellami</author>
+<author orcid="0000-0003-2998-0826" pid="200/8936">Seshu Tirupathi</author>
+<author orcid="0000-0003-3833-835X" pid="r/SimonaERombo">Simona E. Rombo</author>
+<author orcid="0000-0002-3992-0096" pid="166/7559">Slavica Kordic</author>
+<author orcid="0000-0003-0059-6062" pid="92/2179">Sonja Ristic</author>
+<author orcid="0000-0002-0939-5462" pid="58/5192">Tommaso Di Noia</author>
+<author orcid="0000-0002-1615-777X" pid="p/TorbenBachPedersen">Torben Bach Pedersen</author>
+<author orcid="0000-0002-0754-7696" pid="97/4042">Vincenzo Moscato</author>
+<title>Databases and Information Systems: Contributions from ADBIS 2023 Workshops and Doctoral Consortium.</title>
+<pages>293-311</pages>
+<year>2023</year>
+<booktitle>ADBIS (Short Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-42941-5_26</ee>
+<crossref>conf/adbis/2023short</crossref>
+<url>db/conf/adbis/adbis2023short.html#PrzybylekKHDHKZ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trustcom/BoukhedoumaMHBH23" mdate="2024-06-04">
+<author pid="376/8731">Hocine Boukhedouma</author>
+<author pid="66/3075">Abdelkrim Meziane</author>
+<author pid="42/6348">Slimane Hammoudi</author>
+<author pid="141/7348">Amel Benna</author>
+<author pid="24/2709">Allel Hadjali</author>
+<title>Towards a Context-based Mobility Prediction in Smart Cities: First Experimentations.</title>
+<pages>2579-2586</pages>
+<year>2023</year>
+<booktitle>TrustCom</booktitle>
+<ee>https://doi.org/10.1109/TrustCom60117.2023.00360</ee>
+<crossref>conf/trustcom/2023</crossref>
+<url>db/conf/trustcom/trustcom2023.html#BoukhedoumaMHBH23</url>
+</inproceedings>
+</r>
+<r><article key="journals/comsis/NadouriHS22" mdate="2022-08-09">
+<author pid="228/3194">Sana Nadouri</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="91/4506">Za&#239;di Sahnoun</author>
+<title>RG-SKY: A fuzzy group skyline relaxation for combinatorial decision making.</title>
+<pages>887-912</pages>
+<year>2022</year>
+<volume>19</volume>
+<journal>Comput. Sci. Inf. Syst.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.2298/csis211020015n</ee>
+<url>db/journals/comsis/comsis19.html#NadouriHS22</url>
+</article>
+</r>
+<r><article key="journals/kais/ParkinCJHB22" mdate="2022-09-22">
+<author orcid="0000-0002-6522-3526" pid="300/8750">Louise Parkin</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>A cooperative treatment of the plethoric answers problem in RDF.</title>
+<pages>2481-2514</pages>
+<year>2022</year>
+<volume>64</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1007/s10115-022-01710-8</ee>
+<url>db/journals/kais/kais64.html#ParkinCJHB22</url>
+</article>
+</r>
+<r><inproceedings key="conf/dexa/HaddacheHA22" mdate="2022-08-01">
+<author pid="189/7961">Mohamed Haddache</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="133/3977">Hamid Azzoune</author>
+<title>A Fuzzy Satisfaction Concept Based-Approach for Skyline Relaxation.</title>
+<pages>303-309</pages>
+<year>2022</year>
+<booktitle>DEXA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-12426-6_28</ee>
+<crossref>conf/dexa/2022-2</crossref>
+<url>db/conf/dexa/dexa2022-2.html#HaddacheHA22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lfa/NadouriHS22" mdate="2023-04-28">
+<author pid="228/3194">Sana Nadouri</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="91/4506">Za&#239;di Sahnoun</author>
+<title>Fuzzy Group Skyline Relaxation.</title>
+<year>2022</year>
+<booktitle>LFA</booktitle>
+<crossref>conf/lfa/2022</crossref>
+<url>db/conf/lfa/lfa2022.html#NadouriHS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rcis/SellamiBJBHC22" mdate="2022-05-16">
+<author pid="234/1600">Chayma Sellami</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="47/1403">Mounir Bechchi</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="225/8923">Dominique Chabot</author>
+<title>Trust Model Recommendation Driven by Application Requirements.</title>
+<pages>694-702</pages>
+<year>2022</year>
+<booktitle>RCIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-05760-1_45</ee>
+<crossref>conf/rcis/2022</crossref>
+<url>db/conf/rcis/rcis2022.html#SellamiBJBHC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/MeddahiBHMMBC22" mdate="2022-11-10">
+<author pid="332/5700">Khoula Meddahi</author>
+<author pid="198/8701">Seif-Eddine Benkabou</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="66/10119">Amin Mesmoudi</author>
+<author pid="143/7516">Dou El Kefel Mansouri</author>
+<author pid="80/5648">Khalid Benabdeslem</author>
+<author pid="174/9275">Souleyman Chaib</author>
+<title>Towards a Co-selection Approach for a Global Explainability of Black Box Machine Learning Models.</title>
+<pages>97-109</pages>
+<year>2022</year>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-20891-1_8</ee>
+<crossref>conf/wise/2022</crossref>
+<url>db/conf/wise/wise2022.html#MeddahiBHMMBC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/ParkinCJH22" mdate="2022-11-10">
+<author pid="300/8750">Louise Parkin</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<title>Explaining Unexpected Answers of SPARQL Queries.</title>
+<pages>136-151</pages>
+<year>2022</year>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-20891-1_11</ee>
+<crossref>conf/wise/2022</crossref>
+<url>db/conf/wise/wise2022.html#ParkinCJH22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/SaidiYMBHM22" mdate="2022-11-10">
+<author pid="332/6480">Boumediene Saidi</author>
+<author pid="320/0416">Houssameddine Yousfi</author>
+<author pid="66/10119">Amin Mesmoudi</author>
+<author pid="198/8701">Seif-Eddine Benkabou</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="206/2514">Houcine Matallah</author>
+<title>RDF_QDAG in Action: Efficient RDF Data Querying at Scale.</title>
+<pages>633-640</pages>
+<year>2022</year>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-20891-1_45</ee>
+<crossref>conf/wise/2022</crossref>
+<url>db/conf/wise/wise2022.html#SaidiYMBHM22</url>
+</inproceedings>
+</r>
+<r><incollection key="books/iet/22/ElaggouneMHB22" mdate="2025-01-16">
+<author pid="214/3413">Zakarya Elaggoune</author>
+<author pid="41/7706">Ramdane Maamri</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="58/10036">Imane Boussebough</author>
+<title>Toward intelligent extraction of relevant information by adaptive fuzzy agents in big data and multi-sensor environments.</title>
+<pages>173-187</pages>
+<year>2022</year>
+<booktitle>Wireless Mesh Networks for IoT and Smart Cities</booktitle>
+<ee>https://doi.org/10.1049/pbte101e_ch9</ee>
+<crossref>books/iet/22/DF2022</crossref>
+<url>db/books/collections/DF2022.html#ElaggouneMHB22</url>
+</incollection>
+</r>
+<r><article key="journals/ijicc/HaddacheHA21" mdate="2021-09-20">
+<author orcid="0000-0003-3493-2108" pid="189/7961">Mohamed Haddache</author>
+<author orcid="0000-0002-4452-1647" pid="24/2709">Allel Hadjali</author>
+<author orcid="0000-0002-5168-2692" pid="133/3977">Hamid Azzoune</author>
+<title>Skyline refinement exploiting fuzzy formal concept analysis.</title>
+<pages>333-362</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Int. J. Intell. Comput. Cybern.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1108/IJICC-11-2020-0181</ee>
+<url>db/journals/ijicc/ijicc14.html#HaddacheHA21</url>
+</article>
+</r>
+<r><article key="journals/tsc/BenouaretSBH21" mdate="2025-01-19">
+<author orcid="0000-0003-2634-0962" pid="17/9589">Karim Benouaret</author>
+<author orcid="0000-0001-5022-1483" pid="19/4428">Dimitris Sacharidis</author>
+<author orcid="0000-0001-5700-8060" pid="b/DjamalBenslimane">Djamal Benslimane</author>
+<author orcid="0000-0002-4452-1647" pid="24/2709">Allel Hadjali</author>
+<title>Selecting Services for Multiple Users: Let's Be Democratic.</title>
+<pages>1531-1544</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>IEEE Trans. Serv. Comput.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSC.2018.2875691</ee>
+<ee>https://www.wikidata.org/entity/Q129096220</ee>
+<url>db/journals/tsc/tsc14.html#BenouaretSBH21</url>
+</article>
+</r>
+<r><inproceedings key="conf/dexa/ParkinCJHB21" mdate="2021-09-02">
+<author pid="300/8750">Louise Parkin</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Dealing with Plethoric Answers of SPARQL Queries.</title>
+<pages>292-304</pages>
+<year>2021</year>
+<booktitle>DEXA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86472-9_27</ee>
+<crossref>conf/dexa/2021-1</crossref>
+<url>db/conf/dexa/dexa2021-1.html#ParkinCJHB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fqas/Hadjali21" mdate="2021-09-17">
+<author pid="24/2709">Allel Hadjali</author>
+<title>On Controlling Skyline Query Results: What Does Soft Computing Bring?</title>
+<pages>97-108</pages>
+<year>2021</year>
+<booktitle>FQAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86967-0_8</ee>
+<crossref>conf/fqas/2021</crossref>
+<url>db/conf/fqas/fqas2021.html#Hadjali21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieaaie/SadouDH21" mdate="2021-07-25">
+<author orcid="0000-0002-9191-7003" pid="274/2605">Mohammed Sadou</author>
+<author pid="55/3553">Yassine Djouadi</author>
+<author pid="24/2709">Allel Hadj-Ali</author>
+<title>A Possible Worlds Interpretation of Many-Sorted Theory for IR.</title>
+<pages>629-635</pages>
+<year>2021</year>
+<booktitle>IEA/AIE (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-79463-7_53</ee>
+<crossref>conf/ieaaie/2021-2</crossref>
+<url>db/conf/ieaaie/ieaaie2021-2.html#SadouDH21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rcis/SellamiBBHJC21" mdate="2021-05-14">
+<author pid="234/1600">Chayma Sellami</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<author pid="47/1403">Mounir Bechchi</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="225/8923">Dominique Chabot</author>
+<title>Towards a Unified Framework for Computational Trust and Reputation Models for e-Commerce Applications.</title>
+<pages>616-622</pages>
+<year>2021</year>
+<booktitle>RCIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-75018-3_44</ee>
+<crossref>conf/rcis/2021</crossref>
+<url>db/conf/rcis/rcis2021.html#SellamiBBHJC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaase/ArkiZH20" mdate="2021-04-14">
+<author pid="214/3241">Oussama Arki</author>
+<author pid="08/7401">Abdelhafid Zitouni</author>
+<author pid="24/2709">Allel Hadjali</author>
+<title>A Cloud Data Classification Model Using Fuzzy Logic.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>ICAASE</booktitle>
+<ee>https://doi.org/10.1109/ICAASE51408.2020.9380119</ee>
+<crossref>conf/icaase/2020</crossref>
+<url>db/conf/icaase/icaase2020.html#ArkiZH20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaase/HaddacheHA20" mdate="2021-04-14">
+<author pid="189/7961">Mohamed Haddache</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="133/3977">Hamid Azzoune</author>
+<title>Concept Dissimilarity Based Approach for Skyline Relaxation.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>ICAASE</booktitle>
+<ee>https://doi.org/10.1109/ICAASE51408.2020.9380121</ee>
+<crossref>conf/icaase/2020</crossref>
+<url>db/conf/icaase/icaase2020.html#HaddacheHA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/SadouDH20" mdate="2020-09-19">
+<author orcid="0000-0002-9191-7003" pid="274/2605">Mohammed Sadou</author>
+<author pid="55/3553">Yassine Djouadi</author>
+<author pid="24/2709">Allel Hadj-Ali</author>
+<title>Modal Interpretation of Formal Concept Analysis for Incomplete Representations.</title>
+<pages>261-269</pages>
+<year>2020</year>
+<booktitle>SUM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58449-8_20</ee>
+<crossref>conf/sum/2020</crossref>
+<url>db/conf/sum/sum2020.html#SadouDH20</url>
+</inproceedings>
+</r>
+<r><article key="journals/asc/BelkasmiHA19" mdate="2019-01-18">
+<author pid="174/6738">Djamal Belkasmi</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author orcid="0000-0002-5168-2692" pid="133/3977">Hamid Azzoune</author>
+<title>On fuzzy approaches for enlarging skyline query results.</title>
+<pages>51-65</pages>
+<year>2019</year>
+<volume>74</volume>
+<journal>Appl. Soft Comput.</journal>
+<ee>https://doi.org/10.1016/j.asoc.2018.10.013</ee>
+<url>db/journals/asc/asc74.html#BelkasmiHA19</url>
+</article>
+</r>
+<r><article key="journals/ijar/HadjaliMAT19" mdate="2020-03-27">
+<author pid="24/2709">Allel Hadjali</author>
+<author orcid="0000-0001-9932-8433" pid="34/569">Haithem Mezni</author>
+<author pid="09/7833">Sabeur Aridhi</author>
+<author orcid="0000-0001-5029-5212" pid="81/6391">Andrei Tchernykh</author>
+<title>Special issue on &#34;Uncertainty in Cloud Computing: Concepts, Challenges and Current Solutions&#34;.</title>
+<pages>53-55</pages>
+<year>2019</year>
+<volume>111</volume>
+<journal>Int. J. Approx. Reason.</journal>
+<ee>https://doi.org/10.1016/j.ijar.2019.05.008</ee>
+<url>db/journals/ijar/ijar111.html#HadjaliMAT19</url>
+</article>
+</r>
+<r><article key="journals/jaihc/OuadahHNB19" mdate="2025-01-19">
+<author orcid="0000-0001-7236-8056" pid="20/7707">Abdelaziz Ouadah</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="17/11042">Fahima Nader</author>
+<author pid="17/9589">Karim Benouaret</author>
+<title>SEFAP: an efficient approach for ranking skyline web services.</title>
+<pages>709-725</pages>
+<year>2019</year>
+<volume>10</volume>
+<journal>J. Ambient Intell. Humaniz. Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s12652-018-0721-7</ee>
+<ee>https://www.wikidata.org/entity/Q130208688</ee>
+<url>db/journals/jaihc/jaihc10.html#OuadahHNB19</url>
+</article>
+</r>
+<r><article key="journals/jiis/BelheouaneJAH19" mdate="2025-01-19">
+<author pid="205/1309">Chourouk Belheouane</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="133/3977">Hamid Azzoune</author>
+<author orcid="0000-0002-4452-1647" pid="24/2709">Allel Hadjali</author>
+<title>Cooperative treatment of failing queries over uncertain databases: a matrix-computation-based approach.</title>
+<pages>211-238</pages>
+<year>2019</year>
+<volume>52</volume>
+<journal>J. Intell. Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10844-018-0538-z</ee>
+<ee>https://www.wikidata.org/entity/Q129001342</ee>
+<url>db/journals/jiis/jiis52.html#BelheouaneJAH19</url>
+</article>
+</r>
+<r><article key="journals/kais/DellalJHCB19" mdate="2025-01-19">
+<author pid="201/5364">Ibrahim Dellal</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Query answering over uncertain RDF knowledge bases: explain and obviate unsuccessful query results.</title>
+<pages>1633-1665</pages>
+<year>2019</year>
+<volume>61</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10115-019-01332-7</ee>
+<ee>https://www.wikidata.org/entity/Q128428669</ee>
+<url>db/journals/kais/kais61.html#DellalJHCB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/f-egc/NadouriHS19" mdate="2024-11-06">
+<author pid="228/3194">Sana Nadouri</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="91/4506">Za&#239;di Sahnoun</author>
+<title>Vers une d&#233;cision Skyline intelligente.</title>
+<pages>371-372</pages>
+<year>2019</year>
+<booktitle>EGC</booktitle>
+<ee type="oa">https://editions-rnti.fr/?inprocid=1002512</ee>
+<crossref>conf/f-egc/2019</crossref>
+<url>db/conf/f-egc/egc2019.html#NadouriHS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fqas/HaddacheHA19" mdate="2019-09-12">
+<author pid="189/7961">Mohamed Haddache</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="133/3977">Hamid Azzoune</author>
+<title>Reducing Skyline Query Results: An Approach Based on Fuzzy Satisfaction of Concepts.</title>
+<pages>191-202</pages>
+<year>2019</year>
+<booktitle>FQAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-27629-4_19</ee>
+<crossref>conf/fqas/2019</crossref>
+<url>db/conf/fqas/fqas2019.html#HaddacheHA19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieaaie/HaddacheHA19" mdate="2019-07-01">
+<author pid="189/7961">Mohamed Haddache</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="133/3977">Hamid Azzoune</author>
+<title>A Formal-Concept-Lattice Driven Approach for Skyline Refinement.</title>
+<pages>541-554</pages>
+<year>2019</year>
+<booktitle>IEA/AIE</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-22999-3_47</ee>
+<crossref>conf/ieaaie/2019</crossref>
+<url>db/conf/ieaaie/ieaaie2019.html#HaddacheHA19</url>
+</inproceedings>
+</r>
+<r><article key="journals/dn/DellalJHCB18" mdate="2019-07-26">
+<author pid="201/5364">Ibrahim Dellal</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Traitement coop&#233;ratif des requ&#234;tes RDF dans le contexte des bases de connaissances incertaines.</title>
+<pages>9-35</pages>
+<year>2018</year>
+<volume>21</volume>
+<journal>Document Num&#233;rique</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.3166/dn.21.1-2.9-35</ee>
+<url>db/journals/dn/dn21.html#DellalJHCB18</url>
+</article>
+</r>
+<r><article key="journals/fss/HadjaliL18" mdate="2025-01-19">
+<author pid="24/2709">Allel Hadjali</author>
+<author orcid="0000-0002-0038-8872" pid="52/8875">Eric Lefevre</author>
+<title>SI on Fuzzy Logic and its Applications (LFA 2015).</title>
+<pages>1-2</pages>
+<year>2018</year>
+<volume>343</volume>
+<journal>Fuzzy Sets Syst.</journal>
+<ee>https://doi.org/10.1016/j.fss.2018.03.003</ee>
+<ee>https://www.wikidata.org/entity/Q130097298</ee>
+<url>db/journals/fss/fss343.html#HadjaliL18</url>
+</article>
+</r>
+<r><article key="journals/ijar/AbidiETHY18" mdate="2023-09-30">
+<author pid="188/1717">Amna Abidi</author>
+<author orcid="0000-0002-9091-2307" pid="150/7780">Sayda Elmi</author>
+<author orcid="0000-0001-8268-8870" pid="01/6255">Mohamed Anis Bach Tobji</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>Skyline queries over possibilistic RDF data.</title>
+<pages>277-289</pages>
+<year>2018</year>
+<volume>93</volume>
+<journal>Int. J. Approx. Reason.</journal>
+<ee>https://doi.org/10.1016/j.ijar.2017.11.005</ee>
+<url>db/journals/ijar/ijar93.html#AbidiETHY18</url>
+</article>
+</r>
+<r><article key="journals/ijar/MezniAH18" mdate="2020-02-21">
+<author orcid="0000-0001-9932-8433" pid="34/569">Haithem Mezni</author>
+<author pid="09/7833">Sabeur Aridhi</author>
+<author pid="24/2709">Allel Hadjali</author>
+<title>The uncertain cloud: State of the art and research challenges.</title>
+<pages>139-151</pages>
+<year>2018</year>
+<volume>103</volume>
+<journal>Int. J. Approx. Reason.</journal>
+<ee>https://doi.org/10.1016/j.ijar.2018.09.009</ee>
+<url>db/journals/ijar/ijar103.html#MezniAH18</url>
+</article>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/BelheouaneJCHA18" mdate="2018-10-23">
+<author pid="205/1309">Chourouk Belheouane</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="133/3977">Hamid Azzoune</author>
+<title>Borders of Theories for Cooperative Querying over Uncertain Databases.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZ-IEEE.2018.8491443</ee>
+<crossref>conf/fuzzIEEE/2018</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2018.html#BelheouaneJCHA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaase/MoudjariSH18" mdate="2023-03-10">
+<author pid="207/1043">Rayene Moudjari</author>
+<author pid="91/4506">Za&#239;di Sahnoun</author>
+<author pid="24/2709">Allel Hadjali</author>
+<title>Cloud Edge Computing for Internet of Things Elasticity Management.</title>
+<pages>130-133</pages>
+<year>2018</year>
+<booktitle>ICAASE</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2326/short1.pdf</ee>
+<crossref>conf/icaase/2018</crossref>
+<url>db/conf/icaase/icaase2018.html#MoudjariSH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaase/NadouriSH18" mdate="2023-03-10">
+<author pid="228/3194">Sana Nadouri</author>
+<author pid="91/4506">Za&#239;di Sahnoun</author>
+<author pid="24/2709">Allel Hadjali</author>
+<title>Using G-skyline to improve Decision-Making.</title>
+<pages>141-150</pages>
+<year>2018</year>
+<booktitle>ICAASE</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2326/short3.pdf</ee>
+<crossref>conf/icaase/2018</crossref>
+<url>db/conf/icaase/icaase2018.html#NadouriSH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/AbidiTHY18" mdate="2023-03-24">
+<author pid="188/1717">Amna Abidi</author>
+<author pid="01/6255">Mohamed Anis Bach Tobji</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>A General Framework for Querying Possibilistic RDF Data.</title>
+<pages>158-162</pages>
+<year>2018</year>
+<booktitle>ICTAI</booktitle>
+<ee>https://doi.org/10.1109/ICTAI.2018.00033</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICTAI.2018.00033</ee>
+<crossref>conf/ictai/2018</crossref>
+<url>db/conf/ictai/ictai2018.html#AbidiTHY18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/BousninaCTHY18" mdate="2019-09-25">
+<author pid="170/0882">Fatma Ezzahra Bousnina</author>
+<author pid="64/9059">Mouna Chebbah</author>
+<author orcid="0000-0001-8268-8870" pid="01/6255">Mohamed Anis Bach Tobji</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>Evidential Top-k Queries Evaluation: Algorithms and Experiments.</title>
+<pages>407-417</pages>
+<year>2018</year>
+<booktitle>IPMU (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-91473-2_35</ee>
+<crossref>conf/ipmu/2018-1</crossref>
+<url>db/conf/ipmu/ipmu2018-1.html#BousninaCTHY18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/BenadjimiHH18" mdate="2018-05-30">
+<author pid="169/7154">Noussaiba Benadjimi</author>
+<author pid="96/1461">Walid Hidouci</author>
+<author pid="24/2709">Allel Hadjali</author>
+<title>On Hash Bipolar Division: An Enhanced Processing of Novel and Conventional Forms of Bipolar Division.</title>
+<pages>749-761</pages>
+<year>2018</year>
+<booktitle>IPMU (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-91473-2_63</ee>
+<crossref>conf/ipmu/2018-1</crossref>
+<url>db/conf/ipmu/ipmu2018-1.html#BenadjimiHH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/misc/OuadahHNB18" mdate="2022-04-09">
+<author orcid="0000-0001-7236-8056" pid="20/7707">Abdelaziz Ouadah</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="17/11042">Fahima Nader</author>
+<author pid="17/9589">Karim Benouaret</author>
+<title>An Improved Fuzzy Analytical Hierarchy Process for K-Representative Skyline Web Services Selection.</title>
+<pages>312-328</pages>
+<year>2018</year>
+<booktitle>MISC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-05481-6_24</ee>
+<crossref>conf/misc/2018</crossref>
+<url>db/conf/misc/misc2018.html#OuadahHNB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wetice/NadouriOSH18" mdate="2023-03-23">
+<author pid="228/3194">Sana Nadouri</author>
+<author pid="36/10271">Yassine Ouhammou</author>
+<author pid="91/4506">Za&#239;di Sahnoun</author>
+<author pid="24/2709">Allel Hadjali</author>
+<title>Towards a Multi-Agent Approach for Distributed Decision Support Systems.</title>
+<pages>72-77</pages>
+<year>2018</year>
+<booktitle>WETICE</booktitle>
+<ee>https://doi.org/10.1109/WETICE.2018.00021</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WETICE.2018.00021</ee>
+<crossref>conf/wetice/2018</crossref>
+<url>db/conf/wetice/wetice2018.html#NadouriOSH18</url>
+</inproceedings>
+</r>
+<r><article key="journals/asc/ElmiTHY17" mdate="2026-01-04">
+<author orcid="0000-0002-9091-2307" pid="150/7780">Sayda Elmi</author>
+<author orcid="0000-0001-8268-8870" pid="01/6255">Mohamed Anis Bach Tobji</author>
+<author orcid="0000-0002-4452-1647" pid="24/2709">Allel Hadjali</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>Selecting skyline stars over uncertain databases: Semantics and refining methods in the evidence theory setting.</title>
+<pages>88-101</pages>
+<year>2017</year>
+<volume>57</volume>
+<journal>Appl. Soft Comput.</journal>
+<ee>https://doi.org/10.1016/j.asoc.2017.03.025</ee>
+<url>db/journals/asc/asc57.html#ElmiTHY17</url>
+</article>
+</r>
+<r><article key="journals/ijicc/GammoudiHY17" mdate="2020-09-06">
+<author pid="151/8590">Aymen Gammoudi 0001</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>Fuzz-TIME: an intelligent system for managing fuzzy temporal information.</title>
+<pages>200-222</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Int. J. Intell. Comput. Cybern.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1108/IJICC-09-2016-0036</ee>
+<url>db/journals/ijicc/ijicc10.html#GammoudiHY17</url>
+</article>
+</r>
+<r><article key="journals/kais/FokouJHB17" mdate="2017-05-28">
+<author pid="124/9773">G&#233;raud Fokou</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Handling failing RDF queries: from diagnosis to relaxation.</title>
+<pages>167-195</pages>
+<year>2017</year>
+<volume>50</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10115-016-0941-0</ee>
+<url>db/journals/kais/kais50.html#FokouJHB17</url>
+</article>
+</r>
+<r><inproceedings key="conf/dexa/DellalJHCB17" mdate="2017-08-14">
+<author pid="201/5364">Ibrahim Dellal</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>On Addressing the Empty Answer Problem in Uncertain Knowledge Bases.</title>
+<pages>120-129</pages>
+<year>2017</year>
+<booktitle>DEXA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-64468-4_9</ee>
+<crossref>conf/dexa/2017-1</crossref>
+<url>db/conf/dexa/dexa2017-1.html#DellalJHCB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/SaidaniHRB17" mdate="2017-08-14">
+<author pid="202/6337">Fay&#231;al R&#233;dha Saidani</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="184/8617">Idir Rassoul</author>
+<author pid="174/6738">Djamal Belkasmi</author>
+<title>Skyline-Based Feature Selection for Polarity Classification in Social Networks.</title>
+<pages>381-394</pages>
+<year>2017</year>
+<booktitle>DEXA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-64468-4_29</ee>
+<crossref>conf/dexa/2017-1</crossref>
+<url>db/conf/dexa/dexa2017-1.html#SaidaniHRB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/BelheouaneJHA17" mdate="2017-08-29">
+<author pid="205/1309">Chourouk Belheouane</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="133/3977">Hamid Azzoune</author>
+<title>Handling failing queries over uncertain databases.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZ-IEEE.2017.8015476</ee>
+<crossref>conf/fuzzIEEE/2017</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2017.html#BelheouaneJHA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdec/AbidiBTHY17" mdate="2019-09-25">
+<author pid="188/1717">Amna Abidi</author>
+<author orcid="0000-0002-2268-2626" pid="188/1641">Nassim Bahri</author>
+<author orcid="0000-0001-8268-8870" pid="01/6255">Mohamed Anis Bach Tobji</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>First Steps Towards an Electronic Meta-journal Platform Based on Crowdsourcing.</title>
+<pages>175-185</pages>
+<year>2017</year>
+<booktitle>ICDEc</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-62737-3_15</ee>
+<crossref>conf/icdec/2017</crossref>
+<url>db/conf/icdec/icdec2017.html#AbidiBTHY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdec/BousninaECTHY17" mdate="2023-09-30">
+<author pid="170/0882">Fatma Ezzahra Bousnina</author>
+<author orcid="0000-0002-9091-2307" pid="150/7780">Sayda Elmi</author>
+<author orcid="0000-0002-3636-2762" pid="64/9059">Mouna Chebbah</author>
+<author orcid="0000-0001-8268-8870" pid="01/6255">Mohamed Anis Bach Tobji</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>Skyline Operator over Tripadvisor Reviews Within the Belief Functions Framework.</title>
+<pages>186-197</pages>
+<year>2017</year>
+<booktitle>ICDEc</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-62737-3_16</ee>
+<crossref>conf/icdec/2017</crossref>
+<url>db/conf/icdec/icdec2017.html#BousninaECTHY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/BousninaCTHY17" mdate="2017-06-13">
+<author pid="170/0882">Fatma Ezzahra Bousnina</author>
+<author pid="64/9059">Mouna Chebbah</author>
+<author pid="01/6255">Mohamed Anis Bach Tobji</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>On Top-K Queries Over Evidential Data.</title>
+<pages>106-113</pages>
+<year>2017</year>
+<booktitle>ICEIS (1)</booktitle>
+<ee>https://doi.org/10.5220/0006317701060113</ee>
+<crossref>conf/iceis/2017-1</crossref>
+<url>db/conf/iceis/iceis2017-1.html#BousninaCTHY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/AbidiTHY17a" mdate="2019-09-25">
+<author pid="188/1717">Amna Abidi</author>
+<author orcid="0000-0001-8268-8870" pid="01/6255">Mohamed Anis Bach Tobji</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>Statistical Methods for Use in Analysis of Trust-Skyline Sets.</title>
+<pages>413-427</pages>
+<year>2017</year>
+<booktitle>ICEIS (Revised Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93375-7_19</ee>
+<crossref>conf/iceis/2017sp</crossref>
+<url>db/conf/iceis/iceis2017sp.html#AbidiTHY17a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/AbidiTHY17" mdate="2017-06-13">
+<author pid="188/1717">Amna Abidi</author>
+<author pid="01/6255">Mohamed Anis Bach Tobji</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>Skyline Modeling and Computing over Trust RDF Data.</title>
+<pages>634-643</pages>
+<year>2017</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0006320706340643</ee>
+<crossref>conf/iceis/2017-2</crossref>
+<url>db/conf/iceis/iceis2017-2.html#AbidiTHY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/ElmiHTY17" mdate="2023-09-30">
+<author orcid="0000-0002-9091-2307" pid="150/7780">Sayda Elmi</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author orcid="0000-0001-8268-8870" pid="01/6255">Mohamed Anis Bach Tobji</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>Skyline Computation and Maintenance over Imperfect Databases: A Marginal-Points-Based Approach.</title>
+<pages>1234-1242</pages>
+<year>2017</year>
+<booktitle>ICTAI</booktitle>
+<ee>https://doi.org/10.1109/ICTAI.2017.00187</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICTAI.2017.00187</ee>
+<crossref>conf/ictai/2017</crossref>
+<url>db/conf/ictai/ictai2017.html#ElmiHTY17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inforsid/DellalJHCB17" mdate="2021-02-01">
+<author pid="201/5364">Ibrahim Dellal</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Traitement coop&#233;ratif des requ&#234;tes RDF dans le contexte des bases de connaissances incertaines.</title>
+<pages>277-292</pages>
+<year>2017</year>
+<booktitle>INFORSID</booktitle>
+<ee type="oa">http://inforsid.fr/actes/2017/INFORSID_2017_paper_16</ee>
+<crossref>conf/inforsid/2017</crossref>
+<url>db/conf/inforsid/inforsid2017.html#DellalJHCB17</url>
+</inproceedings>
+</r>
+<r><article key="journals/asc/ChouirefBBH16" mdate="2022-04-09">
+<author pid="146/8740">Zahira Chouiref</author>
+<author orcid="0000-0002-1813-3384" pid="39/2369">Abdelkader Belkhir</author>
+<author pid="17/9589">Karim Benouaret</author>
+<author pid="24/2709">Allel Hadjali</author>
+<title>A fuzzy framework for efficient user-centric Web service selection.</title>
+<pages>51-65</pages>
+<year>2016</year>
+<volume>41</volume>
+<journal>Appl. Soft Comput.</journal>
+<ee>https://doi.org/10.1016/j.asoc.2015.12.011</ee>
+<url>db/journals/asc/asc41.html#ChouirefBBH16</url>
+</article>
+</r>
+<r><inproceedings key="conf/aiccsa/AmamiEH16" mdate="2025-10-14">
+<author pid="201/3994">Abir Amami</author>
+<author orcid="0000-0002-0476-4951" pid="19/1244">Zied Elouedi</author>
+<author pid="24/2709">Allel Hadjali</author>
+<title>A clustering based approach for query relaxation in evidential databases.</title>
+<pages>1-8</pages>
+<year>2016</year>
+<booktitle>AICCSA</booktitle>
+<ee>https://doi.org/10.1109/AICCSA.2016.7945733</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AICCSA.2016.7945733</ee>
+<crossref>conf/aiccsa/2016</crossref>
+<url>db/conf/aiccsa/aiccsa2016.html#AmamiEH16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiccsa/ElmiHTY16" mdate="2023-09-30">
+<author orcid="0000-0002-9091-2307" pid="150/7780">Sayda Elmi</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author orcid="0000-0001-8268-8870" pid="01/6255">Mohamed Anis Bach Tobji</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>Imperfect top-k skyline query with confidence level.</title>
+<pages>1-8</pages>
+<year>2016</year>
+<booktitle>AICCSA</booktitle>
+<ee>https://doi.org/10.1109/AICCSA.2016.7945620</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AICCSA.2016.7945620</ee>
+<crossref>conf/aiccsa/2016</crossref>
+<url>db/conf/aiccsa/aiccsa2016.html#ElmiHTY16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esws/FokouJHB16" mdate="2017-05-24">
+<author pid="124/9773">G&#233;raud Fokou</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>RDF Query Relaxation Strategies Based on Failure Causes.</title>
+<pages>439-454</pages>
+<year>2016</year>
+<booktitle>ESWC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-34129-3_27</ee>
+<crossref>conf/esws/2016</crossref>
+<url>db/conf/esws/eswc2016.html#FokouJHB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/BelkasmiHA16" mdate="2024-11-06">
+<author pid="174/6738">Djamal Belkasmi</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="133/3977">Hamid Azzoune</author>
+<title>Relaxation des Requ&#234;tes Skyline : Une Approche Centr&#233;e Utilisateur.</title>
+<pages>357-362</pages>
+<year>2016</year>
+<booktitle>EGC</booktitle>
+<ee type="oa">https://editions-rnti.fr/?inprocid=1002188</ee>
+<crossref>conf/f-egc/2016</crossref>
+<url>db/conf/f-egc/egc2016.html#BelkasmiHA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/0001HY16" mdate="2017-05-21">
+<author pid="151/8590">Aymen Gammoudi 0001</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>Modeling temporal relations between Fuzzy TIME intervals: A disjunctive view.</title>
+<pages>50-57</pages>
+<year>2016</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZ-IEEE.2016.7737667</ee>
+<crossref>conf/fuzzIEEE/2016</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2016.html#0001HY16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccci/SalemH0Y16" mdate="2017-05-22">
+<author pid="185/8620">Nessrine El Hadj Salem</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="151/8590">Aymen Gammoudi 0001</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>An Evidential Approach for Managing Temporal Relations Uncertainty.</title>
+<pages>98-107</pages>
+<year>2016</year>
+<booktitle>ICCCI (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-45243-2_9</ee>
+<crossref>conf/iccci/2016-1</crossref>
+<url>db/conf/iccci/iccci2016-1.html#SalemH0Y16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdec/BousninaETCHY16" mdate="2023-09-30">
+<author pid="170/0882">Fatma Ezzahra Bousnina</author>
+<author orcid="0000-0002-9091-2307" pid="150/7780">Sayda Elmi</author>
+<author orcid="0000-0001-8268-8870" pid="01/6255">Mohamed Anis Bach Tobji</author>
+<author orcid="0000-0002-3636-2762" pid="64/9059">Mouna Chebbah</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>Object-relational implementation of evidential databases.</title>
+<pages>80-87</pages>
+<year>2016</year>
+<booktitle>ICDEc</booktitle>
+<ee>https://doi.org/10.1109/ICDEC.2016.7563149</ee>
+<crossref>conf/icdec/2016</crossref>
+<url>db/conf/icdec/icdec2016.html#BousninaETCHY16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/ElmiTHY16" mdate="2023-03-24">
+<author pid="150/7780">Sayda Elmi</author>
+<author pid="01/6255">Mohamed Anis Bach Tobji</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>Efficient Distributed Skyline over Imperfect Data Modeled by the Evidence Theory.</title>
+<pages>335-342</pages>
+<year>2016</year>
+<booktitle>ICTAI</booktitle>
+<ee>https://doi.org/10.1109/ICTAI.2016.0058</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICTAI.2016.0058</ee>
+<crossref>conf/ictai/2016</crossref>
+<url>db/conf/ictai/ictai2016.html#ElmiTHY16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/ElmiTHY16" mdate="2023-09-30">
+<author orcid="0000-0002-9091-2307" pid="150/7780">Sayda Elmi</author>
+<author orcid="0000-0001-8268-8870" pid="01/6255">Mohamed Anis Bach Tobji</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>Efficient Skyline Maintenance over Frequently Updated Evidential Databases.</title>
+<pages>199-210</pages>
+<year>2016</year>
+<booktitle>IPMU (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-40581-0_17</ee>
+<crossref>conf/ipmu/2016-2</crossref>
+<url>db/conf/ipmu/ipmu2016-2.html#ElmiTHY16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/SametRDH16" mdate="2017-06-04">
+<author pid="131/3597">Ahmed Samet</author>
+<author pid="52/9798">Badran Raddaoui</author>
+<author orcid="0000-0002-5088-3433" pid="177/1845">Tien-Tuan Dao</author>
+<author pid="24/2709">Allel Hadjali</author>
+<title>Argumentation Framework Based on Evidence Theory.</title>
+<pages>253-264</pages>
+<year>2016</year>
+<booktitle>IPMU (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-40581-0_21</ee>
+<crossref>conf/ipmu/2016-2</crossref>
+<url>db/conf/ipmu/ipmu2016-2.html#SametRDH16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/BelkasmiHA16" mdate="2017-05-21">
+<author pid="174/6738">Djamal Belkasmi</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="133/3977">Hamid Azzoune</author>
+<title>Making the Skyline Larger: A Fuzzy-Neighborhood-Based Approach.</title>
+<pages>341-354</pages>
+<year>2016</year>
+<booktitle>IPMU (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-40581-0_28</ee>
+<crossref>conf/ipmu/2016-2</crossref>
+<url>db/conf/ipmu/ipmu2016-2.html#BelkasmiHA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/is/HaddacheBHA16" mdate="2017-05-21">
+<author pid="189/7961">Mohamed Haddache</author>
+<author pid="174/6738">Djamal Belkasmi</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="133/3977">Hamid Azzoune</author>
+<title>An outranking-based approach for skyline refinement.</title>
+<pages>333-344</pages>
+<year>2016</year>
+<booktitle>IEEE Conf. on Intelligent Systems</booktitle>
+<ee>https://doi.org/10.1109/IS.2016.7737442</ee>
+<crossref>conf/is/2016</crossref>
+<url>db/conf/is/is2016.html#HaddacheBHA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nafips/KoulougliHR16" mdate="2017-05-25">
+<author pid="184/9115">Dalila Koulougli</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="184/8617">Idir Rassoul</author>
+<title>Handling query answering in crowdsourcing systems: A belief function-based approach.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>NAFIPS</booktitle>
+<ee>https://doi.org/10.1109/NAFIPS.2016.7851590</ee>
+<crossref>conf/nafips/2016</crossref>
+<url>db/conf/nafips/nafips2016.html#KoulougliHR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rcis/KoulougliHR16" mdate="2017-05-25">
+<author pid="184/9115">Dalila Koulougli</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="184/8617">Idir Rassoul</author>
+<title>Leveraging human factors to enhance query answering in crowdsourcing systems.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>RCIS</booktitle>
+<ee>https://doi.org/10.1109/RCIS.2016.7549363</ee>
+<crossref>conf/rcis/2016</crossref>
+<url>db/conf/rcis/rcis2016.html#KoulougliHR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sitis/AbdelkaderDH16" mdate="2023-03-23">
+<author pid="198/9866">Alem Abdelkader</author>
+<author pid="15/3084">Youcef Dahmani</author>
+<author pid="24/2709">Allel HadjAli</author>
+<title>On the Use of Belief Functions to Improve High Performance Intrusion Detection System.</title>
+<pages>266-270</pages>
+<year>2016</year>
+<booktitle>SITIS</booktitle>
+<ee>https://doi.org/10.1109/SITIS.2016.50</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SITIS.2016.50</ee>
+<crossref>conf/sitis/2016</crossref>
+<url>db/conf/sitis/sitis2016.html#AbdelkaderDH16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sitis/OthmaneA16" mdate="2023-03-23">
+<author pid="198/9779">Zied Ben Othmane</author>
+<author pid="24/2709">Allel Hadj-Ali</author>
+<title>Group Formation with Incomplete Profiles.</title>
+<pages>732-745</pages>
+<year>2016</year>
+<booktitle>SITIS</booktitle>
+<ee>https://doi.org/10.1109/SITIS.2016.122</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SITIS.2016.122</ee>
+<crossref>conf/sitis/2016</crossref>
+<url>db/conf/sitis/sitis2016.html#OthmaneA16</url>
+</inproceedings>
+</r>
+<r><article key="journals/amai/DuboisHPT15" mdate="2023-09-30">
+<author pid="d/DidierDubois">Didier Dubois</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<author orcid="0000-0001-5949-5421" pid="131/9832">Fay&#231;al Touazi</author>
+<title>Erratum to: Database preference queries - a possibilistic logic approach with symbolic priorities.</title>
+<pages>359-363</pages>
+<year>2015</year>
+<volume>73</volume>
+<journal>Ann. Math. Artif. Intell.</journal>
+<number>3-4</number>
+<ee type="oa">https://doi.org/10.1007/s10472-014-9446-2</ee>
+<url>db/journals/amai/amai73.html#DuboisHPT15</url>
+</article>
+</r>
+<r><article key="journals/ria/LietardHR15" mdate="2022-03-16">
+<author pid="92/6408">Ludovic Li&#233;tard</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="95/5928">Daniel Rocacher</author>
+<title>Une d&#233;finition pour un mod&#232;le QCL graduel.</title>
+<pages>543-567</pages>
+<year>2015</year>
+<volume>29</volume>
+<journal>Rev. d'Intelligence Artif.</journal>
+<number>5</number>
+<ee type="archive">https://doi.org/10.3166/ria.29.543-567</ee>
+<url>db/journals/ria/ria29.html#LietardHR15</url>
+</article>
+</r>
+<r><inproceedings key="conf/dlog/OuziriBKH15" mdate="2023-03-10">
+<author pid="37/5056">Mourad Ouziri</author>
+<author pid="b/SalimaBenbernou">Salima Benbernou</author>
+<author pid="k/NaouelKaram">Naouel Karam</author>
+<author pid="24/2709">Allel Hadjali</author>
+<title>Managing QoS Acceptability for Service Selection: A Probabilistic Description Logics Based Approach.</title>
+<year>2015</year>
+<booktitle>Description Logics</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1350/paper-59.pdf</ee>
+<crossref>conf/dlog/2015</crossref>
+<url>db/conf/dlog/dlog2015.html#OuziriBKH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/FokouJHB15" mdate="2021-01-29">
+<author pid="124/9773">G&#233;raud Fokou</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>QaRS: A User-Friendly Graphical Tool for Semantic Query Design and Relaxation.</title>
+<pages>553-556</pages>
+<year>2015</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2015.56</ee>
+<crossref>conf/edbt/2015</crossref>
+<url>db/conf/edbt/edbt2015.html#FokouJHB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esws/FokouJHB15" mdate="2017-05-24">
+<author pid="124/9773">G&#233;raud Fokou</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Cooperative Techniques for SPARQL Query Relaxation in RDF Databases.</title>
+<pages>237-252</pages>
+<year>2015</year>
+<booktitle>ESWC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-18818-8_15</ee>
+<crossref>conf/esws/2015</crossref>
+<url>db/conf/esws/eswc2015.html#FokouJHB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/ElmiBHTY15" mdate="2024-11-06">
+<author pid="150/7780">Sayda Elmi</author>
+<author pid="17/9589">Karim Benouaret</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="01/6255">Mohamed Anis Bach Tobji</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>Requ&#234;tes Skyline en pr&#233;sence des donn&#233;es &#233;videntielles.</title>
+<pages>215-220</pages>
+<year>2015</year>
+<booktitle>EGC</booktitle>
+<ee type="oa">https://editions-rnti.fr/?inprocid=1002081</ee>
+<crossref>conf/f-egc/2015</crossref>
+<url>db/conf/f-egc/egc2015.html#ElmiBHTY15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fqas/BelkasmiH15" mdate="2017-05-21">
+<author pid="174/6738">Djamal Belkasmi</author>
+<author pid="24/2709">Allel Hadjali</author>
+<title><i>MP</i> 2 <i>R</i> : A Human-Centric Skyline Relaxation Approach.</title>
+<pages>227-241</pages>
+<year>2015</year>
+<booktitle>FQAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-26154-6_18</ee>
+<crossref>conf/fqas/2015</crossref>
+<url>db/conf/fqas/fqas2015.html#BelkasmiH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccci/GammoudiHY15" mdate="2017-05-22">
+<author pid="151/8590">Aymen Gammoudi 0001</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>A Tolerance-Based Semantics of Temporal Relations: First Steps.</title>
+<pages>453-462</pages>
+<year>2015</year>
+<booktitle>ICCCI (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-24069-5_43</ee>
+<crossref>conf/iccci/2015-1</crossref>
+<url>db/conf/iccci/iccci2015-1.html#GammoudiHY15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soca/OuadahBHN15" mdate="2023-03-24">
+<author orcid="0000-0001-7236-8056" pid="20/7707">Abdelaziz Ouadah</author>
+<author pid="17/9589">Karim Benouaret</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="17/11042">Fahima Nader</author>
+<title>SkyAP-S3: A Hybrid Approach for Efficient Skyline Services Selection.</title>
+<pages>18-25</pages>
+<year>2015</year>
+<booktitle>SOCA</booktitle>
+<ee>https://doi.org/10.1109/SOCA.2015.22</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SOCA.2015.22</ee>
+<crossref>conf/soca/2015</crossref>
+<url>db/conf/soca/soca2015.html#OuadahBHN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soca/OuahedHA15" mdate="2023-03-24">
+<author pid="133/4342">Abdellah Kouider El Ouahed</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="133/3977">Hamid Azzoune</author>
+<title>Putting Together Skyline and Agent Paradigms to Enhancing Web Service Composition.</title>
+<pages>93-100</pages>
+<year>2015</year>
+<booktitle>SOCA</booktitle>
+<ee>https://doi.org/10.1109/SOCA.2015.23</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SOCA.2015.23</ee>
+<crossref>conf/soca/2015</crossref>
+<url>db/conf/soca/soca2015.html#OuahedHA15</url>
+</inproceedings>
+</r>
+<r><article key="journals/toit/BenouaretBHBMS14" mdate="2022-12-07">
+<author pid="17/9589">Karim Benouaret</author>
+<author pid="b/DjamalBenslimane">Djamal Benslimane</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author orcid="0000-0003-2974-3951" pid="30/5025">Mahmoud Barhamgi</author>
+<author orcid="0000-0003-4462-8337" pid="11/6673">Zakaria Maamar</author>
+<author orcid="0000-0002-3326-4147" pid="s/QuanZSheng">Quan Z. Sheng</author>
+<title>Web Service Compositions with Fuzzy Preferences: A Graded Dominance Relationship-Based Approach.</title>
+<pages>12:1-12:33</pages>
+<year>2014</year>
+<volume>13</volume>
+<journal>ACM Trans. Internet Techn.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2576231</ee>
+<url>db/journals/toit/toit13.html#BenouaretBHBMS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/SamiaAA14" mdate="2017-05-21">
+<author pid="135/7643">Samia Boulkrinat</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="19/5783">A&#239;cha Aissani Mokhtari</author>
+<title>Handling preferences under uncertainty in recommender systems.</title>
+<pages>2262-2269</pages>
+<year>2014</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZ-IEEE.2014.6891823</ee>
+<crossref>conf/fuzzIEEE/2014</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2014.html#SamiaAA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwe/ChouirefBHB14" mdate="2022-04-09">
+<author pid="146/8740">Zahira Chouiref</author>
+<author pid="17/9589">Karim Benouaret</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author orcid="0000-0002-1813-3384" pid="39/2369">Abdelkader Belkhir</author>
+<title>Multi Matchmaking Approach for Semantic Web Services Selection Based on Fuzzy Inference.</title>
+<pages>440-449</pages>
+<year>2014</year>
+<booktitle>ICWE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-08245-5_29</ee>
+<crossref>conf/icwe/2014</crossref>
+<url>db/conf/icwe/icwe2014.html#ChouirefBHB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/LietardHR14" mdate="2020-06-05">
+<author pid="92/6408">Ludovic Li&#233;tard</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="95/5928">Daniel Rocacher</author>
+<title>Towards a Gradual QCL Model for Database Querying.</title>
+<pages>130-139</pages>
+<year>2014</year>
+<booktitle>IPMU (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-08852-5_14</ee>
+<crossref>conf/ipmu/2014-3</crossref>
+<url>db/conf/ipmu/ipmu2014-3.html#LietardHR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/is/GammoudiHY14" mdate="2017-05-21">
+<author pid="151/8590">Aymen Gammoudi 0001</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>An Intelligent Flexible Querying Approach for Temporal Databases.</title>
+<pages>523-534</pages>
+<year>2014</year>
+<booktitle>IEEE Conf. on Intelligent Systems (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-11313-5_46</ee>
+<crossref>conf/is/2014-1</crossref>
+<url>db/conf/is/is2014-1.html#GammoudiHY14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismis/FokouJH14" mdate="2017-05-25">
+<author pid="124/9773">G&#233;raud Fokou</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<title>Endowing Semantic Query Languages with Advanced Relaxation Capabilities.</title>
+<pages>512-517</pages>
+<year>2014</year>
+<booktitle>ISMIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-08326-1_53</ee>
+<crossref>conf/ismis/2014</crossref>
+<url>db/conf/ismis/ismis2014.html#FokouJH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/ElmiBHTY14" mdate="2023-09-30">
+<author orcid="0000-0002-9091-2307" pid="150/7780">Sayda Elmi</author>
+<author pid="17/9589">Karim Benouaret</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="01/6255">Mohamed Anis Bach Tobji</author>
+<author pid="34/6857">Boutheina Ben Yaghlane</author>
+<title>Computing Skyline from Evidential Data.</title>
+<pages>148-161</pages>
+<year>2014</year>
+<booktitle>SUM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-11508-5_13</ee>
+<crossref>conf/sum/2014</crossref>
+<url>db/conf/sum/sum2014.html#ElmiBHTY14</url>
+</inproceedings>
+</r>
+<r><article key="journals/i-jes/ZahiraBH13" mdate="2022-06-10">
+<author pid="146/8740">Chouiref Latreche Zahira</author>
+<author pid="39/2369">Abdelkader Belkhir</author>
+<author pid="24/2709">Allel Hadjali</author>
+<title>Advanced Profile Similarity to Enhance Semantic Web Services Matching.</title>
+<pages>13-20</pages>
+<year>2013</year>
+<volume>1</volume>
+<journal>Int. J. Recent Contributions Eng. Sci. IT</journal>
+<number>1</number>
+<ee>https://doi.org/10.3991/ijes.v1i1.2963</ee>
+<url>db/journals/i-jes/i-jes1.html#ZahiraBH13</url>
+</article>
+</r>
+<r><inproceedings key="conf/eusflat/BoulkrinatHM13" mdate="2021-01-29">
+<author pid="135/7643">Samia Boulkrinat</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="19/5783">A&#239;cha Mokhtari</author>
+<title>Towards recommender systems based on a fuzzy preference aggregation.</title>
+<year>2013</year>
+<booktitle>EUSFLAT Conf.</booktitle>
+<ee type="oa">https://doi.org/10.2991/eusflat.2013.21</ee>
+<crossref>conf/eusflat/2013</crossref>
+<url>db/conf/eusflat/eusflat2013.html#BoulkrinatHM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifsa/AbbaciHLR13" mdate="2020-06-05">
+<author pid="08/9583">Katia Abbaci</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="92/6408">Ludovic Li&#233;tard</author>
+<author pid="95/5928">Daniel Rocacher</author>
+<title>A linguistic quantifier-based approach for skyline refinement.</title>
+<pages>321-326</pages>
+<year>2013</year>
+<booktitle>IFSA/NAFIPS</booktitle>
+<ee>https://doi.org/10.1109/IFSA-NAFIPS.2013.6608420</ee>
+<crossref>conf/ifsa/2013</crossref>
+<url>db/conf/ifsa/ifsa2013.html#AbbaciHLR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/JeanHM13" mdate="2025-05-01">
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author orcid="0009-0000-7012-5261" pid="134/9959">Ammar Mars</author>
+<title>Towards a Cooperative Query Language for Semantic Web Database Queries.</title>
+<pages>519-526</pages>
+<year>2013</year>
+<booktitle>OTM Conferences</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41030-7_37</ee>
+<crossref>conf/otm/2013</crossref>
+<url>db/conf/otm/otm2013.html#JeanHM13</url>
+</inproceedings>
+</r>
+<r><incollection key="series/sci/SmitsPH13" mdate="2017-05-16">
+<author pid="65/6487">Gr&#233;gory Smits</author>
+<author pid="08/545">Olivier Pivert</author>
+<author pid="24/2709">Allel HadjAli</author>
+<title>Fuzzy Cardinalities as a Basis to Cooperative Answering.</title>
+<pages>261-289</pages>
+<year>2013</year>
+<booktitle>Flexible Approaches in Data, Information and Knowledge Management</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-00954-4_12</ee>
+<crossref>series/sci/2013-497</crossref>
+<url>db/series/sci/sci497.html#SmitsPH13</url>
+</incollection>
+</r>
+<r><article key="journals/fss/BoscTDHPRZ12" mdate="2021-04-09">
+<author pid="35/1229">Patrick Bosc</author>
+<author orcid="0000-0002-1283-1915" pid="t/GDTre">Guy De Tr&#233;</author>
+<author pid="43/1062">Jozo J. Dujmovic</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<author orcid="0000-0002-3849-0151" pid="r/RitaAlmeidaRibeiro">Rita Almeida Ribeiro</author>
+<author pid="67/241">Slawomir Zadrozny</author>
+<title>On advances in soft computing applied to databases and information systems.</title>
+<pages>1-3</pages>
+<year>2012</year>
+<volume>196</volume>
+<journal>Fuzzy Sets Syst.</journal>
+<ee>https://doi.org/10.1016/j.fss.2012.01.020</ee>
+<url>db/journals/fss/fss196.html#BoscTDHPRZ12</url>
+</article>
+</r>
+<r><article key="journals/fss/HadjAliMP12" mdate="2020-02-19">
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="99/5424">Amine Mokhtari</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>Expressing and processing complex preferences in route planning queries: Towards a fuzzy-set-based approach.</title>
+<pages>82-104</pages>
+<year>2012</year>
+<volume>196</volume>
+<journal>Fuzzy Sets Syst.</journal>
+<ee>https://doi.org/10.1016/j.fss.2012.01.006</ee>
+<url>db/journals/fss/fss196.html#HadjAliMP12</url>
+</article>
+</r>
+<r><article key="journals/ijcisys/HadjaliMP12" mdate="2018-10-16">
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="99/5424">Amine Mokhtari</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>A Fuzzy-Rule-Based Model for Handling Contextual Preference Queries.</title>
+<pages>775-788</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>Int. J. Comput. Intell. Syst.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1080/18756891.2012.718160</ee>
+<url>db/journals/ijcisys/ijcisys5.html#HadjaliMP12</url>
+</article>
+</r>
+<r><article key="journals/isi/LemosAGHBLR12" mdate="2022-03-16">
+<author pid="17/8750">Fernando Lemos</author>
+<author pid="08/9583">Katia Abbaci</author>
+<author pid="g/DanielaGrigori">Daniela Grigori</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="b/MBouzeghoub">Mokrane Bouzeghoub</author>
+<author pid="92/6408">Ludovic Li&#233;tard</author>
+<author pid="95/5928">Daniel Rocacher</author>
+<title>Int&#233;gration de pr&#233;f&#233;rences dans la d&#233;couverte et la s&#233;lection des services web.</title>
+<pages>35-56</pages>
+<year>2012</year>
+<volume>17</volume>
+<journal>Ing&#233;nierie des Syst&#232;mes d Inf.</journal>
+<number>5</number>
+<ee type="archive">https://doi.org/10.3166/isi.17.5.35-56</ee>
+<url>db/journals/isi/isi17.html#LemosAGHBLR12</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEscc/BenouaretBH12" mdate="2023-03-24">
+<author pid="17/9589">Karim Benouaret</author>
+<author pid="b/DjamalBenslimane">Djamal Benslimane</author>
+<author pid="24/2709">Allel HadjAli</author>
+<title>WS-Sky: An Efficient and Flexible Framework for QoS-Aware Web Service Selection.</title>
+<pages>146-153</pages>
+<year>2012</year>
+<booktitle>IEEE SCC</booktitle>
+<ee>https://doi.org/10.1109/SCC.2012.83</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCC.2012.83</ee>
+<crossref>conf/IEEEscc/2012</crossref>
+<url>db/conf/IEEEscc/scc2012.html#BenouaretBH12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEscc/BenouaretBH12a" mdate="2023-03-24">
+<author pid="17/9589">Karim Benouaret</author>
+<author pid="b/DjamalBenslimane">Djamal Benslimane</author>
+<author pid="24/2709">Allel HadjAli</author>
+<title>Selecting Skyline Web Services from Uncertain QoS.</title>
+<pages>523-530</pages>
+<year>2012</year>
+<booktitle>IEEE SCC</booktitle>
+<ee>https://doi.org/10.1109/SCC.2012.84</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCC.2012.84</ee>
+<crossref>conf/IEEEscc/2012</crossref>
+<url>db/conf/IEEEscc/scc2012.html#BenouaretBH12a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/AmdouniBBHFG12" mdate="2020-03-27">
+<author pid="14/9888">Soumaya Amdouni</author>
+<author pid="b/DjamalBenslimane">Djamal Benslimane</author>
+<author orcid="0000-0003-2974-3951" pid="30/5025">Mahmoud Barhamgi</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="06/997">Rim Faiz</author>
+<author orcid="0000-0003-3222-0043" pid="91/4781">Parisa Ghodous</author>
+<title>A Preference-Aware Query Model for Data Web Services.</title>
+<pages>409-422</pages>
+<year>2012</year>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34002-4_32</ee>
+<crossref>conf/er/2012</crossref>
+<url>db/conf/er/er2012.html#AmdouniBBHFG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/PivertSHJ12" mdate="2012-07-05">
+<author pid="08/545">Olivier Pivert</author>
+<author pid="65/6487">Gr&#233;gory Smits</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="28/5951">H&#233;l&#232;ne Jaudoin</author>
+<title>LUCIFER : Un syst&#232;me de d&#233;tection de conflits dans les requ&#234;tes flexibles.</title>
+<pages>617-620</pages>
+<year>2012</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2012</crossref>
+<url>db/conf/f-egc/egc2012.html#PivertSHJ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwe/AmdouniBBHBF12" mdate="2020-03-27">
+<author pid="14/9888">Soumaya Amdouni</author>
+<author orcid="0000-0003-2974-3951" pid="30/5025">Mahmoud Barhamgi</author>
+<author pid="b/DjamalBenslimane">Djamal Benslimane</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="17/9589">Karim Benouaret</author>
+<author pid="06/997">Rim Faiz</author>
+<title>Answering Fuzzy Preference Queries over Data Web Services.</title>
+<pages>456-460</pages>
+<year>2012</year>
+<booktitle>ICWE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-31753-8_43</ee>
+<crossref>conf/icwe/2012</crossref>
+<url>db/conf/icwe/icwe2012.html#AmdouniBBHBF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/BenouaretBH12" mdate="2023-03-24">
+<author pid="17/9589">Karim Benouaret</author>
+<author pid="b/DjamalBenslimane">Djamal Benslimane</author>
+<author pid="24/2709">Allel HadjAli</author>
+<title>Selecting Skyline Web Services for Multiple Users Preferences.</title>
+<pages>635-636</pages>
+<year>2012</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2012.108</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICWS.2012.108</ee>
+<crossref>conf/icws/2012</crossref>
+<url>db/conf/icws/icws2012.html#BenouaretBH12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/AbbaciLHGLRB12" mdate="2020-06-05">
+<author pid="08/9583">Katia Abbaci</author>
+<author pid="17/8750">Fernando Lemos</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="g/DanielaGrigori">Daniela Grigori</author>
+<author pid="92/6408">Ludovic Li&#233;tard</author>
+<author pid="95/5928">Daniel Rocacher</author>
+<author pid="b/MBouzeghoub">Mokrane Bouzeghoub</author>
+<title>A Bipolar Approach to the Handling of User Preferences in Business Processes Retrieval.</title>
+<pages>400-409</pages>
+<year>2012</year>
+<booktitle>IPMU (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31709-5_41</ee>
+<crossref>conf/ipmu/2012-1</crossref>
+<url>db/conf/ipmu/ipmu2012-1.html#AbbaciLHGLRB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/BenouaretSBH12" mdate="2017-06-05">
+<author pid="17/9589">Karim Benouaret</author>
+<author orcid="0000-0001-5022-1483" pid="19/4428">Dimitris Sacharidis</author>
+<author pid="b/DjamalBenslimane">Djamal Benslimane</author>
+<author pid="24/2709">Allel HadjAli</author>
+<title>Majority-Rule-Based Web Service Selection.</title>
+<pages>689-695</pages>
+<year>2012</year>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-35063-4_54</ee>
+<crossref>conf/wise/2012</crossref>
+<url>db/conf/wise/wise2012.html#BenouaretSBH12</url>
+</inproceedings>
+</r>
+<r><article key="journals/amai/HadjAliKP11" mdate="2017-05-28">
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="75/323">Souhila Kaci</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<title>Database preference queries - a possibilistic logic approach with symbolic priorities.</title>
+<pages>357-383</pages>
+<year>2011</year>
+<volume>63</volume>
+<journal>Ann. Math. Artif. Intell.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1007/s10472-012-9279-9</ee>
+<url>db/journals/amai/amai63.html#HadjAliKP11</url>
+</article>
+</r>
+<r><article key="journals/ijis/BoscHP11" mdate="2017-05-27">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>On database queries involving competitive conditional preferences.</title>
+<pages>206-227</pages>
+<year>2011</year>
+<volume>26</volume>
+<journal>Int. J. Intell. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/int.20463</ee>
+<url>db/journals/ijis/ijis26.html#BoscHP11</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BenouaretBHB11" mdate="2020-04-25">
+<author pid="17/9589">Karim Benouaret</author>
+<author pid="b/DjamalBenslimane">Djamal Benslimane</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="30/5025">Mahmoud Barhamgi</author>
+<title>FuDoCS: A Web Service Composition System Based on Fuzzy Dominance for Preference Query Answering.</title>
+<pages>1430-1433</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol4/p1430-benouaret.pdf</ee>
+<url>db/journals/pvldb/pvldb4.html#BenouaretBHB11</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEscc/BenouaretBHB11" mdate="2023-03-24">
+<author pid="17/9589">Karim Benouaret</author>
+<author pid="b/DjamalBenslimane">Djamal Benslimane</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author orcid="0000-0003-2974-3951" pid="30/5025">Mahmoud Barhamgi</author>
+<title>Top-k Web Service Compositions Using Fuzzy Dominance Relationship.</title>
+<pages>144-151</pages>
+<year>2011</year>
+<booktitle>IEEE SCC</booktitle>
+<ee>https://doi.org/10.1109/SCC.2011.86</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCC.2011.86</ee>
+<crossref>conf/IEEEscc/2011</crossref>
+<url>db/conf/IEEEscc/scc2011.html#BenouaretBHB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/PivertSHJ11" mdate="2017-05-21">
+<author pid="08/545">Olivier Pivert</author>
+<author pid="65/6487">Gr&#233;gory Smits</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="28/5951">H&#233;l&#232;ne Jaudoin</author>
+<title>Efficient Detection of Minimal Failing Subqueries in a Fuzzy Querying Context.</title>
+<pages>243-256</pages>
+<year>2011</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-23737-9_18</ee>
+<crossref>conf/adbis/2011</crossref>
+<url>db/conf/adbis/adbis2011.html#PivertSHJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eusflat/PivertHS11" mdate="2021-01-29">
+<author pid="08/545">Olivier Pivert</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="65/6487">Gr&#233;gory Smits</author>
+<title>Searching for a compromise between satisfaction and diversity in database fuzzy querying.</title>
+<pages>402-408</pages>
+<year>2011</year>
+<booktitle>EUSFLAT Conf.</booktitle>
+<ee type="oa">https://doi.org/10.2991/eusflat.2011.66</ee>
+<crossref>conf/eusflat/2011</crossref>
+<url>db/conf/eusflat/eusflat2011.html#PivertHS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/HadjAliMP11" mdate="2024-11-06">
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="99/5424">Amine Mokhtari</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>Une approche &#224; base de r&#232;gles floues pour les requ&#234;tes &#224; pr&#233;f&#233;rences contextuelles.</title>
+<pages>293-294</pages>
+<year>2011</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2011</crossref>
+<url>db/conf/f-egc/egc2011.html#HadjAliMP11</url>
+<ee type="oa">https://editions-rnti.fr/?inprocid=1000964</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fqas/AbbaciLHGLRB11" mdate="2020-06-05">
+<author pid="08/9583">Katia Abbaci</author>
+<author pid="17/8750">Fernando Lemos</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="g/DanielaGrigori">Daniela Grigori</author>
+<author pid="92/6408">Ludovic Li&#233;tard</author>
+<author pid="95/5928">Daniel Rocacher</author>
+<author pid="b/MBouzeghoub">Mokrane Bouzeghoub</author>
+<title>A Cooperative Answering Approach to Fuzzy Preferences Queries in Service Discovery.</title>
+<pages>318-329</pages>
+<year>2011</year>
+<booktitle>FQAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-24764-4_28</ee>
+<crossref>conf/fqas/2011</crossref>
+<url>db/conf/fqas/fqas2011.html#AbbaciLHGLRB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fqas/BoscHP11" mdate="2017-05-21">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>On Possibilistic Skyline Queries.</title>
+<pages>412-423</pages>
+<year>2011</year>
+<booktitle>FQAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-24764-4_36</ee>
+<crossref>conf/fqas/2011</crossref>
+<url>db/conf/fqas/fqas2011.html#BoscHP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fqas/HadjAliP11" mdate="2017-05-21">
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>A Fuzzy-Rule-Based Approach to the Handling of Inferred Fuzzy Predicates in Database Queries.</title>
+<pages>448-459</pages>
+<year>2011</year>
+<booktitle>FQAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-24764-4_39</ee>
+<crossref>conf/fqas/2011</crossref>
+<url>db/conf/fqas/fqas2011.html#HadjAliP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/AbbaciHLR11" mdate="2023-03-23">
+<author pid="08/9583">Katia Abbaci</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="92/6408">Ludovic Li&#233;tard</author>
+<author pid="95/5928">Daniel Rocacher</author>
+<title>A similarity skyline approach for handling graph queries - A preliminary report.</title>
+<pages>112-117</pages>
+<year>2011</year>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDEW.2011.5767617</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDEW.2011.5767617</ee>
+<crossref>conf/icde/2011w</crossref>
+<url>db/conf/icde/icdew2011.html#AbbaciHLR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/BenouaretBH11" mdate="2023-03-24">
+<author pid="17/9589">Karim Benouaret</author>
+<author pid="b/DjamalBenslimane">Djamal Benslimane</author>
+<author pid="24/2709">Allel HadjAli</author>
+<title>On the Use of Fuzzy Dominance for Computing Service Skyline Based on QoS.</title>
+<pages>540-547</pages>
+<year>2011</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2011.93</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICWS.2011.93</ee>
+<crossref>conf/icws/2011</crossref>
+<url>db/conf/icws/icws2011.html#BenouaretBH11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismis/HadjAliPP11" mdate="2017-05-25">
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<title>On Different Types of Fuzzy Skylines.</title>
+<pages>581-591</pages>
+<year>2011</year>
+<booktitle>ISMIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21916-0_62</ee>
+<crossref>conf/ismis/2011</crossref>
+<url>db/conf/ismis/ismis2011.html#HadjAliPP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismis/PivertHS11" mdate="2017-05-25">
+<author pid="08/545">Olivier Pivert</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="65/6487">Gr&#233;gory Smits</author>
+<title>On Database Queries Involving Inferred Fuzzy Predicates.</title>
+<pages>592-601</pages>
+<year>2011</year>
+<booktitle>ISMIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21916-0_63</ee>
+<crossref>conf/ismis/2011</crossref>
+<url>db/conf/ismis/ismis2011.html#PivertHS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/AbbaciLHGLRB11" mdate="2020-06-05">
+<author pid="08/9583">Katia Abbaci</author>
+<author pid="17/8750">Fernando Lemos</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="g/DanielaGrigori">Daniela Grigori</author>
+<author pid="92/6408">Ludovic Li&#233;tard</author>
+<author pid="95/5928">Daniel Rocacher</author>
+<author pid="b/MBouzeghoub">Mokrane Bouzeghoub</author>
+<title>Selecting and Ranking Business Processes with Preferences: An Approach Based on Fuzzy Sets.</title>
+<pages>38-55</pages>
+<year>2011</year>
+<booktitle>OTM Conferences (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-25109-2_4</ee>
+<crossref>conf/otm/2011-1</crossref>
+<url>db/conf/otm/otm2011-1.html#AbbaciLHGLRB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/BenouaretBH11" mdate="2018-11-06">
+<author pid="17/9589">Karim Benouaret</author>
+<author pid="b/DjamalBenslimane">Djamal Benslimane</author>
+<author pid="24/2709">Allel HadjAli</author>
+<title>Top-k service compositions: a fuzzy set-based approach.</title>
+<pages>1033-1038</pages>
+<year>2011</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1982185.1982412</ee>
+<crossref>conf/sac/2011</crossref>
+<url>db/conf/sac/sac2011.html#BenouaretBH11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/PivertSH11" mdate="2017-05-24">
+<author pid="08/545">Olivier Pivert</author>
+<author pid="65/6487">Gr&#233;gory Smits</author>
+<author pid="24/2709">Allel HadjAli</author>
+<title>Processing Fuzzy Queries in a Peer Data Management System Using Distributed Fuzzy Summaries.</title>
+<pages>359-372</pages>
+<year>2011</year>
+<booktitle>SUM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-23963-2_28</ee>
+<crossref>conf/sum/2011</crossref>
+<url>db/conf/sum/sum2011.html#PivertSH11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wecwis/AbbaciLHGLRB11" mdate="2023-03-24">
+<author pid="08/9583">Katia Abbaci</author>
+<author pid="17/8750">Fernando Lemos</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="g/DanielaGrigori">Daniela Grigori</author>
+<author pid="92/6408">Ludovic Li&#233;tard</author>
+<author pid="95/5928">Daniel Rocacher</author>
+<author pid="b/MBouzeghoub">Mokrane Bouzeghoub</author>
+<title>An Approach Based on Fuzzy Sets to Selecting and Ranking Business Processes.</title>
+<pages>213-218</pages>
+<year>2011</year>
+<booktitle>CEC</booktitle>
+<ee>https://doi.org/10.1109/CEC.2011.37</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CEC.2011.37</ee>
+<crossref>conf/wecwis/2011</crossref>
+<url>db/conf/wecwis/cec2011.html#AbbaciLHGLRB11</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/BellahseneBJPPT10" mdate="2020-03-06">
+<author pid="b/ZohraBellahsene">Zohra Bellahsene</author>
+<author pid="b/SalimaBenbernou">Salima Benbernou</author>
+<author pid="28/5951">H&#233;l&#232;ne Jaudoin</author>
+<author orcid="0000-0001-7011-9216" pid="86/910">Fran&#231;ois Pinet</author>
+<author pid="08/545">Olivier Pivert</author>
+<author pid="t/FaroukToumani">Farouk Toumani</author>
+<author pid="87/5770">Stephan Bernard</author>
+<author pid="85/4366">Pierre Colomb</author>
+<author pid="37/4003">Remi Coletta</author>
+<author pid="97/6075">Emmanuel Coquery</author>
+<author pid="d/FDeMarchi">Fabien De Marchi</author>
+<author pid="85/2842">Fabien Duchateau</author>
+<author pid="h/MohandSaidHacid">Mohand-Said Hacid</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="r/MathieuRoche">Mathieu Roche</author>
+<title>FORUM: a flexible data integration system based on data semantics.</title>
+<pages>11-18</pages>
+<year>2010</year>
+<volume>39</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1893173.1893175</ee>
+<url>db/journals/sigmod/sigmod39.html#BellahseneBJPPT10</url>
+</article>
+</r>
+<r><inproceedings key="conf/f-egc/BoscHPS10a" mdate="2017-05-21">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<author pid="65/6487">Gr&#233;gory Smits</author>
+<title>An Approach Based on Predicate Correlation to the Reduction of Plethoric Answer Sets.</title>
+<pages>213-233</pages>
+<year>2010</year>
+<booktitle>EGC (best of volume)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-25838-1_12</ee>
+<crossref>conf/f-egc/2010sci</crossref>
+<url>db/conf/f-egc/sci2010.html#BoscHPS10a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/BoscHPS10" mdate="2024-11-06">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<author pid="65/6487">Gr&#233;gory Smits</author>
+<title>Une approche fond&#233;e sur la corr&#233;lation entre pr&#233;dicats pour le traitement des r&#233;ponses pl&#233;thoriques.</title>
+<pages>273-284</pages>
+<year>2010</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2010</crossref>
+<url>db/conf/f-egc/egc2010.html#BoscHPS10</url>
+<ee type="oa">https://editions-rnti.fr/?inprocid=1001305</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccbr/PivertJBH10" mdate="2021-02-11">
+<author pid="08/545">Olivier Pivert</author>
+<author pid="28/5951">H&#233;l&#232;ne Jaudoin</author>
+<author pid="38/4277">Carmen Brando 0001</author>
+<author pid="24/2709">Allel HadjAli</author>
+<title>A Method Based on Query Caching and Predicate Substitution for the Treatment of Failing Database Queries.</title>
+<pages>436-450</pages>
+<year>2010</year>
+<booktitle>ICCBR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14274-1_32</ee>
+<crossref>conf/iccbr/2010</crossref>
+<url>db/conf/iccbr/iccbr2010.html#PivertJBH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/HadjAliMP10" mdate="2017-05-21">
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="99/5424">Amine Mokhtari</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>A Fuzzy-Rule-Based Approach to Contextual Preference Queries.</title>
+<pages>532-541</pages>
+<year>2010</year>
+<booktitle>IPMU</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14049-5_55</ee>
+<crossref>conf/ipmu/2010</crossref>
+<url>db/conf/ipmu/ipmu2010.html#HadjAliMP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/BoscHPS10" mdate="2017-05-21">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<author pid="65/6487">Gr&#233;gory Smits</author>
+<title>Trimming Plethoric Answers to Fuzzy Queries: An Approach Based on Predicate Correlation.</title>
+<pages>595-604</pages>
+<year>2010</year>
+<booktitle>IPMU</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14049-5_61</ee>
+<crossref>conf/ipmu/2010</crossref>
+<url>db/conf/ipmu/ipmu2010.html#BoscHPS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/is/PivertHS10" mdate="2017-05-21">
+<author pid="08/545">Olivier Pivert</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="65/6487">Gr&#233;gory Smits</author>
+<title>Estimating the relevance of a data source using a fuzzy-cardinality-based summary.</title>
+<pages>96-101</pages>
+<year>2010</year>
+<booktitle>IEEE Conf. of Intelligent Systems</booktitle>
+<ee>https://doi.org/10.1109/IS.2010.5548326</ee>
+<crossref>conf/is/2010</crossref>
+<url>db/conf/is/is2010.html#PivertHS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socpar/HadjAliPP10" mdate="2017-05-19">
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<title>Possibilistic contextual skylines with incomplete preferences.</title>
+<pages>57-62</pages>
+<year>2010</year>
+<booktitle>SoCPaR</booktitle>
+<ee>https://doi.org/10.1109/SOCPAR.2010.5686427</ee>
+<crossref>conf/socpar/2010</crossref>
+<url>db/conf/socpar/socpar2010.html#HadjAliPP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sum/BoscHPS10" mdate="2017-05-24">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<author pid="65/6487">Gr&#233;gory Smits</author>
+<title>On the Use of Fuzzy Cardinalities for Reducing Plethoric Answers to Fuzzy Queries.</title>
+<pages>98-111</pages>
+<year>2010</year>
+<booktitle>SUM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15951-0_14</ee>
+<crossref>conf/sum/2010</crossref>
+<url>db/conf/sum/sum2010.html#BoscHPS10</url>
+</inproceedings>
+</r>
+<r><article key="journals/jiis/BoscHP09" mdate="2018-11-30">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author orcid="0000-0002-6080-8170" pid="26/4672">Gabriella Pasi</author>
+<title>Guest editors' introduction to the special issue on flexible queries in information systems.</title>
+<pages>235-237</pages>
+<year>2009</year>
+<volume>33</volume>
+<journal>J. Intell. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10844-008-0064-5</ee>
+<url>db/journals/jiis/jiis33.html#BoscHP09</url>
+</article>
+</r>
+<r><article key="journals/jiis/BoscHP09a" mdate="2017-05-26">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>Incremental controlled relaxation of failing flexible queries.</title>
+<pages>261-283</pages>
+<year>2009</year>
+<volume>33</volume>
+<journal>J. Intell. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10844-008-0071-6</ee>
+<url>db/journals/jiis/jiis33.html#BoscHP09a</url>
+</article>
+</r>
+<r><inproceedings key="conf/eusflat/BoscBHJP09" mdate="2021-02-11">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="38/4277">Carmen Brando 0001</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="28/5951">H&#233;l&#232;ne Jaudoin</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>Semantic Proximity Between Queries and the Empty Answer Problem.</title>
+<pages>259-264</pages>
+<year>2009</year>
+<booktitle>IFSA/EUSFLAT Conf.</booktitle>
+<ee type="archive">http://www.eusflat.org/proceedings/IFSA-EUSFLAT_2009/pdf/tema_0259.pdf</ee>
+<crossref>conf/eusflat/2009</crossref>
+<url>db/conf/eusflat/eusflat2009.html#BoscBHJP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eusflat/MokhtariPH09" mdate="2020-06-04">
+<author pid="99/5424">Amine Mokhtari</author>
+<author pid="08/545">Olivier Pivert</author>
+<author pid="24/2709">Allel HadjAli</author>
+<title>Integrating Complex User Preferences into a Route Planner: A Fuzzy-Set-Based Approach.</title>
+<pages>501-506</pages>
+<year>2009</year>
+<booktitle>IFSA/EUSFLAT Conf.</booktitle>
+<ee type="archive">http://www.eusflat.org/proceedings/IFSA-EUSFLAT_2009/pdf/tema_0501.pdf</ee>
+<crossref>conf/eusflat/2009</crossref>
+<url>db/conf/eusflat/eusflat2009.html#MokhtariPH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/MokhtariPHB09" mdate="2023-05-13">
+<author pid="99/5424">Amine Mokhtari</author>
+<author pid="08/545">Olivier Pivert</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="35/1229">Patrick Bosc</author>
+<title>Towards a route planner capable of dealing with complex bipolar preferences.</title>
+<pages>1-6</pages>
+<year>2009</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2009.5309863</ee>
+<crossref>conf/itsc/2009</crossref>
+<url>db/conf/itsc/itsc2009.html#MokhtariPHB09</url>
+</inproceedings>
+</r>
+<r><article key="journals/fss/BoscHP08" mdate="2020-02-19">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>Empty versus overabundant answers to flexible relational queries.</title>
+<pages>1450-1467</pages>
+<year>2008</year>
+<volume>159</volume>
+<journal>Fuzzy Sets Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1016/j.fss.2008.01.007</ee>
+<url>db/journals/fss/fss159.html#BoscHP08</url>
+</article>
+</r>
+<r><article key="journals/isi/BoscHP08" mdate="2022-03-16">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>La notion de division tol&#233;rante et son int&#233;r&#234;t pour rem&#233;dier aux r&#233;ponses vides.</title>
+<pages>131-154</pages>
+<year>2008</year>
+<volume>13</volume>
+<journal>Ing&#233;nierie des Syst&#232;mes d Inf.</journal>
+<number>5</number>
+<ee type="archive">https://doi.org/10.3166/isi.13.5.131-154</ee>
+<url>db/journals/isi/isi13.html#BoscHP08</url>
+</article>
+</r>
+<r><inproceedings key="conf/foiks/HadjAliKP08" mdate="2017-05-23">
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="75/323">Souhila Kaci</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<title>Database Preferences Queries - A Possibilistic Logic Approach with Symbolic Priorities.</title>
+<pages>291-310</pages>
+<year>2008</year>
+<crossref>conf/foiks/2008</crossref>
+<booktitle>FoIKS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-77684-0_20</ee>
+<url>db/conf/foiks/foiks2008.html#HadjAliKP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismis/HadjAliP08" mdate="2017-05-25">
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>Towards Fuzzy Query Answering Using Fuzzy Views - A Graded-Subsumption-Based Approach.</title>
+<pages>268-277</pages>
+<year>2008</year>
+<booktitle>ISMIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-68123-6_30</ee>
+<crossref>conf/ismis/2008</crossref>
+<url>db/conf/ismis/ismis2008.html#HadjAliP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismis/BoscHP08" mdate="2017-05-25">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>Cooperative Answering to Flexible Queries Via a Tolerance Relation.</title>
+<pages>288-297</pages>
+<year>2008</year>
+<booktitle>ISMIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-68123-6_32</ee>
+<crossref>conf/ismis/2008</crossref>
+<url>db/conf/ismis/ismis2008.html#BoscHP08</url>
+</inproceedings>
+</r>
+<r><incollection key="books/igi/Galindo08/BoscHP08" mdate="2011-02-26">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>On the Versatility of Fuzzy Setsfor Modeling Flexible Queries.</title>
+<pages>143-166</pages>
+<year>2008</year>
+<booktitle>Handbook of Research on Fuzzy Information Processing in Databases</booktitle>
+<ee>http://www.igi-global.com/Bookstore/chapter.aspx?titleid=20352</ee>
+<crossref>books/igi/Galindo2008</crossref>
+<url>db/books/collections/Galindo2008.html#BoscHP08</url>
+</incollection>
+</r>
+<r><article key="journals/ijis/DuboisHP07" mdate="2017-05-27">
+<author pid="d/DidierDubois">Didier Dubois</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<title>A possibility theory-based approach to the handling of uncertain relations between temporal points.</title>
+<pages>157-179</pages>
+<year>2007</year>
+<volume>22</volume>
+<journal>Int. J. Intell. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/int.20193</ee>
+<url>db/journals/ijis/ijis22.html#DuboisHP07</url>
+</article>
+</r>
+<r><inproceedings key="conf/bda/BoscHP07" mdate="2009-02-02">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>Tolerant division operators to overcome empty answers.</title>
+<year>2007</year>
+<booktitle>BDA</booktitle>
+<crossref>conf/bda/2007</crossref>
+<url>db/conf/bda/bda2007.html#BoscHP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/BoscHJP07" mdate="2023-03-24">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="28/5951">H&#233;l&#232;ne Jaudoin</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>Flexible Querying of Multiple Data Sources through Fuzzy Summaries.</title>
+<pages>350-354</pages>
+<year>2007</year>
+<crossref>conf/dexaw/2007</crossref>
+<booktitle>DEXA Workshops</booktitle>
+<ee>https://doi.org/10.1109/DEXA.2007.26</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DEXA.2007.26</ee>
+<url>db/conf/dexaw/dexaw2007.html#BoscHJP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eusflat/BoscHP07" mdate="2020-06-04">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>On a Proximity-based Tolerant Inclusion.</title>
+<pages>343-350</pages>
+<year>2007</year>
+<booktitle>EUSFLAT Conf. (2)</booktitle>
+<ee type="archive">http://www.eusflat.org/proceedings/EUSFLAT_2007/papers/PIVERT_Olivier_(53).pdf</ee>
+<crossref>conf/eusflat/2007-2</crossref>
+<url>db/conf/eusflat/eusflat2007-2.html#BoscHP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/BoscDHPP07" mdate="2017-05-21">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="d/DidierDubois">Didier Dubois</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<title>Adjusting the Core and/or the Support of a Fuzzy Set - A New Approach to Fuzzy Modifiers.</title>
+<pages>1-6</pages>
+<year>2007</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZY.2007.4295617</ee>
+<crossref>conf/fuzzIEEE/2007</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2007.html#BoscDHPP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fqas/BoscHP06" mdate="2017-05-21">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>Relaxation Paradigm in a Flexible Querying Context.</title>
+<pages>39-50</pages>
+<year>2006</year>
+<crossref>conf/fqas/2006</crossref>
+<booktitle>FQAS</booktitle>
+<ee>https://doi.org/10.1007/11766254_4</ee>
+<url>db/conf/fqas/fqas2006.html#BoscHP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eusflat/BoscHP05" mdate="2020-06-04">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>Weakening of Fuzzy Relational Queries: an Absolute Proximity Relation-Based Approach.</title>
+<pages>1275-1280</pages>
+<year>2005</year>
+<booktitle>EUSFLAT Conf.</booktitle>
+<ee type="archive">http://www.eusflat.org/proceedings/EUSFLAT-LFA_2005/papers/JEL162.pdf</ee>
+<crossref>conf/eusflat/2005</crossref>
+<url>db/conf/eusflat/eusflat2005.html#BoscHP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/BoscHP05" mdate="2017-05-25">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>Towards a Tolerance-Based Technique for Cooperative Answering of Fuzzy Queries Against Regular Databases.</title>
+<pages>256-273</pages>
+<year>2005</year>
+<crossref>conf/otm/2005-3</crossref>
+<booktitle>OTM Conferences (1)</booktitle>
+<ee>https://doi.org/10.1007/11575771_18</ee>
+<url>db/conf/otm/otm2005-1c.html#BoscHP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fqas/BoscHP04" mdate="2017-05-21">
+<author pid="35/1229">Patrick Bosc</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="08/545">Olivier Pivert</author>
+<title>Fuzzy Closeness Relation as a Basis for Weakening Fuzzy Relational Queries.</title>
+<pages>41-53</pages>
+<ee>https://doi.org/10.1007/978-3-540-25957-2_5</ee>
+<year>2004</year>
+<crossref>conf/fqas/2004</crossref>
+<booktitle>FQAS</booktitle>
+<url>db/conf/fqas/fqas2004.html#BoscHP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/time/HadjaliDP04" mdate="2023-03-24">
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="d/DidierDubois">Didier Dubois</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<title>A Possibility Theory-based Approach for Handling of Uncertain Relations Between Temporal Points.</title>
+<pages>36-43</pages>
+<year>2004</year>
+<crossref>conf/time/2004</crossref>
+<booktitle>TIME</booktitle>
+<ee>https://doi.org/10.1109/TIME.2004.1314417</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TIME.2004.1314417</ee>
+<url>db/conf/time/time2004.html#HadjaliDP04</url>
+</inproceedings>
+</r>
+<r><article key="journals/jucs/DuboisHP03" mdate="2023-09-07">
+<author pid="d/DidierDubois">Didier Dubois</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<title>Fuzziness and Uncertainty in Temporal Reasoning.</title>
+<pages>1168-</pages>
+<year>2003</year>
+<volume>9</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>9</number>
+<ee type="oa">https://doi.org/10.3217/jucs-009-09-1168</ee>
+<url>db/journals/jucs/jucs9.html#DuboisHP03</url>
+</article>
+</r>
+<r><article key="journals/tfs/HadjAliDP03" mdate="2020-05-12">
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="d/DidierDubois">Didier Dubois</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<title>Qualitative reasoning based on fuzzy relative orders of magnitude.</title>
+<pages>9-23</pages>
+<year>2003</year>
+<volume>11</volume>
+<journal>IEEE Trans. Fuzzy Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TFUZZ.2002.806313</ee>
+<url>db/journals/tfs/tfs11.html#HadjAliDP03</url>
+</article>
+</r>
+<r><inproceedings key="conf/ifsa/DuboisHP03a" mdate="2017-05-26">
+<author pid="d/DidierDubois">Didier Dubois</author>
+<author pid="24/2709">Allel HadjAli</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<title>Making Fuzzy Absoulute and Fuzzy Relative Orders of Magnitude Consistent.</title>
+<pages>694-701</pages>
+<ee>https://doi.org/10.1007/3-540-44967-1_83</ee>
+<year>2003</year>
+<crossref>conf/ifsa/2003</crossref>
+<booktitle>IFSA</booktitle>
+<url>db/conf/ifsa/ifsa2003.html#DuboisHP03a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/DuboisHP00" mdate="2020-06-08">
+<author pid="d/DidierDubois">Didier Dubois</author>
+<author pid="24/2709">Allel Hadj-Ali</author>
+<author pid="p/HenriPrade">Henri Prade</author>
+<title>Incoherence detection and approximate solving of equations using fuzzy qualitative reasoning.</title>
+<pages>203-208</pages>
+<year>2000</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZY.2000.838659</ee>
+<crossref>conf/fuzzIEEE/2000</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2000.html#DuboisHP00</url>
+</inproceedings>
+</r>
+<coauthors n="159" nc="6">
+<co c="0"><na f="a/Abbaci:Katia" pid="08/9583">Katia Abbaci</na></co>
+<co c="0"><na f="a/Abdelhedi:Fatma" pid="406/3728">Fatma Abdelhedi</na></co>
+<co c="3"><na f="a/Abdelkader:Alem" pid="198/9866">Alem Abdelkader</na></co>
+<co c="0"><na f="a/Abidi:Amna" pid="188/1717">Amna Abidi</na></co>
+<co c="0"><na f="a/Aligon:Julien" pid="08/9059">Julien Aligon</na></co>
+<co c="0"><na f="a/Alves:Mirian_Halfeld_Ferrari" pid="f/MirianHalfeldFerrariAlves">Mirian Halfeld Ferrari Alves</na></co>
+<co c="0"><na f="a/Amami:Abir" pid="201/3994">Abir Amami</na></co>
+<co c="0"><na f="a/Amdouni:Soumaya" pid="14/9888">Soumaya Amdouni</na></co>
+<co c="0"><na f="a/Appice:Annalisa" pid="63/5512">Annalisa Appice</na></co>
+<co c="0"><na f="a/Aridhi:Sabeur" pid="09/7833">Sabeur Aridhi</na></co>
+<co c="0"><na f="a/Arki:Oussama" pid="214/3241">Oussama Arki</na></co>
+<co c="0" n="2"><na f="a/Azzag:Hanene" pid="a/HaneneAzzag">Hanene Azzag</na><na>Hanane Azzag</na></co>
+<co c="0"><na f="a/Azzoune:Hamid" pid="133/3977">Hamid Azzoune</na></co>
+<co c="0"><na f="b/Bahri:Nassim" pid="188/1641">Nassim Bahri</na></co>
+<co c="1"><na f="b/Balmat:Jean=Fran=ccedil=ois" pid="117/8798">Jean-Fran&#231;ois Balmat</na></co>
+<co c="0"><na f="b/Barhamgi:Mahmoud" pid="30/5025">Mahmoud Barhamgi</na></co>
+<co c="0"><na f="b/Baron:Micka=euml=l" pid="08/4942">Micka&#235;l Baron</na></co>
+<co c="0"><na f="b/Bechchi:Mounir" pid="47/1403">Mounir Bechchi</na></co>
+<co c="0"><na f="b/Belheouane:Chourouk" pid="205/1309">Chourouk Belheouane</na></co>
+<co c="0"><na f="b/Belkasmi:Djamal" pid="174/6738">Djamal Belkasmi</na></co>
+<co c="0"><na f="b/Belkhir:Abdelkader" pid="39/2369">Abdelkader Belkhir</na></co>
+<co c="0"><na f="b/Bellahsene:Zohra" pid="b/ZohraBellahsene">Zohra Bellahsene</na></co>
+<co c="0"><na f="b/Benabdeslem:Khalid" pid="80/5648">Khalid Benabdeslem</na></co>
+<co c="5"><na f="b/Benadjimi:Noussaiba" pid="169/7154">Noussaiba Benadjimi</na></co>
+<co c="0"><na f="b/Benbernou:Salima" pid="b/SalimaBenbernou">Salima Benbernou</na></co>
+<co c="0"><na f="b/Benhalima:Ahmed_Youcef" pid="418/9046">Ahmed Youcef Benhalima</na></co>
+<co c="0"><na f="b/Benkabou:Seif=Eddine" pid="198/8701">Seif-Eddine Benkabou</na></co>
+<co c="0"><na f="b/Benna:Amel" pid="141/7348">Amel Benna</na></co>
+<co c="0"><na f="b/Benouaret:Karim" pid="17/9589">Karim Benouaret</na></co>
+<co c="0"><na f="b/Benslimane:Djamal" pid="b/DjamalBenslimane">Djamal Benslimane</na></co>
+<co c="0"><na f="b/Bernard:Stephan" pid="87/5770">Stephan Bernard</na></co>
+<co c="0"><na f="b/Bonomo:Mariella" pid="244/2250">Mariella Bonomo</na></co>
+<co c="0"><na f="b/Bosc:Patrick" pid="35/1229">Patrick Bosc</na></co>
+<co c="0"><na f="b/Bouabdelli:Lamisse_F=" pid="415/6169">Lamisse F. Bouabdelli</na></co>
+<co c="0"><na f="b/Boukhedouma:Hocine" pid="376/8731">Hocine Boukhedouma</na></co>
+<co c="4"><na f="b/Boulkrinat:Samia" pid="135/7643">Samia Boulkrinat</na></co>
+<co c="0"><na f="b/Bousnina:Fatma_Ezzahra" pid="170/0882">Fatma Ezzahra Bousnina</na></co>
+<co c="0"><na f="b/Boussebough:Imane" pid="58/10036">Imane Boussebough</na></co>
+<co c="0"><na f="b/Bouzeghoub:Mokrane" pid="b/MBouzeghoub">Mokrane Bouzeghoub</na></co>
+<co c="0"><na f="b/Brando_0001:Carmen" pid="38/4277">Carmen Brando 0001</na></co>
+<co c="0"><na f="c/Chabot:Dominique" pid="225/8923">Dominique Chabot</na></co>
+<co c="0"><na f="c/Chaib:Souleyman" pid="174/9275">Souleyman Chaib</na></co>
+<co c="0"><na f="c/Chardin:Brice" pid="41/9458">Brice Chardin</na></co>
+<co c="0"><na f="c/Chbeir:Richard" pid="c/RichardChbeir">Richard Chbeir</na></co>
+<co c="0"><na f="c/Chebbah:Mouna" pid="64/9059">Mouna Chebbah</na></co>
+<co c="0"><na f="c/Coletta:Remi" pid="37/4003">Remi Coletta</na></co>
+<co c="0"><na f="c/Colomb:Pierre" pid="85/4366">Pierre Colomb</na></co>
+<co c="0"><na f="c/Coquery:Emmanuel" pid="97/6075">Emmanuel Coquery</na></co>
+<co c="3"><na f="d/Dahmani:Youcef" pid="15/3084">Youcef Dahmani</na></co>
+<co c="0"><na f="d/Dao:Tien=Tuan" pid="177/1845">Tien-Tuan Dao</na></co>
+<co c="0"><na f="d/Dellal:Ibrahim" pid="201/5364">Ibrahim Dellal</na></co>
+<co c="0"><na f="d/Dign=ouml=s:Anton" pid="96/11411">Anton Dign&#246;s</na></co>
+<co c="0"><na f="d/Djouadi:Yassine" pid="55/3553">Yassine Djouadi</na></co>
+<co c="0"><na f="d/Dubois:Didier" pid="d/DidierDubois">Didier Dubois</na></co>
+<co c="0"><na f="d/Duchateau:Fabien" pid="85/2842">Fabien Duchateau</na></co>
+<co c="0"><na f="d/Dujmovic:Jozo_J=" pid="43/1062">Jozo J. Dujmovic</na></co>
+<co c="0"><na f="e/Elaggoune:Zakarya" pid="214/3413">Zakarya Elaggoune</na></co>
+<co c="0"><na f="e/Elmi:Sayda" pid="150/7780">Sayda Elmi</na></co>
+<co c="0"><na f="e/Elouedi:Zied" pid="19/1244">Zied Elouedi</na></co>
+<co c="0"><na f="f/Faiz:Rim" pid="06/997">Rim Faiz</na></co>
+<co c="0"><na f="f/Fokou:G=eacute=raud" pid="124/9773">G&#233;raud Fokou</na></co>
+<co c="0"><na f="f/Fred:Ana" pid="f/AnaLNFred">Ana Fred</na></co>
+<co c="0"><na f="g/Gammoudi_0001:Aymen" pid="151/8590">Aymen Gammoudi 0001</na></co>
+<co c="0"><na f="g/Ghodous:Parisa" pid="91/4781">Parisa Ghodous</na></co>
+<co c="0"><na f="g/Giannopoulos:Giorgos" pid="42/4419">Giorgos Giannopoulos</na></co>
+<co c="0"><na f="g/Grigori:Daniela" pid="g/DanielaGrigori">Daniela Grigori</na></co>
+<co c="0"><na f="g/Grzegorowski:Marek" pid="122/1797">Marek Grzegorowski</na></co>
+<co c="0"><na f="g/Guermoudi:Nadir" pid="392/6086">Nadir Guermoudi</na></co>
+<co c="0" n="2"><na f="g/Gusikhin:Oleg_Yu=" pid="55/2925">Oleg Yu. Gusikhin</na><na>Oleg Gusikhin</na></co>
+<co c="0"><na f="h/Hacid:Mohand=Said" pid="h/MohandSaidHacid">Mohand-Said Hacid</na></co>
+<co c="0"><na f="h/Haddache:Mohamed" pid="189/7961">Mohamed Haddache</na></co>
+<co c="2"><na f="h/Hamda:Nour_El_Imane" pid="350/9646">Nour El Imane Hamda</na></co>
+<co c="0"><na f="h/Hammoudi:Slimane" pid="42/6348">Slimane Hammoudi</na></co>
+<co c="0"><na f="h/Hara:Carmem_S=" pid="26/3914">Carmem S. Hara</na></co>
+<co c="5" n="2"><na f="h/Hidouci:Walid=Khaled" pid="96/1461">Walid-Khaled Hidouci</na><na>Walid Hidouci</na></co>
+<co c="0"><na f="j/Jaudoin:H=eacute=l=egrave=ne" pid="28/5951">H&#233;l&#232;ne Jaudoin</na></co>
+<co c="0"><na f="j/Jean:St=eacute=phane" pid="j/StephaneJean">St&#233;phane Jean</na></co>
+<co c="0"><na f="k/Kaci:Souhila" pid="75/323">Souhila Kaci</na></co>
+<co c="0"><na f="k/Karam:Naouel" pid="k/NaouelKaram">Naouel Karam</na></co>
+<co c="0"><na f="k/Karidi:Danae_Pla" pid="181/9145">Danae Pla Karidi</na></co>
+<co c="0"><na f="k/Karpus:Aleksandra" pid="187/6053">Aleksandra Karpus</na></co>
+<co c="2"><na f="k/Khames:Walid" pid="386/9237">Walid Khames</na></co>
+<co c="0"><na f="k/Kordic:Slavica" pid="166/7559">Slavica Kordic</na></co>
+<co c="0"><na f="k/Koulougli:Dalila" pid="184/9115">Dalila Koulougli</na></co>
+<co c="0"><na f="l/Labroche:Nicolas" pid="74/2775">Nicolas Labroche</na></co>
+<co c="1"><na f="l/Lafont:Fr=eacute=d=eacute=ric" pid="87/4049">Fr&#233;d&#233;ric Lafont</na></co>
+<co c="2"><na f="l/Lagha:Mohand" pid="121/5548">Mohand Lagha</na></co>
+<co c="0"><na f="l/Lefevre:Eric" pid="52/8875">Eric Lefevre</na></co>
+<co c="0"><na f="l/Lemos:Fernando" pid="17/8750">Fernando Lemos</na></co>
+<co c="0"><na f="l/Li=eacute=tard:Ludovic" pid="92/6408">Ludovic Li&#233;tard</na></co>
+<co c="0"><na f="l/Lukovic:Ivan" pid="42/1001">Ivan Lukovic</na></co>
+<co c="0"><na f="m/Maamar:Zakaria" pid="11/6673">Zakaria Maamar</na></co>
+<co c="0"><na f="m/Maamri:Ramdane" pid="41/7706">Ramdane Maamri</na></co>
+<co c="0"><na f="m/Mansouri:Dou_El_Kefel" pid="143/7516">Dou El Kefel Mansouri</na></co>
+<co c="0"><na f="m/Marchi:Fabien_De" pid="d/FDeMarchi">Fabien De Marchi</na></co>
+<co c="0"><na f="m/Mars:Ammar" pid="134/9959">Ammar Mars</na></co>
+<co c="0"><na f="m/Matallah:Houcine" pid="206/2514">Houcine Matallah</na></co>
+<co c="0"><na f="m/Meddahi:Khoula" pid="332/5700">Khoula Meddahi</na></co>
+<co c="0"><na f="m/Mesmoudi:Amin" pid="66/10119">Amin Mesmoudi</na></co>
+<co c="0"><na f="m/Meziane:Abdelkrim" pid="66/3075">Abdelkrim Meziane</na></co>
+<co c="0"><na f="m/Mezni:Haithem" pid="34/569">Haithem Mezni</na></co>
+<co c="4" n="2"><na f="m/Mokhtari:A=iuml=cha" pid="19/5783">A&#239;cha Mokhtari</na><na>A&#239;cha Aissani Mokhtari</na></co>
+<co c="0"><na f="m/Mokhtari:Amine" pid="99/5424">Amine Mokhtari</na></co>
+<co c="0"><na f="m/Monsarrat:Paul" pid="223/8410">Paul Monsarrat</na></co>
+<co c="0"><na f="m/Moscato:Vincenzo" pid="97/4042">Vincenzo Moscato</na></co>
+<co c="0"><na f="m/Moudjari:Rayene" pid="207/1043">Rayene Moudjari</na></co>
+<co c="0"><na f="n/Nader:Fahima" pid="17/11042">Fahima Nader</na></co>
+<co c="0"><na f="n/Nadouri:Sana" pid="228/3194">Sana Nadouri</na></co>
+<co c="0"><na f="n/Noia:Tommaso_Di" pid="58/5192">Tommaso Di Noia</na></co>
+<co c="-1"><na f="o/Othmane:Zied_Ben" pid="198/9779">Zied Ben Othmane</na></co>
+<co c="0"><na f="o/Ouadah:Abdelaziz" pid="20/7707">Abdelaziz Ouadah</na></co>
+<co c="0"><na f="o/Ouahed:Abdellah_Kouider_El" pid="133/4342">Abdellah Kouider El Ouahed</na></co>
+<co c="0"><na f="o/Ouhammou:Yassine" pid="36/10271">Yassine Ouhammou</na></co>
+<co c="0"><na f="o/Ouziri:Mourad" pid="37/5056">Mourad Ouziri</na></co>
+<co c="0"><na f="p/Papastefanatos:George" pid="44/2379">George Papastefanatos</na></co>
+<co c="0"><na f="p/Parkin:Louise" pid="300/8750">Louise Parkin</na></co>
+<co c="0"><na f="p/Pasi:Gabriella" pid="26/4672">Gabriella Pasi</na></co>
+<co c="0"><na f="p/Pedersen:Torben_Bach" pid="p/TorbenBachPedersen">Torben Bach Pedersen</na></co>
+<co c="0"><na f="p/Persia:Fabio" pid="98/7475">Fabio Persia</na></co>
+<co c="0"><na f="p/Pinet:Fran=ccedil=ois" pid="86/910">Fran&#231;ois Pinet</na></co>
+<co c="0"><na f="p/Pivert:Olivier" pid="08/545">Olivier Pivert</na></co>
+<co c="0"><na f="p/Prade:Henri" pid="p/HenriPrade">Henri Prade</na></co>
+<co c="0"><na f="p/Przybylek:Adam" pid="90/8118">Adam Przybylek</na></co>
+<co c="0"><na f="r/Raddaoui:Badran" pid="52/9798">Badran Raddaoui</na></co>
+<co c="0"><na f="r/Ras:Zbigniew_W=" pid="r/ZbigniewWRas">Zbigniew W. Ras</na></co>
+<co c="0"><na f="r/Rassoul:Idir" pid="184/8617">Idir Rassoul</na></co>
+<co c="0"><na f="r/Ribeiro:Rita_Almeida" pid="r/RitaAlmeidaRibeiro">Rita Almeida Ribeiro</na></co>
+<co c="0"><na f="r/Ristic:Sonja" pid="92/2179">Sonja Ristic</na></co>
+<co c="0"><na f="r/Rocacher:Daniel" pid="95/5928">Daniel Rocacher</na></co>
+<co c="0"><na f="r/Roche:Mathieu" pid="r/MathieuRoche">Mathieu Roche</na></co>
+<co c="0"><na f="r/Rombo:Simona_E=" pid="r/SimonaERombo">Simona E. Rombo</na></co>
+<co c="0"><na f="s/Sacharidis:Dimitris" pid="19/4428">Dimitris Sacharidis</na></co>
+<co c="0"><na f="s/Sadou:Mohammed" pid="274/2605">Mohammed Sadou</na></co>
+<co c="0"><na f="s/Sahnoun:Za=iuml=di" pid="91/4506">Za&#239;di Sahnoun</na></co>
+<co c="0"><na f="s/Saidani:Fay=ccedil=al_R=eacute=dha" pid="202/6337">Fay&#231;al R&#233;dha Saidani</na></co>
+<co c="0"><na f="s/Saidi:Boumediene" pid="332/6480">Boumediene Saidi</na></co>
+<co c="0"><na f="s/Salem:Nessrine_El_Hadj" pid="185/8620">Nessrine El Hadj Salem</na></co>
+<co c="0"><na f="s/Samet:Ahmed" pid="131/3597">Ahmed Samet</na></co>
+<co c="0"><na f="s/Sansone:Carlo" pid="90/5377">Carlo Sansone</na></co>
+<co c="0"><na f="s/Sellami:Chayma" pid="234/1600">Chayma Sellami</na></co>
+<co c="0"><na f="s/Sellami:Sana" pid="43/5676">Sana Sellami</na></co>
+<co c="0"><na f="s/Sheng:Quan_Z=" pid="s/QuanZSheng">Quan Z. Sheng</na></co>
+<co c="0"><na f="s/Smits:Gr=eacute=gory" pid="65/6487">Gr&#233;gory Smits</na></co>
+<co c="0"><na f="s/Sperl=igrave=:Giancarlo" pid="121/0078">Giancarlo Sperl&#236;</na></co>
+<co c="1"><na f="t/Tay:Ahmad" pid="356/9540">Ahmad Tay</na></co>
+<co c="0"><na f="t/Tchernykh:Andrei" pid="81/6391">Andrei Tchernykh</na></co>
+<co c="0"><na f="t/Terrovitis:Manolis" pid="t/ManolisTerrovitis">Manolis Terrovitis</na></co>
+<co c="0"><na f="t/Tirupathi:Seshu" pid="200/8936">Seshu Tirupathi</na></co>
+<co c="0"><na f="t/Tobji:Mohamed_Anis_Bach" pid="01/6255">Mohamed Anis Bach Tobji</na></co>
+<co c="0"><na f="t/Touazi:Fay=ccedil=al" pid="131/9832">Fay&#231;al Touazi</na></co>
+<co c="0"><na f="t/Toumani:Farouk" pid="t/FaroukToumani">Farouk Toumani</na></co>
+<co c="0"><na f="t/Tr=eacute=:Guy_De" pid="t/GDTre">Guy De Tr&#233;</na></co>
+<co c="0"><na f="v/Vargas=Solar:Genoveva" pid="v/GVargas-Solar">Genoveva Vargas-Solar</na></co>
+<co c="0"><na f="y/Yaghlane:Boutheina_Ben" pid="34/6857">Boutheina Ben Yaghlane</na></co>
+<co c="0"><na f="y/Yousfi:Houssameddine" pid="320/0416">Houssameddine Yousfi</na></co>
+<co c="0"><na f="z/Zadrozny:Slawomir" pid="67/241">Slawomir Zadrozny</na></co>
+<co c="0" n="2"><na f="z/Zahira:Chouiref_Latreche" pid="146/8740">Chouiref Latreche Zahira</na><na>Zahira Chouiref</na></co>
+<co c="0"><na f="z/Zitouni:Abdelhafid" pid="08/7401">Abdelhafid Zitouni</na></co>
+<co c="0"><na f="z/Zumpano:Ester" pid="42/4927">Ester Zumpano</na></co>
+</coauthors>
+</dblpperson>
+

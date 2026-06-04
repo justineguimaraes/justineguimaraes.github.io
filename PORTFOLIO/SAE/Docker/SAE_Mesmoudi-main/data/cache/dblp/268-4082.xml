@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<dblpperson name="Michael Richard" pid="268/4082" n="2">
+<person key="homepages/268/4082" mdate="2020-06-29">
+<author pid="268/4082">Michael Richard</author>
+</person>
+<r><article key="journals/axioms/MiaDGRT24" mdate="2025-10-01">
+<author pid="416/5695">Mohammed Mia</author>
+<author orcid="0000-0002-9169-9149" pid="416/5193">Keshav Dasgupta</author>
+<author pid="416/5658">Charles Gale</author>
+<author pid="268/4082">Michael Richard</author>
+<author pid="416/5823">Olivier Trottier</author>
+<title>Vector Meson Spectrum from Top-Down Holographic QCD.</title>
+<pages>66</pages>
+<year>2024</year>
+<volume>14</volume>
+<journal>Axioms</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.3390/axioms14010066</ee>
+<url>db/journals/axioms/axioms14.html#MiaDGRT24</url>
+<stream>streams/journals/axioms</stream>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/MyersKR92" mdate="2020-06-29">
+<author pid="50/6694">Cory S. Myers</author>
+<author pid="08/8632">Steven Kay</author>
+<author pid="268/4082">Michael Richard</author>
+<title>Signal separation for nonlinear dynamical systems.</title>
+<pages>129-132</pages>
+<year>1992</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.1992.226469</ee>
+<crossref>conf/icassp/1992</crossref>
+<url>db/conf/icassp/icassp1992.html#MyersKR92</url>
+</inproceedings>
+</r>
+<coauthors n="6" nc="2">
+<co c="0"><na f="d/Dasgupta:Keshav" pid="416/5193">Keshav Dasgupta</na></co>
+<co c="0"><na f="g/Gale:Charles" pid="416/5658">Charles Gale</na></co>
+<co c="1" n="2"><na f="k/Kay:Steven_M=" pid="08/8632">Steven M. Kay</na><na>Steven Kay</na></co>
+<co c="0"><na f="m/Mia:Mohammed" pid="416/5695">Mohammed Mia</na></co>
+<co c="1"><na f="m/Myers:Cory_S=" pid="50/6694">Cory S. Myers</na></co>
+<co c="0"><na f="t/Trottier:Olivier" pid="416/5823">Olivier Trottier</na></co>
+</coauthors>
+</dblpperson>
+

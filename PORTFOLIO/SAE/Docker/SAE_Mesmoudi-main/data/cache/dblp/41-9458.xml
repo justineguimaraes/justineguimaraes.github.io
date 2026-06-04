@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<dblpperson name="Brice Chardin" pid="41/9458" n="19">
+<person key="homepages/41/9458" mdate="2011-04-19">
+<author pid="41/9458">Brice Chardin</author>
+</person>
+<r><inproceedings key="conf/ismis/HaennCB24" mdate="2024-10-06">
+<author orcid="0009-0009-1663-0107" pid="378/8068">Quentin Haenn</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Clustering Under Radius Constraints Using Minimum Dominating Sets.</title>
+<pages>14-23</pages>
+<year>2024</year>
+<booktitle>ISMIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-62700-2_2</ee>
+<crossref>conf/ismis/2024</crossref>
+<url>db/conf/ismis/ismis2024.html#HaennCB24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismis/PerrotBCJ24" mdate="2024-06-26">
+<author pid="355/4356">Maxime Perrot</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<title>Knowledge Graphs for Data Integration in Retail.</title>
+<pages>231-245</pages>
+<year>2024</year>
+<booktitle>ISMIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-62700-2_21</ee>
+<crossref>conf/ismis/2024</crossref>
+<url>db/conf/ismis/ismis2024.html#PerrotBCJ24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/PerrotBCJ23" mdate="2023-09-01">
+<author pid="355/4356">Maxime Perrot</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<title>Thesaurus-Based Transformation: A Classification Method for Real Dirty Data.</title>
+<pages>256-265</pages>
+<year>2023</year>
+<booktitle>ADBIS (Short Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-42941-5_23</ee>
+<crossref>conf/adbis/2023short</crossref>
+<url>db/conf/adbis/adbis2023short.html#PerrotBCJ23</url>
+</inproceedings>
+</r>
+<r><article key="journals/kais/ParkinCJHB22" mdate="2022-09-22">
+<author orcid="0000-0002-6522-3526" pid="300/8750">Louise Parkin</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>A cooperative treatment of the plethoric answers problem in RDF.</title>
+<pages>2481-2514</pages>
+<year>2022</year>
+<volume>64</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1007/s10115-022-01710-8</ee>
+<url>db/journals/kais/kais64.html#ParkinCJHB22</url>
+</article>
+</r>
+<r><inproceedings key="conf/wise/ParkinCJH22" mdate="2022-11-10">
+<author pid="300/8750">Louise Parkin</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<title>Explaining Unexpected Answers of SPARQL Queries.</title>
+<pages>136-151</pages>
+<year>2022</year>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-20891-1_11</ee>
+<crossref>conf/wise/2022</crossref>
+<url>db/conf/wise/wise2022.html#ParkinCJH22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/ParkinCJHB21" mdate="2021-09-02">
+<author pid="300/8750">Louise Parkin</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Dealing with Plethoric Answers of SPARQL Queries.</title>
+<pages>292-304</pages>
+<year>2021</year>
+<booktitle>DEXA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86472-9_27</ee>
+<crossref>conf/dexa/2021-1</crossref>
+<url>db/conf/dexa/dexa2021-1.html#ParkinCJHB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/AndersenCT21" mdate="2023-09-30">
+<author orcid="0000-0001-6907-0136" pid="303/0940">Jennie Andersen</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="303/0965">Mohamed Tribak</author>
+<title>Clustering to the Fewest Clusters Under Intra-Cluster Dissimilarity Constraints.</title>
+<pages>209-216</pages>
+<year>2021</year>
+<booktitle>ICTAI</booktitle>
+<ee>https://doi.org/10.1109/ICTAI52525.2021.00036</ee>
+<crossref>conf/ictai/2021</crossref>
+<url>db/conf/ictai/ictai2021.html#AndersenCT21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2109-13644" mdate="2024-02-05">
+<author orcid="0000-0001-6907-0136" pid="303/0940">Jennie Andersen</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="303/0965">Mohamed Tribak</author>
+<title>Clustering to the Fewest Clusters Under Intra-Cluster Dissimilarity Constraints.</title>
+<year>2021</year>
+<volume>abs/2109.13644</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2109.13644</ee>
+<url>db/journals/corr/corr2109.html#abs-2109-13644</url>
+</article>
+</r>
+<r><article key="journals/kais/DellalJHCB19" mdate="2025-01-19">
+<author pid="201/5364">Ibrahim Dellal</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Query answering over uncertain RDF knowledge bases: explain and obviate unsuccessful query results.</title>
+<pages>1633-1665</pages>
+<year>2019</year>
+<volume>61</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10115-019-01332-7</ee>
+<ee>https://www.wikidata.org/entity/Q128428669</ee>
+<url>db/journals/kais/kais61.html#DellalJHCB19</url>
+</article>
+</r>
+<r><article key="journals/dn/DellalJHCB18" mdate="2019-07-26">
+<author pid="201/5364">Ibrahim Dellal</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Traitement coop&#233;ratif des requ&#234;tes RDF dans le contexte des bases de connaissances incertaines.</title>
+<pages>9-35</pages>
+<year>2018</year>
+<volume>21</volume>
+<journal>Document Num&#233;rique</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.3166/dn.21.1-2.9-35</ee>
+<url>db/journals/dn/dn21.html#DellalJHCB18</url>
+</article>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/BelheouaneJCHA18" mdate="2018-10-23">
+<author pid="205/1309">Chourouk Belheouane</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="133/3977">Hamid Azzoune</author>
+<title>Borders of Theories for Cooperative Querying over Uncertain Databases.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZ-IEEE.2018.8491443</ee>
+<crossref>conf/fuzzIEEE/2018</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2018.html#BelheouaneJCHA18</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/ChardinCPP17" mdate="2017-12-28">
+<author pid="41/9458">Brice Chardin</author>
+<author orcid="0000-0001-7015-5604" pid="97/6075">Emmanuel Coquery</author>
+<author orcid="0000-0002-4311-9269" pid="a/mAgier">Marie Pailloux</author>
+<author orcid="0000-0002-0015-745X" pid="p/JMPetit">Jean-Marc Petit</author>
+<title>RQL: A Query Language for Rule Discovery in Databases.</title>
+<pages>357-374</pages>
+<year>2017</year>
+<volume>658</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2016.11.004</ee>
+<url>db/journals/tcs/tcs658.html#ChardinCPP17</url>
+</article>
+</r>
+<r><inproceedings key="conf/dexa/DellalJHCB17" mdate="2017-08-14">
+<author pid="201/5364">Ibrahim Dellal</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>On Addressing the Empty Answer Problem in Uncertain Knowledge Bases.</title>
+<pages>120-129</pages>
+<year>2017</year>
+<booktitle>DEXA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-64468-4_9</ee>
+<crossref>conf/dexa/2017-1</crossref>
+<url>db/conf/dexa/dexa2017-1.html#DellalJHCB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inforsid/DellalJHCB17" mdate="2021-02-01">
+<author pid="201/5364">Ibrahim Dellal</author>
+<author pid="j/StephaneJean">St&#233;phane Jean</author>
+<author pid="24/2709">Allel Hadjali</author>
+<author pid="41/9458">Brice Chardin</author>
+<author pid="08/4942">Micka&#235;l Baron</author>
+<title>Traitement coop&#233;ratif des requ&#234;tes RDF dans le contexte des bases de connaissances incertaines.</title>
+<pages>277-292</pages>
+<year>2017</year>
+<booktitle>INFORSID</booktitle>
+<ee type="oa">http://inforsid.fr/actes/2017/INFORSID_2017_paper_16</ee>
+<crossref>conf/inforsid/2017</crossref>
+<url>db/conf/inforsid/inforsid2017.html#DellalJHCB17</url>
+</inproceedings>
+</r>
+<r><article key="journals/dpd/ChardinLP16" mdate="2022-10-02">
+<author pid="41/9458">Brice Chardin</author>
+<author pid="125/3521">Jean-Marc Lacombe</author>
+<author orcid="0000-0002-0015-745X" pid="p/JMPetit">Jean-Marc Petit</author>
+<title>Chronos: a NoSQL system on flash memory for industrial process data.</title>
+<pages>293-319</pages>
+<year>2016</year>
+<volume>34</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10619-015-7175-0</ee>
+<url>db/journals/dpd/dpd34.html#ChardinLP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdm/ChardinCPP14" mdate="2023-03-24">
+<author pid="41/9458">Brice Chardin</author>
+<author pid="97/6075">Emmanuel Coquery</author>
+<author orcid="0000-0002-4311-9269" pid="a/mAgier">Marie Pailloux</author>
+<author orcid="0000-0002-0015-745X" pid="p/JMPetit">Jean-Marc Petit</author>
+<title>RQL: A SQL-Like Query Language for Discovering Meaningful Rules.</title>
+<pages>1203-1206</pages>
+<year>2014</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2014.50</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDMW.2014.50</ee>
+<crossref>conf/icdm/2014w</crossref>
+<url>db/conf/icdm/icdm2014w.html#ChardinCPP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tpctc/ChardinLP12" mdate="2022-10-02">
+<author pid="41/9458">Brice Chardin</author>
+<author pid="125/3521">Jean-Marc Lacombe</author>
+<author orcid="0000-0002-0015-745X" pid="p/JMPetit">Jean-Marc Petit</author>
+<title>Data Historians in the Data Management Landscape.</title>
+<pages>124-139</pages>
+<year>2012</year>
+<crossref>conf/tpctc/2012</crossref>
+<booktitle>TPCTC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-36727-4_9</ee>
+<url>db/conf/tpctc/tpctc2012.html#ChardinLP12</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Chardin11" mdate="2020-07-21">
+<author pid="41/9458">Brice Chardin</author>
+<title>SGBD open-source pour historisation de donn&#233;es et impact des m&#233;moires flash. (Open-source DBMS for data historization and impact of flash memories).</title>
+<year>2011</year>
+<school>INSA de Lyon, Lyon - Villeurbanne, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-00708456</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/dasfaa/ChardinPP11" mdate="2022-10-02">
+<author pid="41/9458">Brice Chardin</author>
+<author pid="84/9457">Olivier Pasteur</author>
+<author orcid="0000-0002-0015-745X" pid="p/JMPetit">Jean-Marc Petit</author>
+<title>An FTL-Agnostic Layer to Improve Random Write on Flash Memory.</title>
+<pages>214-225</pages>
+<year>2011</year>
+<booktitle>DASFAA Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-20244-5_21</ee>
+<crossref>conf/dasfaa/2011w</crossref>
+<url>db/conf/dasfaa/dasfaa2011w.html#ChardinPP11</url>
+</inproceedings>
+</r>
+<coauthors n="16" nc="2">
+<co c="1"><na f="a/Andersen:Jennie" pid="303/0940">Jennie Andersen</na></co>
+<co c="0"><na f="a/Azzoune:Hamid" pid="133/3977">Hamid Azzoune</na></co>
+<co c="0"><na f="b/Baron:Micka=euml=l" pid="08/4942">Micka&#235;l Baron</na></co>
+<co c="0"><na f="b/Belheouane:Chourouk" pid="205/1309">Chourouk Belheouane</na></co>
+<co c="0"><na f="c/Coquery:Emmanuel" pid="97/6075">Emmanuel Coquery</na></co>
+<co c="0"><na f="d/Dellal:Ibrahim" pid="201/5364">Ibrahim Dellal</na></co>
+<co c="0" n="2"><na f="h/HadjAli:Allel" pid="24/2709">Allel HadjAli</na><na>Allel Hadjali</na></co>
+<co c="0"><na f="h/Haenn:Quentin" pid="378/8068">Quentin Haenn</na></co>
+<co c="0"><na f="j/Jean:St=eacute=phane" pid="j/StephaneJean">St&#233;phane Jean</na></co>
+<co c="0"><na f="l/Lacombe:Jean=Marc" pid="125/3521">Jean-Marc Lacombe</na></co>
+<co c="0"><na f="p/Pailloux:Marie" pid="a/mAgier">Marie Pailloux</na></co>
+<co c="0"><na f="p/Parkin:Louise" pid="300/8750">Louise Parkin</na></co>
+<co c="0"><na f="p/Pasteur:Olivier" pid="84/9457">Olivier Pasteur</na></co>
+<co c="0"><na f="p/Perrot:Maxime" pid="355/4356">Maxime Perrot</na></co>
+<co c="0"><na f="p/Petit:Jean=Marc" pid="p/JMPetit">Jean-Marc Petit</na></co>
+<co c="1"><na f="t/Tribak:Mohamed" pid="303/0965">Mohamed Tribak</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,410 @@
+<?xml version="1.0"?>
+<dblpperson name="Fr&#233;d&#233;ric Ridouard" pid="05/2077" n="24">
+<person key="homepages/05/2077" mdate="2024-06-20">
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<url>https://orcid.org/0000-0002-0349-5462</url>
+</person>
+<r><article key="journals/rts/GarreauRBR25" mdate="2025-05-31">
+<author pid="367/9494">Richard Garreau</author>
+<author orcid="0000-0002-0349-5462" pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Buffer dimensioning per frames in packet networks.</title>
+<pages>159-182</pages>
+<year>2025</year>
+<month>March</month>
+<volume>61</volume>
+<journal>Real Time Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11241-025-09437-9</ee>
+<url>db/journals/rts/rts61.html#GarreauRBR25</url>
+<stream>streams/journals/rts</stream>
+</article>
+</r>
+<r><inproceedings key="conf/isorc/DescharmesBRC25" mdate="2025-10-20">
+<author pid="418/1709">Luc Descharmes</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="65/6891">Annie Choquet-Geniet</author>
+<title>Global Versus Local Schedulability Analysis of a Two-Level Hierarchical System.</title>
+<pages>1-10</pages>
+<year>2025</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC65339.2025.00014</ee>
+<crossref>conf/isorc/2024</crossref>
+<url>db/conf/isorc/isorc2025.html#DescharmesBRC25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/RobertyBSRBG24" mdate="2025-03-03">
+<author orcid="0000-0002-1580-2300" pid="358/2474">Adrien Roberty</author>
+<author pid="380/6363">Quentin Besnard</author>
+<author pid="63/11078">Siwar Ben Hadj Said</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="65/6891">Annie Geniet</author>
+<title>Configuring the IEEE 802.1Q Time-Aware Shaper with Deep Reinforcement Learning.</title>
+<pages>1-7</pages>
+<year>2024</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS59830.2024.10575623</ee>
+<crossref>conf/noms/2024</crossref>
+<url>db/conf/noms/noms2024.html#RobertyBSRBG24</url>
+</inproceedings>
+</r>
+<r><book publtype="habil" key="books/hal/Ridouard23" mdate="2024-06-20">
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<title>Validation temporelle dans les r&#233;seaux embarqu&#233;s temps r&#233;el. (Temporal validation in real-time embedded networks).</title>
+<year>2023</year>
+<school>University of Poitiers, France</school>
+<ee>https://tel.archives-ouvertes.fr/tel-04603900</ee>
+</book>
+</r>
+<r><inproceedings key="conf/etfa/RobertySRBG23" mdate="2024-08-04">
+<author orcid="0000-0002-1580-2300" pid="358/2474">Adrien Roberty</author>
+<author pid="63/11078">Siwar Ben Hadj Said</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="65/6891">Annie Geniet</author>
+<title>Reinforcement Learning for Time-Aware Shaping (IEEE 802.1Qbv) in Time-Sensitive Networks.</title>
+<pages>1-4</pages>
+<year>2023</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA54631.2023.10275566</ee>
+<crossref>conf/etfa/2023</crossref>
+<url>db/conf/etfa/etfa2023.html#RobertySRBG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtss/GarreauLGBRR23" mdate="2024-02-12">
+<author pid="367/9494">Richard Garreau</author>
+<author pid="275/2021">Matheus Ladeira</author>
+<author pid="48/4475">Emmanuel Grolleau</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Link Between Real-Time Scheduling and Time-Triggered Networks.</title>
+<pages>397-410</pages>
+<year>2023</year>
+<booktitle>RTSS</booktitle>
+<ee>https://doi.org/10.1109/RTSS59052.2023.00041</ee>
+<crossref>conf/rtss/2023</crossref>
+<url>db/conf/rtss/rtss2023.html#GarreauLGBRR23</url>
+</inproceedings>
+</r>
+<r><article key="journals/rts/ChenNHYBBLRRARN19" mdate="2026-02-19">
+<author orcid="0000-0001-8114-9760" pid="70/1961">Jian-Jia Chen</author>
+<author orcid="0000-0003-4141-6718" pid="62/7802">Geoffrey Nelissen</author>
+<author orcid="0000-0001-9446-4719" pid="201/5576">Wen-Hung Huang 0001</author>
+<author orcid="0000-0002-0941-2437" pid="147/7698">Maolin Yang</author>
+<author orcid="0000-0001-8254-3815" pid="19/2942">Bj&#246;rn B. Brandenburg</author>
+<author orcid="0000-0002-3640-0239" pid="06/2780">Konstantinos Bletsas 0001</author>
+<author pid="95/6404-5">Cong Liu 0005</author>
+<author orcid="0000-0003-0061-1971" pid="22/2035">Pascal Richard</author>
+<author orcid="0000-0002-0349-5462" pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author orcid="0000-0003-3739-6590" pid="06/898">Neil C. Audsley</author>
+<author pid="16/36">Raj Rajkumar</author>
+<author orcid="0000-0002-5560-590X" pid="45/3063">Dionisio de Niz</author>
+<author orcid="0000-0002-8137-3612" pid="166/7057">Georg von der Br&#252;ggen</author>
+<title>Many suspensions, many problems: a review of self-suspending tasks in real-time systems.</title>
+<pages>144-207</pages>
+<year>2019</year>
+<volume>55</volume>
+<journal>Real Time Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s11241-018-9316-9</ee>
+<url>db/journals/rts/rts55.html#ChenNHYBBLRRARN19</url>
+</article>
+</r>
+<r><article key="journals/tii/BenammarRBR18" mdate="2021-10-14">
+<author orcid="0000-0002-6528-947X" pid="170/0289">Nassima Benammar</author>
+<author orcid="0000-0002-0349-5462" pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Forward End-to-End Delay for AFDX Networks.</title>
+<pages>858-865</pages>
+<year>2018</year>
+<volume>14</volume>
+<journal>IEEE Trans. Ind. Informatics</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TII.2017.2720799</ee>
+<url>db/journals/tii/tii14.html#BenammarRBR18</url>
+</article>
+</r>
+<r><inproceedings key="conf/rtns/BenammarBRR18" mdate="2025-01-19">
+<author orcid="0000-0002-6528-947X" pid="170/0289">Nassima Benammar</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Timing analysis of AVB Ethernet network using the Forward end-to-end Delay Analysis.</title>
+<pages>223-233</pages>
+<year>2018</year>
+<booktitle>RTNS</booktitle>
+<ee>https://doi.org/10.1145/3273905.3273922</ee>
+<ee>https://www.wikidata.org/entity/Q130947247</ee>
+<crossref>conf/rtns/2018</crossref>
+<url>db/conf/rtns/rtns2018.html#BenammarBRR18</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/rtns/2018" mdate="2018-10-13">
+<editor pid="36/10271">Yassine Ouhammou</editor>
+<editor pid="05/2077">Fr&#233;d&#233;ric Ridouard</editor>
+<editor pid="48/4475">Emmanuel Grolleau</editor>
+<editor pid="j/MathieuJan">Mathieu Jan</editor>
+<editor pid="91/459">Moris Behnam</editor>
+<title>Proceedings of the 26th International Conference on Real-Time Networks and Systems, RTNS 2018, Chasseneuil-du-Poitou, France, October 10-12, 2018</title>
+<publisher>ACM</publisher>
+<booktitle>RTNS</booktitle>
+<year>2018</year>
+<ee>http://dl.acm.org/citation.cfm?id=3273905</ee>
+<url>db/conf/rtns/rtns2018.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ijiids/OuhammouLGBRRR17" mdate="2020-04-16">
+<author pid="36/10271">Yassine Ouhammou</author>
+<author pid="205/4794">Anh-Toan Bui Long</author>
+<author pid="48/4475">Emmanuel Grolleau</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="87/5221">Micha&#235;l Richard</author>
+<title>A model-based process for the modelling and the analysis of avionic architectures.</title>
+<pages>117-144</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Int. J. Intell. Inf. Database Syst.</journal>
+<number>1/2</number>
+<ee>https://doi.org/10.1504/IJIIDS.2017.10007351</ee>
+<url>db/journals/ijiids/ijiids10.html#OuhammouLGBRRR17</url>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/BenammarRBR17" mdate="2021-10-14">
+<author orcid="0000-0002-6528-947X" pid="170/0289">Nassima Benammar</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Forward end-to-end delay analysis extension for FP/FIFO policy in AFDX networks.</title>
+<pages>1-8</pages>
+<year>2017</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2017.8247606</ee>
+<crossref>conf/etfa/2017</crossref>
+<url>db/conf/etfa/etfa2017.html#BenammarRBR17</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigbed/BenammarBRR16" mdate="2025-01-19">
+<author pid="170/0289">Nassima Benammar</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Tighter buffer dimensioning in AFDX networks.</title>
+<pages>37-42</pages>
+<year>2016</year>
+<volume>13</volume>
+<journal>SIGBED Rev.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3015037.3015043</ee>
+<ee>https://www.wikidata.org/entity/Q130959866</ee>
+<url>db/journals/sigbed/sigbed13.html#BenammarBRR16</url>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/KemayoBRBR15" mdate="2021-10-14">
+<author pid="128/0924">Georges Kemayo</author>
+<author orcid="0000-0002-6528-947X" pid="170/0289">Nassima Benammar</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Improving AFDX end-to-end delays analysis.</title>
+<pages>1-8</pages>
+<year>2015</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2015.7301463</ee>
+<crossref>conf/etfa/2015</crossref>
+<url>db/conf/etfa/etfa2015.html#KemayoBRBR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtns/KemayoRBR14" mdate="2025-01-19">
+<author pid="128/0924">Georges Kemayo</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>A Forward end-to-end delays Analysis for packet switched networks.</title>
+<pages>65</pages>
+<year>2014</year>
+<booktitle>RTNS</booktitle>
+<ee>https://doi.org/10.1145/2659787.2659801</ee>
+<ee>https://www.wikidata.org/entity/Q130959896</ee>
+<crossref>conf/rtns/2014</crossref>
+<url>db/conf/rtns/rtns2014.html#KemayoRBR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/KemayoRBR13" mdate="2017-05-23">
+<author pid="128/0924">Georges Kemayo</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="44/8188">Henri Bauer</author>
+<author pid="22/2035">Pascal Richard</author>
+<title>Optimistic problems in the trajectory approach in FIFO context.</title>
+<pages>1-8</pages>
+<year>2013</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2013.6648054</ee>
+<crossref>conf/etfa/2013</crossref>
+<url>db/conf/etfa/etfa2013.html#KemayoRBR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/RichardKRGN12" mdate="2017-05-23">
+<author pid="22/2035">Pascal Richard</author>
+<author pid="128/0924">Georges Kemayo</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="48/4475">Emmanuel Grolleau</author>
+<author pid="82/305">Thi Huyen Chau Nguyen</author>
+<title>Response time bounds for static-priority tasks and arbitrary relative deadlines with resource augmentation.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2012.6489567</ee>
+<crossref>conf/etfa/2012</crossref>
+<url>db/conf/etfa/etfa2012.html#RichardKRGN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtns/GoossensRLLR12" mdate="2018-11-06">
+<author pid="74/6780">Jo&#235;l Goossens</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="33/9672">Markus Lindstr&#246;m</author>
+<author pid="48/8036">Irina Iulia Lupu</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<title>Job partitioning strategies for multiprocessor scheduling of real-time periodic tasks with restricted migrations.</title>
+<pages>141-150</pages>
+<year>2012</year>
+<booktitle>RTNS</booktitle>
+<ee>https://doi.org/10.1145/2392987.2393005</ee>
+<crossref>conf/rtns/2012</crossref>
+<url>db/conf/rtns/rtns2012.html#GoossensRLLR12</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigbed/LiSRF11" mdate="2025-01-19">
+<author pid="08/8669-2">Xiaoting Li 0002</author>
+<author pid="86/4510">Jean-Luc Scharbarg</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="93/3992">Christian Fraboul</author>
+<title>Existing offset assignments are near optimal for an industrial AFDX network.</title>
+<pages>49-54</pages>
+<year>2011</year>
+<volume>8</volume>
+<journal>SIGBED Rev.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2095256.2095263</ee>
+<ee>https://www.wikidata.org/entity/Q130962730</ee>
+<url>db/journals/sigbed/sigbed8.html#LiSRF11</url>
+</article>
+</r>
+<r><article key="journals/tii/ScharbargRF09" mdate="2020-05-21">
+<author pid="86/4510">Jean-Luc Scharbarg</author>
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="93/3992">Christian Fraboul</author>
+<title>A probabilistic analysis of end-to-end delays on an avionics switched Ethernet.</title>
+<pages>38-49</pages>
+<year>2009</year>
+<volume>5</volume>
+<journal>IEEE Trans. Ind. Informatics</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TII.2009.2016085</ee>
+<url>db/journals/tii/tii5.html#ScharbargRF09</url>
+</article>
+</r>
+<r><article key="journals/eor/RidouardRM08" mdate="2020-02-21">
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="10/1698">Patrick Martineau</author>
+<title>On-line scheduling on a batch processing machine with unbounded batch size to minimize the makespan.</title>
+<pages>1327-1342</pages>
+<year>2008</year>
+<volume>189</volume>
+<journal>Eur. J. Oper. Res.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.ejor.2006.06.080</ee>
+<url>db/journals/eor/eor189.html#RidouardRM08</url>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/RidouardSF08" mdate="2017-05-23">
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="86/4510">Jean-Luc Scharbarg</author>
+<author pid="93/3992">Christian Fraboul</author>
+<title>Probabilistic upper bounds for heterogeneous flows using a static priority queueing on an AFDX network.</title>
+<pages>1220-1227</pages>
+<year>2008</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2008.4638557</ee>
+<crossref>conf/etfa/2008</crossref>
+<url>db/conf/etfa/etfa2008.html#RidouardSF08</url>
+</inproceedings>
+</r>
+<r><article key="journals/jec/RidouardRCT06" mdate="2020-08-07">
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="55/929">Francis Cottet</author>
+<author pid="61/1963">Karim Traore</author>
+<title>Some results on scheduling tasks with self-suspensions.</title>
+<pages>301-312</pages>
+<year>2006</year>
+<volume>2</volume>
+<journal>J. Embed. Comput.</journal>
+<number>3-4</number>
+<ee>http://content.iospress.com/articles/journal-of-embedded-computing/jec00069</ee>
+<url>db/journals/jec/jec2.html#RidouardRCT06</url>
+</article>
+</r>
+<r><inproceedings key="conf/rtss/RidouardRC04" mdate="2023-03-24">
+<author pid="05/2077">Fr&#233;d&#233;ric Ridouard</author>
+<author pid="22/2035">Pascal Richard</author>
+<author pid="55/929">Francis Cottet</author>
+<title>Negative Results for Scheduling Independent Hard Real-Time Tasks with Self-Suspensions.</title>
+<pages>47-56</pages>
+<year>2004</year>
+<crossref>conf/rtss/2004</crossref>
+<booktitle>RTSS</booktitle>
+<ee>https://doi.org/10.1109/REAL.2004.35</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/REAL.2004.35</ee>
+<url>db/conf/rtss/rtss2004.html#RidouardRC04</url>
+</inproceedings>
+</r>
+<coauthors n="38" nc="1">
+<co c="0"><na f="a/Audsley:Neil_C=" pid="06/898">Neil C. Audsley</na></co>
+<co c="0"><na f="b/Bauer:Henri" pid="44/8188">Henri Bauer</na></co>
+<co c="0"><na f="b/Behnam:Moris" pid="91/459">Moris Behnam</na></co>
+<co c="0"><na f="b/Benammar:Nassima" pid="170/0289">Nassima Benammar</na></co>
+<co c="0"><na f="b/Besnard:Quentin" pid="380/6363">Quentin Besnard</na></co>
+<co c="0"><na f="b/Bletsas_0001:Konstantinos" pid="06/2780">Konstantinos Bletsas 0001</na></co>
+<co c="0"><na f="b/Brandenburg:Bj=ouml=rn_B=" pid="19/2942">Bj&#246;rn B. Brandenburg</na></co>
+<co c="0"><na f="b/Br=uuml=ggen:Georg_von_der" pid="166/7057">Georg von der Br&#252;ggen</na></co>
+<co c="0"><na f="c/Chen:Jian=Jia" pid="70/1961">Jian-Jia Chen</na></co>
+<co c="0" n="2"><na f="c/Choquet=Geniet:Annie" pid="65/6891">Annie Choquet-Geniet</na><na>Annie Geniet</na></co>
+<co c="0"><na f="c/Cottet:Francis" pid="55/929">Francis Cottet</na></co>
+<co c="0"><na f="d/Descharmes:Luc" pid="418/1709">Luc Descharmes</na></co>
+<co c="0"><na f="f/Fraboul:Christian" pid="93/3992">Christian Fraboul</na></co>
+<co c="0"><na f="g/Garreau:Richard" pid="367/9494">Richard Garreau</na></co>
+<co c="0"><na f="g/Goossens:Jo=euml=l" pid="74/6780">Jo&#235;l Goossens</na></co>
+<co c="0"><na f="g/Grolleau:Emmanuel" pid="48/4475">Emmanuel Grolleau</na></co>
+<co c="0" n="2"><na f="h/Huang:Wen=Hung_Kevin" pid="201/5576">Wen-Hung Kevin Huang</na><na>Wen-Hung Huang 0001</na></co>
+<co c="0"><na f="j/Jan:Mathieu" pid="j/MathieuJan">Mathieu Jan</na></co>
+<co c="0"><na f="k/Kemayo:Georges" pid="128/0924">Georges Kemayo</na></co>
+<co c="0"><na f="l/Ladeira:Matheus" pid="275/2021">Matheus Ladeira</na></co>
+<co c="0"><na f="l/Li_0002:Xiaoting" pid="08/8669-2">Xiaoting Li 0002</na></co>
+<co c="0"><na f="l/Lindstr=ouml=m:Markus" pid="33/9672">Markus Lindstr&#246;m</na></co>
+<co c="0"><na f="l/Liu_0005:Cong" pid="95/6404-5">Cong Liu 0005</na></co>
+<co c="0"><na f="l/Long:Anh=Toan_Bui" pid="205/4794">Anh-Toan Bui Long</na></co>
+<co c="0"><na f="l/Lupu:Irina_Iulia" pid="48/8036">Irina Iulia Lupu</na></co>
+<co c="0"><na f="m/Martineau:Patrick" pid="10/1698">Patrick Martineau</na></co>
+<co c="0"><na f="n/Nelissen:Geoffrey" pid="62/7802">Geoffrey Nelissen</na></co>
+<co c="0"><na f="n/Nguyen:Thi_Huyen_Chau" pid="82/305">Thi Huyen Chau Nguyen</na></co>
+<co c="0"><na f="n/Niz:Dionisio_de" pid="45/3063">Dionisio de Niz</na></co>
+<co c="0"><na f="o/Ouhammou:Yassine" pid="36/10271">Yassine Ouhammou</na></co>
+<co c="0" n="2"><na f="r/Rajkumar:Ragunathan" pid="16/36">Ragunathan Rajkumar</na><na>Raj Rajkumar</na></co>
+<co c="0"><na f="r/Richard:Micha=euml=l" pid="87/5221">Micha&#235;l Richard</na></co>
+<co c="0"><na f="r/Richard:Pascal" pid="22/2035">Pascal Richard</na></co>
+<co c="0"><na f="r/Roberty:Adrien" pid="358/2474">Adrien Roberty</na></co>
+<co c="0"><na f="s/Said:Siwar_Ben_Hadj" pid="63/11078">Siwar Ben Hadj Said</na></co>
+<co c="0"><na f="s/Scharbarg:Jean=Luc" pid="86/4510">Jean-Luc Scharbarg</na></co>
+<co c="0"><na f="t/Traore:Karim" pid="61/1963">Karim Traore</na></co>
+<co c="0"><na f="y/Yang:Maolin" pid="147/7698">Maolin Yang</na></co>
+</coauthors>
+</dblpperson>
+
