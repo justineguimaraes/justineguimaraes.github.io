@@ -26,49 +26,183 @@ function animateSkillBars() {
 }
 
 // ── CODE PYTHON VÉLIB ────────────────────────────────────────
-var VELIB_CODE = [
-  "import requests",
-  "import pandas as pd",
-  "import json",
-  "import webbrowser",
-  "",
-  "url_base = (",
-  "    \"https://opendata.paris.fr/api/explore/v2.1\"",
-  "    \"/catalog/datasets/velib-disponibilite-en-temps-reel/records\"",
-  ")",
-  "",
-  "resultat = requests.get(url_base, timeout=10).json()",
-  "resultat_final = []",
-  "",
-  "for i in range(0, resultat[\"total_count\"], 100):",
-  "    temp = requests.get(url_base + f\"?limit=100&offset={i}\", timeout=10).json()",
-  "    resultat_final += temp[\"results\"]",
-  "",
-  "data = pd.DataFrame(resultat_final)",
-  "",
-  "sel = data.copy()",
-  "sel[\"velo_dispo\"] = sel.apply(",
-  "    lambda r: (r[\"numbikesavailable\"] / r[\"capacity\"] * 100) if r[\"capacity\"] > 0 else 0, axis=1",
-  ")",
-  "sel[\"taux_ebike\"] = sel.apply(",
-  "    lambda r: (r[\"ebike\"] / r[\"numbikesavailable\"] * 100) if r[\"numbikesavailable\"] > 0 else 0, axis=1",
-  ")",
-  "",
-  "stations_json = []",
-  "for _, row in sel.iterrows():",
-  "    cap = int(row[\"capacity\"]) if pd.notna(row[\"capacity\"]) else 0",
-  "    dispo = int(row[\"numbikesavailable\"]) if pd.notna(row[\"numbikesavailable\"]) else 0",
-  "    taux = (dispo / cap * 100) if cap > 0 else 0",
-  "    stations_json.append({",
-  "        \"name\": row[\"name\"], \"lat\": row[\"coordonnees_geo\"][\"lat\"],",
-  "        \"lon\": row[\"coordonnees_geo\"][\"lon\"], \"taux\": round(taux,1),",
-  "        \"is_empty\": taux < 10, \"is_full\": taux > 90",
-  "    })",
-  "",
-  "with open(\"dashboard_velib.html\", \"w\", encoding=\"utf-8\") as f:",
-  "    f.write(HTML_TEMPLATE.format(stations_json=json.dumps(stations_json, ensure_ascii=False)))",
-  "webbrowser.open_new_tab(\"dashboard_velib.html\")"
-].join("\n");
+var VELIB_CODE = `# -*- coding: utf-8 -*-
+import requests
+import pandas as pd
+import folium
+import webbrowser
+import matplotlib.pyplot as plt
+import unicodedata
+
+# Pour normaliser le texte, faire en sorte de trouver la commune même en oubliant une majuscule ou un tiret
+def normalize_text(text: str) -> str:
+    if pd.isna(text):
+        return ""
+    normalized = unicodedata.normalize('NFD', text)
+    clean_text = "".join(
+        char for char in normalized if unicodedata.category(char) != 'Mn'
+    )
+    return clean_text.lower().replace('-', ' ').replace("'", ' ').strip()
+
+#import de l'API comme dans le cours
+url_base = "https://opendata.paris.fr/api/explore/v2.1/catalog/datasets/velib-disponibilite-en-temps-reel/records"
+resultat = requests.get(url_base).json()
+resultat_final = []
+for i in range(0, resultat["total_count"], 100):
+ temp = requests.get(url_base + "?limit=100&offset=" + str(i)).json()
+ resultat_final += temp["results"]
+
+data = pd.DataFrame(resultat_final)
+
+# On prend toutes les communes disponibles pour créer la carte
+communes = sorted(data['nom_arrondissement_communes'].unique())  #cette ligne tri par ordre alphabétique et permets d'afficher seulement une commune même si elle apparait plusieurs fois
+print("Choisir parmis les communes suivantes :", communes)
+
+# DataFrame avec toutes les données 
+stations_selection = data[data['nom_arrondissement_communes'].isin(communes)]
+
+# Demander à l'utilisateur de saisir le nom de la commune
+commune_choisie = input("Entrez le nom de la commune (ou 'TOUT' pour tout Paris) : ")
+
+# Normaliser la commune choisie et les noms de communes dans le dataset
+commune_choisie_norm = normalize_text(commune_choisie)
+
+# Filtrer les stations de cet arrondissement
+if commune_choisie_norm == "tout":
+    stations_arr = stations_selection  # toutes les stations
+    lat_centre, lon_centre = 48.8566, 2.3522  # centre de Paris
+    zoom = 12  # zoom plus large pour voir toute la ville
+else:
+    # Créer une colonne normalisée pour la recherche
+    stations_selection['commune_normalized'] = stations_selection['nom_arrondissement_communes'].apply(normalize_text)
+    
+    # Filtrer avec la version normalisée
+    stations_arr = stations_selection[stations_selection['commune_normalized'] == commune_choisie_norm]
+    
+    if not stations_arr.empty:
+        lat_centre = stations_arr['coordonnees_geo'].apply(lambda x: x['lat']).mean()
+        lon_centre = stations_arr['coordonnees_geo'].apply(lambda x: x['lon']).mean()
+    else:
+        print(" Erreur : Commune non trouvée. Affichage de tout Paris.")
+        stations_arr = stations_selection
+        lat_centre, lon_centre = 48.8566, 2.3522
+    zoom = 15  # zoom sur la commune
+
+# Créer la carte centrée sur la commune, comme dans le cours
+map_paris = folium.Map(location=[lat_centre, lon_centre], zoom_start=zoom)
+
+# Ajouter un marqueur pour chaque station avec couleur selon la disponibilité
+for idx, row in stations_arr.iterrows():
+    if pd.notna(row['capacity']):
+        total_bikes = row['capacity'] 
+    else :
+        total_bikes = 0
+    if pd.notna(row['numbikesavailable']):
+        available_bikes = row['numbikesavailable']
+    else:
+        available_bikes = 0
+    
+    # Calcul du pourcentage  de vélos disponibles
+    velo_dispo = (available_bikes / total_bikes * 100) if total_bikes > 0 else 0
+    
+    # Choix de la couleur selon le pourcentage
+    if velo_dispo > 80:
+        couleur = 'green'
+    elif velo_dispo > 50:
+        couleur = 'blue'
+    elif velo_dispo > 20:
+        couleur = 'orange'
+    else:
+        couleur = 'red'
+        
+     # Création de l'info-bulle
+    info_bulle = f"{row['name']} - {available_bikes}/{total_bikes} vélos disponible"
+    
+    # carte 
+    folium.Marker(
+        location=[row['coordonnees_geo']['lat'], row['coordonnees_geo']['lon']],
+        tooltip=info_bulle,
+        icon=folium.Icon(icon='bicycle', prefix='fa', color=couleur)
+    ).add_to(map_paris)
+
+
+# Afficher la carte
+carte=map_paris
+
+carte.save('1-exo2_2.html')
+webbrowser.open_new_tab("1-exo2_2.html")
+
+# QUESTION 2 : GRAPHIQUE COMPARATIF
+#  Calculer le taux de disponibilité pour toutes les stations
+stations_selection['velo_dispo'] = stations_selection.apply(
+    lambda row: (row['numbikesavailable'] / row['capacity'] * 100) if row['capacity'] > 0 else 0,
+    axis=1
+)
+
+#  Moyenne par arrondissement
+taux_moyen_arrondissement = stations_selection.groupby('nom_arrondissement_communes')['velo_dispo'].mean().reset_index()
+taux_moyen_arrondissement = taux_moyen_arrondissement.sort_values(by='velo_dispo', ascending=False)
+
+
+plt.figure(figsize=(14,6))
+
+# Barres verticales
+bars = plt.bar(taux_moyen_arrondissement['nom_arrondissement_communes'], 
+               taux_moyen_arrondissement['velo_dispo'], color='mediumseagreen')
+
+plt.ylabel("Taux moyen de vélos disponibles (%)")
+plt.xlabel("Arrondissement / Commune")
+plt.title("Taux moyen de disponibilité des vélos par communes")
+plt.ylim(0,100)
+
+
+# Rotation des labels pour les lire facilement
+plt.xticks(rotation=45, ha='right')
+plt.tight_layout()
+plt.show()
+
+
+#### QUESTION 3 : Indicateur taux moyen de vélos électriques
+#  Calculer le taux de vélos électriques par station
+stations_selection['taux_ebike'] = stations_selection.apply(
+    lambda row: (row['ebike'] / row['numbikesavailable'] * 100) if row['numbikesavailable'] > 0 else 0,
+    axis=1
+)
+
+#  Moyenne par communes
+taux_moyen_ebike = stations_selection.groupby('nom_arrondissement_communes')['taux_ebike'].mean().reset_index()
+taux_moyen_ebike = taux_moyen_ebike.sort_values(by='taux_ebike', ascending=False)
+
+#  Graphique vertical (barres) avec Matplotlib
+plt.figure(figsize=(14,6))
+bars = plt.bar(taux_moyen_ebike['nom_arrondissement_communes'], 
+               taux_moyen_ebike['taux_ebike'], color='dodgerblue')
+
+plt.ylabel("Taux moyen de vélos électriques (%)")
+plt.xlabel("Arrondissement / Commune")
+plt.title("Taux moyen de vélos électriques disponibles par communes")
+plt.ylim(0,100)
+
+
+# Rotation des labels pour les lire facilement
+plt.xticks(rotation=45, ha='right')
+plt.tight_layout()
+plt.show()
+
+#### QUESTION 4 
+# Calcul de l'indicateur
+# Trouver la station avec la plus grande capacité par commune
+station_max_capacite = stations_arr.loc[
+    stations_arr.groupby('nom_arrondissement_communes')['capacity'].idxmax()
+]
+
+# Afficher le résultat
+print("\n=== Station avec la plus grande capacité par commune ===\n")
+for idx, row in station_max_capacite.iterrows():
+    print(f"🏙️ {row['nom_arrondissement_communes']}")
+    print(f"   📍 Station : {row['name']}")
+    print(f"   🚲 Capacité : {int(row['capacity'])} places")
+    print()`;
 
 
 // ── DONNÉES DES PROJETS ──────────────────────────────────────
@@ -96,20 +230,21 @@ var PROJECTS = {
   },
 
   cinema: {
-    icon: "📊",
-    badge: "Statistiques",
-    badgeClass: "badge-stat",
+    icon: "📚",
+    badge: "Bibliométrie, API",
+    badgeClass: "badge-api",
     title: "Analyse bibliométrique d’un laboratoire de recherche à partir de données ouvertes",
     image: null,
-    desc: "Analyse statistique des facteurs influençant les recettes au box-office et les notes des films. Régressions linéaires multiples, tests d'hypothèses et visualisation des résultats sous RStudio. Rapport rédigé en anglais.",
+    desc: "Dans le cadre d'une SAE, avec mes collègues, nous avons mené une analyse bibliométrique complète du laboratoire de recherche LIAS (Université de Poitiers), portant sur 19 chercheurs permanents des équipes IDD et SETR sur la période 2021–2025. L'objectif stratégique était d'aider la direction à évaluer la pertinence d'une fusion des deux équipes, en identifiant les chercheurs clés, les membres peu actifs et les dynamiques de collaboration. Le projet a abouti à une application web interactive permettant de simuler des scénarios de marginalisation et de transfert de chercheurs.",
     objectifs: [
-      "Mettre en oeuvre des régressions linéaires simples et multiples",
-      "Tester la significativité des variables explicatives",
-      "Produire des visualisations lisibles et interprétables",
-      "Rédiger un rapport d'analyse en anglais"
+      "Collecter et fiabiliser des données bibliographiques via des API ouvertes (DBLP, theses.fr)",
+      "Calculer des indicateurs de volume, qualité et collaboration (rangs CORE, quartiles Scimago)",
+      "Identifier les chercheurs clés et les risques de dépendance au sein de chaque équipe",
+      "RDévelopper une API REST et un dashboard interactif pour la simulation de scénarios",
+      "Formuler des recommandations stratégiques argumentées sur la fusion IDD + SETR"
     ],
-    skills: ["Régression linéaire", "Tests d'hypothèses", "Visualisation statistique", "Rédaction anglais"],
-    tools: ["RStudio", "ggplot2", "dplyr", "R Markdown"],
+    skills: ["Collecte de données", "Nettoyage et fiabilisation de données", "Calcul d'indicateurs statistiques", "Conteneurisation", "Analyse stratégique et data storytelling"],
+    tools: ["Python", "FastAPI,", "Streamlit", "Docker"],
     code: null,
     rapport: "assets/reports/Rapport_Docker.pdf",
     link: null
